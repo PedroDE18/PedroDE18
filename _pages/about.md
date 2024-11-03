@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+Este é meu conjunto de anotações tomadas durante os 6 anos da Faculdade de Medicina!
 
-Feel free to tell the world about what you love! 😍
+#TODO Link: Sobre MIM
