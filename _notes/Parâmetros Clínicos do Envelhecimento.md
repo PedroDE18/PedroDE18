@@ -1,0 +1,134 @@
+2023-11-20 16:29
+Status: #🌱 
+Tags: [[Geriatria]]
+<br/>
+- Anamnese
+	- Menos informações sobre a doença
+		- Doença considerada consequência natural do envelhecimento
+		- Paciente intimidado pelo médico (geralmente velocidade)
+		- Paciente evita a consequência (exames, medicamentos, etc.) de informar seus sintomas
+		- Medo de grandes gastos caso doente
+	- Apresentações Atípicas
+		- Limiar aumentado para a dor
+		- Restrição de atividades físicas
+	- História extensa, queixas mal caracterizadas
+		- Interação de múltiplas doenças
+	- Apresentações próprias
+		- Ex.:
+			- [[Diabetes Mellitus (DM)]] --> [[Coma Hiperosmolar]]
+			- [[Tireotoxicose]] --> [[Hipertireoidismo Apatético]]
+			- [[Hipotireoidismo]] --> [[Demência]]
+			- [[Transtorno Depressivo Maior (TDM)]] --> [[Pseudodemência]]
+	- Apresentações Inespecíficas
+		- Inapetência
+		- Confusão Mental
+		- Queda
+		- [[Incontinência Urinária]]
+	- Barreiras de Comunicação
+		- Linguagem
+		- Déficits sensoriais
+		- [[Deficiência Cognitiva]]
+- Composição Corporal
+	- Aumento da massa gordurosa: 14 -> 30%
+	- Diminuição da massa magra/muscular: 19 -> 12%
+		- Diminuição no tamanho e nº de fibras (especialmente IIB)
+	- Manutenção da massa óssea: 6 -> 5%
+	- Redução na água intracelular: 41 -> 33%
+	- Manutenção da água extracelular: 20%
+- Estatura
+	- Perda de ~1 cm (+- 0,2) por década após os 40a
+		- Desidratação dos [[Discos Vertebrais]]
+		- [[Hipercifose]] (principalmente torácica)
+	- Logo, mudança do [[Índice de Massa Corpórea (IMC)|IMC]]
+		- [[Eutrofia]] (OPAS): 23-28 Kg/m^2
+		- [[Obesidade]]: >30 Kg/m^2
+- Postura
+	- Cabeça deslocada para a frente
+	- Diminuição da lordose lombar
+	- Ombros projetam-se para frente
+	- Alt. do eixo gravitacional --> aumento do risco de queda
+- Marcha
+	- Aumento da flexão dos [[Cotovelo|cotovelos]], cintura e [[Quadril|quadril]]
+	- Diminuição do balanço dos [[Braços|braços]], do levantamento dos [[Pés|pés]]
+	- Diminuição no comprimento dos passos
+- Temperatura
+	- Mais baixa
+	- [[Febre]] no idoso: Elevação persistente > ou = 1,1ºC sobre temperatura basal
+- [[Olho|Olhos]]
+	- _[[Areus senilis]]_
+	- Redução da secreção lacrimal
+	- Distúrbios visuais frequentes
+	- [[Presbiopia]]
+	- [[Cataratas]]
+	- [[Glaucomas|Glaucoma]]
+	- [[Degeneração Macular Senil]]
+- Audição
+	- [[Presbiacusia]] --> Diminuição simétrica, inicialmente às altas frequências
+	- Impactação de cerúmen
+- [[Pele]]
+	- Menor elasticidade, turgor, espessura, secreção sebácea e sudorípara
+	- Dificuldade para avaliar o estado de hidratação
+	- [[Púrpura Senil]]
+	- [[Xerodermia]]
+	- Infecções fúngicas em regiões de dobra
+- [[Cavidade Oral]]
+	- [[Edentulismo]]
+	- Comprometimento da mastigação
+		- [[Perda Ponderal]] involuntária
+	- Saliva --> [[Xerostomia]]
+		- Geralmente secundária à medicamentos
+			- [[Antidepressores]]
+			- [[Anti-Hipertensivos]]
+		- Favorece [[Candidíase]] e [[Quelite Angular]]
+- [[Orofaringe]]
+	- Predisposição à [[Disfagia]]
+		- Principalmente por doenças neurológicas
+			- [[Doença de Parkinson]]
+			- [[Doença de Alzheimer (DA)]]
+		- Lentificação da elevação da [[Laringe]]
+	- Aumento do risco de [[Aspiração de Corpo Estranho|Aspiração]]
+- [[Esôfago]]
+	- [[Presbiesôfago]]
+		- Menor amplitude de contrações
+		- Maior número de contrações não peristálticas
+		- Relaxamento incompleto do [[Esfíncter Esofágico Inferior (EEI)|EEI]]
+		- Retardo do relaxamento do [[Esfíncter Esofágico Inferior (EEI)|EEI]]
+- [[Estômago]]
+	- Aumento do tempo de esvaziamento gástrico (principalmente para líquidos)
+	- Menor concentração de muco gástrico
+		- Menos BIC e [[Prostaglandinas|PGs]]
+			- Maior susceptibilidade à formação de [[Doença Ulcerosa Péptica (DUP)|úlceras]]
+- [[Intestino Grosso|Cólon]]
+	- Menor número de neurônios no [[Plexo Mioentérico]]
+		- Menor relaxamento da parede
+			- Aumento da pressão intraluminal
+				- [[Doença Diverticular do Colo]]
+	- Aumento da prevalência de [[Constipação]], [[Neoplasia Colorretal|neoplasias]]
+- Envelhecimento Osteoarticular
+	- [[Osteoartrose]]
+	- Formação de [[Osteófitos]]
+	- [[Osteoporose]]
+- [[Pulmões]]
+	- Menor elasticidade
+	- Redução em 50% da força inspiratória e expiratória máxima
+		- Aumento do [[Volume Residual]]
+		- Menor eficácia da [[Tosse]]
+	- Redução da paO2 em ~0,4 mmHg/ano
+	- Menor clearance mucociliar
+	- Menor murmúrio vesicular
+- [[Coração]]
+	- Bulhas hipofonéticas
+	- [[Quarta Bulha|B4]], [[Estalido Protossistólico]] e/ou sopro ejetivo em FAo, sopro sistólico regurgitativo no FM
+		- Podem aparecer sem significar disfunção
+	- [[Terceira Bulha|B3]] sempre é patológica
+- [[Pressão Arterial (PA)]]
+	- [[Pseudo-Hipertensão Arterial]] --> Aumento da rigidez da parede vascular
+	- [[Hiato Auscultatório]]
+	- [[Hipertensão do Avental Branco]]
+	- Hipertensão mascarada
+	- [[Hipotensão Ortostática]]
+____
+# Referências
+---
+# Perguntas
+

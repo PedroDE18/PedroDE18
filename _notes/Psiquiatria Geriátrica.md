@@ -1,0 +1,195 @@
+2023-03-26 19:53
+Status: #🌱   
+Tags: [[Psiquiatria]], [[Geriatria]], [[Neurologia]]
+<br/>
+- Destinada a idosos
+- 30M de idosos no Brasil em 2020
+	- Esperados 25% da população em 2060
+- Critério Cronológico
+	- OMS
+	- 60-65
+	- 80 = Muito Idoso
+- Critério Funcional
+	- Quando é necessário apoio para cumprir as demanda que a vida em sociedade exige
+- População Especial
+	- Mudanças corporais
+	- Perdas
+	- Mudança do contexto social
+		- Aposentadoria, mudança de papel
+	- Redução da expectativa de vida (pessoal)
+	- Declínio das capacidades (físicas e mentais)
+	- Redução do funcionamento dos órgãos do sentido
+	- Maior incidência de doença e incapacidade
+- Conceitos do Envelhecimento
+	- Senescência
+		- Envelhecimento normal ([[Eugeria]])
+	- Senilidade
+		- Envelhecimento patológico ([[Patogeria]])
+	- Fragilidade
+		- O meio é perigoso
+	- Funcionalidade
+		- Independência x Dependência
+	- Autonomia
+- Epidemiologia
+	- [[Transtornos do Humor]] - 11%
+		- [[Transtorno Depressivo Maior (TDM)]] - 9,4%
+		- [[Transtorno Afetivo Bipolar (TAB)]] - 1,7%
+	- [[Transtornos de Ansiedade]] - 19,9%
+## Peculiaridades
+- T. típicos da faixa etária (t. cognitivos)
+- Apresentação diferente dos transtornos psiquiátricos do adulto
+- Alterações mentais frequentemente ligadas a causas orgânicas ([[Transtorno Mental Orgânico (TMO)]], [[Delirium]])
+- Diferenças na Farmacologia
+	- Alterações farmacocinéticas e dinâmicas
+	- _Start Slow, Go Slow, Keep Going_
+- Piores Respostas farmacológicas
+	- Efeitos colaterais mais frequentes
+- Frequentes interações medicamentosas
+	- Polifarmácia
+## Anamnese
+- ID
+- Queixa
+	- Tr. mental ou de cognição
+- HMA
+	- Comparação com vida adulta
+	- Status cognitivo e funcional
+- ISDA
+	- Hidratação
+	- Disfagia
+	- Quedas, tonturas
+	- Dores Crônicas
+- AP
+	- Transtornos diagnosticados e tratados
+- EF e Neurológico
+## Depressão no Idoso
+- Pode estar relacionada a doenças clínicas ou fatores relacionados a resiliência
+- Saúde neurológica e Cardiovascular
+	- Pensar em [[Microangiopatia]]
+- Associada ao estilo de vida
+- Inflamação crônica associada à depressão
+- Redução da atividade da NOR
+- Redução da atividade da 5-HT nos núcleos da Rafe
+- Aumento do tônus inflamatório e disfunção mitocondrial
+- Sintomas
+	- [[Anergia]], desânimo, lentificação
+	- Apatia
+	- Falta de apetite e [[Insônia]]
+	- Depressão somática
+		- Estreitamento do campo vivencial
+		- Ideias hipocondríacas
+	- Pode ser própria de transtorno cognitivo
+- Quadros especiais
+	- [[Delírio de Ruína]]
+		- Delírio de empobrecimento
+		- Culpa exagerada
+	- [[Síndrome de Cotard]]
+		- Delírio de negação dos órgãos
+	- [[Pseudodemência]]
+		- Simula um transtorno neurocognitivo
+## TAB em Idosos
+- Ciclicidade e hiperativação
+- Diversas fases e subtipos
+- Irritabilidade mais comum que expansividade
+- Tto similar ao do adulto
+## [[Transtornos Psicóticos]]
+- Delírios
+	- Ideia irredutível
+	- [[Anti-Psicóticos]]
+- Alucinações
+	- Sensitivas
+- Investigação dos 6 Ds
+	- [[Delirium]]
+	- Drogas, Álcool e Medicamentos
+		- [[Transtornos por uso de Substâncias]]
+	- Doenças
+	- Depressão ou TAB
+	- [[Demência]]
+	- T. Delirantes ou do Espectro da Esquizofrenia
+		- [[Transtornos Psicóticos]]
+- Evolução dá "Dicas" sobre o tipo do transtorno
+	- Tto antipsicótico com doses menores
+- [[Esquizofrenia]] de início tardio
+	- "Quebra" sem recuperação
+		- Sintomas negativos
+- Parafrenia Tardia
+	- Retorno ao norma mas necessidade de uso de medicamentos ([[Anti-Psicóticos]])
+- [[Transtorno Delirante Persistente]]
+	- Não remite completamente
+	- Crítica preservada mas afeto afetado
+## [[Delirium]]
+- Perturbação da atenção e consciência
+- Período breve de tempo
+- Perturbações da cognição
+- Perturbações não explicadas por t. neurocognitivos
+- Relação com condição orgânica
+	- [[Anemia]]
+	- [[Desidratação]]
+	- [[Síndrome Hipoglicêmica]]
+	- Distúrbios Hidroeletrolíticos
+	- Pós-cirúrgico
+	- Sangramentos
+	- Drogas de Abuso
+	- [[Hiperamonemia]]
+	- Desnutrição (pp. após trauma)
+	- Abstinência
+## [[Transtornos de Ansiedade]]
+- [[Transtorno de Pânico]]
+- [[Fobia Específica]]
+- T. de Ansiedade Social
+- [[Transtorno de Ansiedade Generalizada (TAG)]]
+	- Principal
+- Preocupações diárias com complicações e sofrimento, queda na qualidade de vida
+- Tratamento
+	- [[Antidepressores]]
+	- Pregabalina ou Gabapentina
+	- Psicoterapia Cognitiva Comportamental
+## Avaliação Cognitiva
+- Diferentes espectros
+	- Queixa cognitiva, comprometimento leve, demência
+- Testes Cognitivos Objetivos
+	- [[Mini-Mental]]
+	- [[Mooca]]
+- Testes de Funcionalidade
+	- [[Escala de Pfeffer]]
+- Todo idoso deve ser acompanhado no sentido cognitivo e funcional
+- Avaliação
+	- Anamnese
+	- Av. cognitiva
+	- Neuroimagem
+- Tipos
+	- [[Doença de Alzheimer (DA)]]
+	- [[Demência Vascular]]
+	- [[Demência Fronto-Temporal]]
+		- Variante comportamental
+	- [[Afasia Progressiva 1ª]]
+	- [[Hidrocefalia de Pressão Normal]]
+	- [[Alfasinucleinopatias]]
+		- [[Doença de Lewy]]
+			- Evolução Rápida
+		- [[Doença de Parkinson]]
+			- Evolução lenta
+	- Reversíveis
+		- B12
+		- [[HIV-AIDS]]
+		- Distúrbios da Tireoide
+		- [[Sífilis]]
+	- Priônicas
+	- Metabólicas
+- Tratamento
+	- Medidas gerais de proteção e apoio
+	- Informação familiar
+	- DA, DV, Lewy
+		- [[Anticolinesterásicos]]
+			- Rivastigmina
+		- Memantina
+		- TTo não muda prognóstico, desacelera evolução
+	- [[Demência Fronto-Temporal]]
+		- Piora com tratamento para DA, DV ou Lewy
+		- Usar [[Antidepressores]]
+	- Reversíveis
+		- Correção da doença de base
+	- [[Hidrocefalia de Pressão Normal]]
+		- Derivação Neurocirúrgica
+____
+# Referências
+
