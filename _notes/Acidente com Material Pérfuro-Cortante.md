@@ -1,0 +1,71 @@
+Status: #Flor 
+
+---
+# Compass
+- De onde vem?
+	- [[Infecções Ligadas à Assistência à Saúde]]
+- O que é similar?
+- O que é antagônico?
+- Ao que leva?
+	- [[HIV-AIDS]]
+	- [[Hepatite B]]
+	- [[Hepatite C]]
+	- [[HTLV]]
+
+----
+# Pergunta
+- Quais as principais preocupações acerca de Acidentes com PCs?
+	- Prevenção
+		- Precaução em procedimentos
+			- EPIs
+		- Não utilizar dedos como anteparo durante realização de procedimentos
+		- Não re-encapar agulhas
+		- Uso adequado de caixas de PCs
+		- Esquema completo de vacina contra HepB
+	- Micro-Organismos de Risco
+		- [[Vírus da Hepatite B (HBV)]]
+		- [[Vírus da Hepatite C (HCV)]]
+		- [[HIV-AIDS]]
+		- [[HTLV]]
+		- [[Dengue]]
+		- [[Febre Amarela]]
+		- [[Vírus Varicela-Zooster]]
+		- [[Vírus Marbourg]]
+	- Risco de Infecção
+		- Tipo de Material
+			- Risco
+				- Sangue e outros materiais contendo sangue
+				- Sêmen
+				- Líquidos vaginais
+				- Líquidos de serosa
+			- Sem Risco
+				- Suor
+				- Lágrima
+				- Urina
+				- Vômito
+				- Saliva
+				- Todos estes, desde que sem sangue
+		- Tipo de Exposição
+			- Risco
+				- Percutânea
+				- Mucosa
+				- Contato com pele não-íntegra
+				- Mordedura
+			- Sem Risco
+				- Contato com pele íntegra
+		- Tipo de Acidente
+			- Tamanho e gravidade da lesão
+			- Presença e volume de sangue envolvido
+			- Condições clínicas do paciente fonte
+			- Seguimento adequado pós-exposição
+	- Prevenção Específica
+		- HIV
+			- PEP (em até 72h) por 28d
+				- Homens --> TDF/3TC/DTG
+				- Mulheres --> Dependente do estado gestacional
+		- HepB
+			- Avaliar condição vacinal
+			- IgHAHB (DU ou 2x, se vacinado com 2 doses sem soroconversão) + Vacinação (se <10 UI/mL de HBsAg)
+		- HepC
+			- Sem prevenção
+	- Notificação Compulsória

@@ -1,0 +1,188 @@
+2024-06-08 18:45
+Status: #🌱 
+Tags: [[Reumatologia]]
+<br/>
+- Doença sistêmica do tecido conjuntivo / [[Colagenoses|Colagenose]] / [[Doenças Reumáticas Imunomediadas (DRIM)]]
+	- Quebra da tolerância imunológica de causa desconhecida
+- Mais comum das artrites inflamatórias do adulto
+	- 0.5 a 2% de prevalência
+	- 3 mulheres para cada homem
+	- Início aos 30-50a
+- 50% incapacitados para o trabalho após 10 anos de evolução
+## QC
+- Período prodrômico (de 1, 2 anos)
+	- [[Artralgia]]
+	- Dor ao aperto de mãos
+	- Dormência de extremidades
+	- Sensação de inchaço
+	- [[Febre]]
+	- [[Adinamia]]
+	- [[Astenia]]
+	- [[Anorexia]]
+	- [[Perda Ponderal]]
+- Sinais Sugestivos
+	- Rigidez matinal prolongada (>1h)
+	- [[Artrite Cística]] (Borrachóide)
+	- Artrite de grandes e pequenas articulações
+	- Artrite simétrica e aditiva
+- [[Serosite]]
+	- Principalmente [[Sinovite]] / [[Artrite]] persistente
+	- Também
+		- [[Pericardite]], pulmões, peles, olhos, vasos, s. nervoso
+- Evolução prolongada com potencial variável para deformidades
+- Associada a multimorbidades --> Redução da expectativa de vida
+- Comprometimento Articular / Aparelho Locomotor
+	- [[Dor]], [[Edema]]
+	- [[Tenossinovite]]
+	- Reabsorção óssea
+		- Erosão óssea subcondral
+	- Destruição da cartilagem
+	- Redução da amplitude de movimento
+	- Redução da fenda articular
+	- [[Anquilose]], desalinhamento
+	- [[Rigidez Articular]] Matinal
+	- Articulações Clássicas
+		- 100% Punhos e MCF
+		- 95% IFP
+		- 80% Joelhos e Cotovelos
+		- 60% Tornozelos, tarso e MTF
+		- 40% Ombros e coxofemorais
+		- <10% - ATM, IFD mãos, IFP pés, Coluna cervical, Esternoclaviculares
+- Edema peri-articular
+- Extra Articular
+	- Fadiga
+	- Infecções (até 9x mais comuns)
+	- [[Osteoporose]]
+	- Malignidade (risco de [[Linfoma]] aumentado em 2x)
+	- [[Anemia]] (60%) (nl/nl)
+	- [[Cardiologia|DCV]] --> Risco aumentado em até 2/4x
+		- [[Infarto Agudo do Miocárdio (IAM)]]
+		- [[AVC]]
+	- Perimiocardite e [[Endocardite]]
+	- Pulmões
+		- [[Nodulose Pulmonar]]
+		- [[Pleurite]]
+		- [[Pneumonite Intersticial]]
+	- Oculares
+		- [[Ceratoconjuntivite]]
+		- [[Episclerite]]
+		- [[Uveíte]]
+		- [[Escleromalácia]]
+	- SN
+		- [[Neuropatia Periférica]]
+		- [[Amiloidose]] --> Via final da doença (acúmulo de imunocomplexos)
+	- Nódulos subcutâneos
+	- Musculoesquelético --> [[Sarcopenia]]
+	- SRE --> [[Hepatoesplenomegalia]], [[Linfadenopatia]]
+- Origem a partir de uma artrite indiferenciada
+	- Predisposição + Fatores ambientais --> Atv. de cels T --> B --> Quebra de tolerância --> Inflamação articular --> Retroalimentação + Destruição articular
+	- Rara remissão definitiva
+- Comprometimento predominante de articulações e pulmões
+- [[HLA-DRB4]] (predisposição), [[HLA-DRB1]] (gravidade)
+- Marcadores
+	- _Cyclic circulated peptide (CCP)_
+	- [[Fator Reumatóide (FR)]]
+- Evolução caracteristicamente cíclica
+- Primeiras e principais deformidades em ~2 anos
+- [[Doença de Still]]
+	- Febre alta e prolongada
+	- Rash cutâneo (cor rosa salmão)
+	- Artrite possivelmente assimétrica
+	- Dor abdominal
+	- Leucocitose / Reação Leucemóide
+	- Ferritina elevada e alteração das provas de função hepática
+	- [[Migrognatia]] se juvenil
+- Variantes
+	- [[Síndrome de Caplan]]
+		- Associado com [[Pneumoconiose]] --> Poluição como possível desencadeante
+	- [[Síndrome de Felty]]
+		- Grave
+		- [[Hiperesplenimo]]
+			- Evolução com [[Pancitopenia]]
+## Anatomopatológico
+- Sinais próprios de inflamação
+	- [[Edema]]
+	- Vasodilatação
+	- Aumento da permeabilidade vascular
+	- Neovasos
+	- Infiltrados inflamatórios
+- [[Granuloma Reumatóide]]
+	- 1ª camada --> LT CD4 H e LB
+	- 2ª camada --> Arranjo em pseudo [[Centros Germinativos]] de ln.
+	- 3ª camada --> Predomínio de plasmócitos, aumento das células dendríticas e aumento dos fibroblastos
+- [[Pannus Reumatóide]]
+	- Hipertrofia e Hiperplasia da mm. sinovial inflamada
+	- Erosão da camada cartilaginosa articular e do osso
+- Aumento da produção de líquido sinovial
+- Citocinas envolvidas: [[IL-1β]], [[TNFα]], [[IL-6]], [[IL-8]], [[PGE]]
+	- 5 moléculas chave --> [[IL-1β]], [[TNFα]], [[IL-6]], [[MMP]], [[Catepsinas]]
+- Possível participação de [[Neuropeptídios]] --> Associação com stress, depressão, etc
+- Etiologia desconhecida
+	- Multifatorial
+		- Susceptibilidade genética
+		- Exposição antigênica repetitiva
+		- Um ou mais antígenos (exógenos e endógenos)
+		- Associação com infecções virais e bacterianas
+			- [[Rubéola]]
+			- [[Chikungunya]]
+			- [[Hepatites Virais]]
+			- _[[Porfiromonas gengivalis]]_ --> produtos citrulinados
+		- Mimetismo molecular ou superantígeno
+## Exames Subsidiários
+- HMG
+	- Anemia nl/nl ou nl/micro
+	- [[Leucocitose]] e [[Plaquetose]]
+- Perfil do Ferro
+	- Aumento do Fe sérico, Aumento da ferritina
+- Provas de Atv infl. --> VHS, PCR --> Critérios classificatórios
+- [[Fator Reumatóide (FR)]] 
+- [[Anticorpos Anticitrulínicos (ACPA)]] (S55-75%, E90-95%)
+- Rx, USG, RMN --> Alt mais precoces
+## Prognóstico
+- Pior
+	- Manifestações sistêmicas
+	- Início súbito
+	- Número elevado de articulações
+	- "Nodulose"
+	- FR e ACPA em títulos altos
+	- Erosões desde o diagnóstico
+	- HLA-DRB1
+## Critério Classificatório - ACR/EULAR 2010
+- Acometimento Articular (0-5)
+- Sorologia (0-3)
+- Duração dos sintomas (0-1)
+- Provas de atv. Inflamatória (0-1)
+- >6 = AR
+- Não devem ser usados para diagnóstico, apenas gradação
+## TTo
+- Não-Farmacológico
+	- Fisioterapia
+	- Terapia Ocupacional
+- Farmacológico
+	- Treat-To-Target
+	- Completamente coberto pelo SUS
+	- Protocolo
+		- Diagnóstico
+			- [[AINEs]] / [[Corticosteróides]]
+				- MMCDs --> D-Penicilamina, [[Metotrexato (MTX)]], [[Cloroquina]] / [[Hidroxicloroquina]], [[Sulfadiazina]], [[Leflunomida]]
+					- 1º Biológico
+						- 2º e 3º Biológicos --> [[Rituximabe]]
+	- Biológicos
+		- [[Inibidores de TNFα]]
+			- [[Infliximabe]]
+			- [[Etanercepte]]
+			- [[Adalimumabe]]
+		- [[Inibidores de Células B]]
+			- [[Rituximabe]]
+		- [[Inibidores de Coestimulação]] 
+			- [[Abatacept]]
+		- [[Inibidores de IL-6]]
+			- [[Tocilizumabe]]
+		- [[Inibidores de JAK]]
+			- [[Tofacitinibe]]
+
+____
+# Referências
+---
+# Perguntas
+
