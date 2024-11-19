@@ -18,7 +18,7 @@ Tags: [[Emergência]], [[Infectologia]], [[Microimunologia]]
 - 5 a 6 dias pós-infecção
 	- Viremia
 	- [[Febre]]
-		- Alta de início súbito
+		- Alta, de início súbito
 		- "Febre quebra-osso"
 	- [[Calafrio]]
 	- Dor Retro-Ocular
@@ -52,18 +52,18 @@ Tags: [[Emergência]], [[Infectologia]], [[Microimunologia]]
 			- Piora do quadro
 			- Predisposição à fenômenos hemorrágicos
 ## Sinais de Alarme
-- Dor Abdominal intensa e contínua
-- Vômitos persistentes
+- [[Dor]] Abdominal intensa e contínua
+- [[Vômito]] persistentes
 - Hepatomegalia dolorosa
 - Derrames cavitários 
 - Sangramentos importantes
-- Hipotensão arterial
-- Hipotensão postural
+- [[Hipotensão]] arterial
+- [[Hipotensão Ortostática]]
 - Diminuição da diurese
 - Letargia / Agitação
 - Pulso rápido e fraco
-- Extremidades frias / cianose
-- Lipotimia
+- Extremidades frias / [[Cianose]]
+- [[Lipotimia]]
 - Diminuição da temperatura corporal e sudorese profusa
 - Aumento repentino do hematócrito
 ## Classificação
@@ -129,10 +129,12 @@ Tags: [[Emergência]], [[Infectologia]], [[Microimunologia]]
 - RT-PCR
 	- Ainda identifica sorotipo
 ## Diagnóstico Diferencial
-- [[Febre Amarela]]
+- [[Arboviroses]]
+	- [[Febre Amarela]]
+	- [[Chikungunya]]
+	- [[Zika]]
+	- [[Oropouche]]
 - [[Malária]]
-- [[Chikungunya]]
-- [[Zika]]
 - [[Leptospirose]]
 - [[Ebola]]
 - [[Influenza]]

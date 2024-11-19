@@ -72,7 +72,7 @@ Tags: [[Nefrologia]]
 	- [[iECA]] + [[BRA]]
 ## [[Glomerulonefrite Pós-Estreptocócica]]
 - Homens de 7 a 10 anos
-- 7 a 21 dias após [[Infecções das Vias Aéreas Superiores (IVAS)]] IVAS ou [[Piodermites]]
+- 7 a 21 dias após [[Infecções das Vias Aéreas Superiores (IVAS)|IVAS]]  ou [[Piodermites]]
 	- Infecção por [[Estreptococos]] grupo A
 - [[Síndrome Nefrítica]]
 - Aumento do ASLO

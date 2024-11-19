@@ -13,7 +13,7 @@ Tags: [[Imunologia]]
 			- [[Neisseria meningiditis|Neisseria]]
 		- [[Enterovírus]]
 		- Protozoários
-	- [[Otite|Otites]], [[Pneumonia]], [[IVAS]], [[Diarréia]]
+	- [[Otite|Otites]], [[Pneumonia]], [[Infecções das Vias Aéreas Superiores (IVAS)|IVAS]], [[Diarréia]]
 ### [[Hipogamaglobulinemia Transitória da Infância]]
 - Redução da IgG sérica
 - Sintomatologia leve
@@ -133,7 +133,7 @@ Tags: [[Imunologia]]
 		- Não é clinicamente aparente ao nascimento
 	- Pouco ganho ponderal
 	- Diarréia persistente
-	- [[IVAS]] recorrentes
+	- [[Infecções das Vias Aéreas Superiores (IVAS)|IVAS]] recorrentes
 - Complicações
 	- Bactérias --> [[Sepse]] por G-, [[BCGite]]
 	- Fungos e Protozoários --> [[Candidíase]], _[[Aspergillus spp.]]_, [[Pneumonia]] por _[[Pneumocystis jirovecii]]_

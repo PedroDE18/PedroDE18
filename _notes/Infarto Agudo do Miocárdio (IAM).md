@@ -39,7 +39,9 @@ Tags: [[Cardiologia]], [[Doença Arterial Coronariana (DAC)]],[[Aterosclerose Co
 			- [[Disfunção Endotelial]]
 			- [[Vasoespasmo]] Coronariano
 			- [[Embolia]] Coronariana
-			- [[Taquiarritmias]] e [[Bradiarritimias]]
+			- [[Arritmia]]
+				- [[Bradiarritimias]]
+				- [[Taquiarritmias Ventriculares]] ou [[Taquiarritmias Supraventriculares]]
 			- [[Anemia]]
 			- [[Insuficiência Pulmonar]]
 			- [[Hipotensão]] e [[Hipertensão]]
@@ -56,7 +58,8 @@ Tags: [[Cardiologia]], [[Doença Arterial Coronariana (DAC)]],[[Aterosclerose Co
 		- Transmural x Não-Transmural
 	- Eletrocardiográfica
 		- Com onda Q x sem onda Q
-			- A presença de onda Q patológica (em derivações que não aVR) indica área eletricamente inativa (AEI), assim, pior prognóstico (maior área afetada); também pode indicar infarto antigo
+			- A presença de onda Q patológica (em derivações que não aVR) indica área eletricamente inativa (AEI), assim, pior prognóstico (maior área afetada) 
+				- Também pode indicar infarto antigo
 		- Com supra x sem supra desnivelamento de segmento ST
 			- Supra --> Indicativo de oclusão completa, maior área acometida (Corrente de lesão)
 			- Sem supra --> Provável obstrução parcial, menor área atingida
@@ -71,6 +74,10 @@ Tags: [[Cardiologia]], [[Doença Arterial Coronariana (DAC)]],[[Aterosclerose Co
 		- Parede Posterior --> Alt Elétrica em V7-8 e infra de ST na parede ant
 			- Coronária --> Cx ou CD
 ## TTo Geral Inicial
+- MOV
+	- Monitorização (ECG e SatO2)
+	- Oxigenoterapia
+	- Veia (assegurar 2 acessos venosos periféricos calibrosos)
 - MONABCHE
 	- [[Morfina]] e [[BDZ]] para dor e ansiedade
 		- 2-4 mg de Morfina a cada 5-10min até analgesia adequada
@@ -78,12 +85,12 @@ Tags: [[Cardiologia]], [[Doença Arterial Coronariana (DAC)]],[[Aterosclerose Co
 	- [[Oxigenoterapia]] - 1-3 L/min quando satO2 <92%
 	- [[Nitroglicerina]] IV ou SL
 	- [[AAS]] 200mg mastigável
-	- [[Betabloqueadores]] se fC >100 bpm
+	- [[Betabloqueadores]] ([[Metoprolol]]) se fC >100 bpm
 	- [[Anti-Agregante Plaquetário]] - [[Clopidogrel]] (300-600), [[Prasugrel]], [[Ticagrelor]]
 	- [[Anticoagulantes]] - [[Heparina]] 
 - Início de [[Estatinas]] na maior dose tolerável
 	- Efeitos pleiotrópicos --> Anti-inflamatório
-- Início de [[iECA]] após estabilidade pressórica --> Evitam remodelamento ventricular
+- Início de [[iECA]] / [[BRA]] após estabilidade pressórica --> Evitam remodelamento ventricular
 	- Diminuem em ~40% a chance do paciente desenvolver IC
 - Paciente mantidos em uso de AAS e Ticagrelor pelo resto da vida
 

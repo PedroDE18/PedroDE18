@@ -208,7 +208,7 @@ Tags: [[Otorrinolaringologia (ORL)]]
 - [[Otorréia]] persistente, possivelmente contínua
 	- Acentuada em episódios de [[Infecções das Vias Aéreas Superiores (IVAS)|IVAS]] 
 - Perfuração mais ampla
-- Mucosa da OM inflamada, erosões ossiculares mais frequentes
+- Mucosa da OM inflamada, erosões ossiculares mais frequentes 
 - _[[Pseudomonas aeruginosa]]_
 - Audiometria
 	- Perda auditiva costuma ser grande

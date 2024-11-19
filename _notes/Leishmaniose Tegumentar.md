@@ -1,6 +1,6 @@
 2023-03-20 20:01
 Status: #🌱 
-Tags: [[Dermatologia]], [[Parasitologia]]
+Tags: [[Dermatologia]], [[Parasitologia]], [[Infectologia]]
 <br/>
 - Infecção crônica não transmissível
 - [[Zoonose]]
@@ -55,18 +55,52 @@ Tags: [[Dermatologia]], [[Parasitologia]]
 >5. [[Tuberculose Cutânea]]
 
 ## Diagnóstico
-- Parasitológicos (biópsia ou esfregaço)
-	- Leisman/Giesa
-	- Granuloma linfo-histio-plasmocitário
-- Cultura
-- Testes imunológicos
-	- Leishmanina
-- Sorológicos (IFI)
-- Exames Moleculares
+- Clínico
+	- Polimorfismo do QC --> Epidemiologia 
+- Laboratorial
+	- Parasitológicos (biópsia ou esfregaço)
+		- Leisman/Giesa
+		- Granuloma linfo-histio-plasmocitário
+	- Histopatológico
+		- Dermatite Granulomatosa Difusa Ulcerada
+	- Cultura
+	- Testes imunológicos
+		- Leishmanina (IDRM)
+	- Sorológicos (IFI)
+	- Exames Moleculares (qPCR)
+### DD
+- Forma Cutânea Localizada
+	- [[Tuberculose]]
+	- [[Micobactérias Não Tuberculosas (MNT)|Micobacteriose Atípica]]
+	- [[Paracoccidioidomicose]] Cutânea
+	- [[Úlcera de Estase]]
+	- [[Úlcera|Úlceras]] decorrentes de [[Anemia Falciforme]]
+- Forma Cutânea Disseminada
+	- [[Criptococose]] cutânea
+- Forma Cutânea Difusa
+	- [[Hanseníase]] virchowiana
+- Mucosa
+	- [[Paracoccidioidomicose]]
+	- [[Carcinoma Espinocelular (CEC)]]
+	- [[Carcinoma Basocelular (CBC)]]
+	- [[Linfoma]]
+	- [[Sífilis]] 3a
+	- [[Granulomatose de Wegner]]
 ## Tratamento
-- Antimoniais (pentavalente)
-- Isotionato de Pentamidina
+- [[Antimoniais]] (pentavalente)
+	- Antimoniato de Meglumina
+- [[Isotionato de Pentamidina]] (pp. para _[[Leishmania guyanensis]]_)
 - [[Anfotericina B]]
+- [[Miltefosina]]
+### Critérios de Cura
+- Epitelização completa de todas as lesões (~90 dias)
+- Desaparecimento de crosta, descamação, infiltração e eritema (~180 dias)
+## Prevenção
+- Uso de repelentes
+- Evitar a exposição nos horários de atividade do vetor (Crepúsculo e noite)
+- Uso de mosquiteiros de malha fina
+- Manejo ambiental (Limpeza de quintais e terrenos) --> Evitar estabelecimento de criadouros do vetor
+- Destino adequado do lixo orgânico
 ____
 # Referências
 

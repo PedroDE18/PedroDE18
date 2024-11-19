@@ -97,7 +97,7 @@ Tags: [[Cardiologia]], [[Infectologia]], [[Endocardite]]
 	- Diagnóstico etiológico
 - Provas de atv. inflamatória (inespecíficos)
 	- VHS, PCR
-- HMG --> anemia normo/normo, [[Leucocitose]]
+- HMG --> [[Anemia]] normo/normo, [[Leucocitose]]
 - ECG
 	- Comparação sequencial
 	- [[Bloqueio Atrioventricular (BAV)|BAV]] ou [[Bloqueio de Ramo Esquerdo (BRE)|BRE]] agudo --> Abscesso de anel valvar

@@ -105,7 +105,7 @@ Tags: [[Pediatria]], [[Neurologia]], [[Infectologia]]
 		- [[Surdez]]
 - Sem necessidade de isolamento
 - Sem necessidade de profilaxia para contactantes
-- [[IVAS]] virais predispõe a infecção
+- [[Infecções das Vias Aéreas Superiores (IVAS)|IVAS]] virais predispõe a infecção
 ### _[[Haemophilus influenza]]_ Tipo B
 - Cocobacilo G-
 - Capsulados e Não-capsulados
