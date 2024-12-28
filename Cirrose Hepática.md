@@ -1,0 +1,195 @@
+2023-03-19 11:58
+Status: #🌱   
+Tags: [[Gastroenterologia]], [[Hepatologia]]
+<br/>
+- Definição
+	- Afecção crônica do fígado, caracterizada por desorganização da estrutura lobular do parênquima hepático e decorrente de causas variadas
+	- Essencialmente um processo de transformação nodular generalizado
+		- Com Fibrose disseminada
+		- Distorção da arquitetura lobular
+		- Os nódulos formados podem apresentar processo de regeneração ativo
+	- Estágio final de qualquer doença crônica do Fígado
+## Etiologia
+- Infecciosa
+	- [[Hepatites Virais]]
+		- B, C e talvez E
+- [[Obstrução Biliar]]
+	- Cirrose Biliar 2ª
+- Autoimune
+	- [[Colangite Biliar 1ª]]
+	- [[Hepatite Autoimune]]
+	- [[Colangite Esclerosante 1ª]]
+- Drogas
+	- Álcool
+		- [[Etilismo]]
+	- Metrotrexato
+	- Venenos Vegetais
+	- Halotano
+	- Oxifenisatina
+- Metabólica
+	- [[Doença Hepática Gordurosa Não Alcóolica (DHGNA)]]
+	- Erros Metabólitos Congênitos
+		- [[Hemocromatose]] 1ª
+		- [[Doença de Wilson]]
+		- [[Deficiência de Alfa-1-Tripsina]]
+		- [[Galactosemia]]
+		- [[Glicogenose Tipo IV]]
+		- [[Tirosinose]]
+- Desconhecida
+	- Criptogenética
+## Elastografia
+- Avaliação Prognóstica
+	- Prediz o risco de [[Hipertensão Portal (HP)]]
+- HP significativo = 10 mmHg
+	- 21 kPa
+- Perigo de presença de [[Varizes Gastroesofágicas]] em 19 kPa
+## Quadro Clínico
+- [[Ascite]]
+- [[Icterícia]]
+- [[Hemorragias Digestórias Altas (HDA)]]
+	- [[Varizes Gastroesofágicas]]
+- [[Encefalopatia Hepática]]
+- [[Hepatomegalia]]
+- [[Esplenomegalia]]
+- Circulação Colateral
+- Edemas
+- Baqueteamento dos dedos
+- "Spiders" - [[Telangectasia]]
+- Eritema Palmar
+- [[Desnutrição]]
+- [[Ginecomastia]]
+- Perda de Pelos
+- [[Amenorreia]]
+- [[Atrofia Testicular]]
+- [[Contraturas de Dupuytren]]
+	- Na cirrose alcóolica
+	- Fixa, das mãos
+## Complicações
+- [[Ascite]]
+	- [[Hidrotórax]]
+- [[Hipertensão Portal (HP)]]
+	- [[Doença Hemorroidária]] e Varizes Anorretais
+	- [[Varizes Gastroesofágicas]]
+	- [[Gastropatia Hipertensiva]]
+- Fatores de Risco para Sangramento
+	- Gravidade da doença hepática
+		- [[Score de Child-Pugh]] B ou C
+	- Tensão das paredes dos vasos
+	- É proporcional a pressão transmural, diâmetro das varizes e espessura da parede dos vasos
+		- Onde o aumento da tensão significa diminuição da espessura
+- [[Encefalopatia Hepática]]
+- [[Carcinoma Hepatocelular (CHC)]]
+- Infecções
+- [[Síndrome Hepatorrenal (SHR)]]
+- Formação de Colaterais
+	- Em [[Hipertensão Portal (HP)]] clinicamente significativa (>10 mmHg)
+	- Formação aumenta a partir de >12 mmHg
+		- Veias esofagogástricas
+		- Veias retais
+		- Vv. Retroperitoniais
+		- V. Umbilical
+		- Vv. Esplênicas
+- [[Circulação Hiperdinâmica]]
+	- Presente em todas as formas de [[Hipertensão Portal (HP)]]
+	- Mecanismo Inicial
+		- Vasodilatação induzida por substâncias vasodilatadoras (NO) do endotélio vascular
+	- Aumento do volume plasmático
+	- Efeitos em diferentes circulações
+		- Esplâncnica
+			- Aumento do fluxo portal e pressão portal
+			- Formação de sistema porto-colateral
+				- [[Varizes Gastroesofágicas]]
+					- [[Hemorragias Digestórias Altas (HDA)]]
+		- Pulmonar
+			- Menor PO2 arterial
+			- [[Síndrome Hepatopulmonar]]
+				- Doença Hepática + Dilatação Vascular Pulmonar e Arterial + Hipoxemia
+		- Renal
+			- Maior retenção de Sódio e H2O
+			- Aumento da Volemia
+				- [[Ascite]]
+					- [[Síndrome Hepatorrenal (SHR)]]
+		- Cerebral
+			- Edema?
+			- [[Coma]]?
+			- Vasodilatação
+				- Aumento da superfície capilar
+					- Maior difusão de toxinas circulantes p/ SNC
+						- [[Encefalopatia Hepática]]
+		- Sistêmica
+			- Aumento do débito cardíaco
+			- Queda da PA
+			- Menor utilização de O2
+			- [[Insuficiência Cardíaca (IC)]]?
+## Exames Complementares
+- Bioquímica
+	- Transaminases
+	- Bilirrubina
+	- Fosfatase Alcalina
+	- GamaGT
+	- Proteínas Totais e Frações
+	- INR/TAP
+	- Eletroforese de Proteínas
+	- Sorologia de vírus hepatotrópicos
+		- VHB, VHD e VHC
+	- Sorologia de vírus não hepatotrópicos
+	- Perfil do ferro
+		- Ferro, Ferritina, Transferrina
+	- Perfil do Cobre
+		- Cu plasmático, Ceruloplasmina, Cu urinário (24h)
+	- Auto-Anticorpos Hepáticos
+	- Lipidograma
+	- Glicemia
+- Investigação do Líquido Ascítico
+	- Proteínas totais e albumina
+	- DHL
+	- Leucometria
+	- Cultura
+	- GASA
+- Imagem
+	- USG de abdômen
+	- TC de abdômen
+	- RM de abdômen
+	- Rx de Tórax
+- Biópsia Hepática
+	- Padrão ouro
+	- Via percutânea
+		- Cega
+		- Guiada por USG
+	- Via Laparoscópica
+	- Via Transjugular
+## Prognóstico
+- Dependente do estadio na época do diagnóstico
+- [[Score de Child-Pugh]]
+	- Bb Total
+	- Albumina Sérica
+	- TAP/INR
+	- [[Ascite]]
+	- [[Encefalopatia Hepática]]
+	- 5- 6 pontos - Classe A
+		- Compensada
+	- 7- 9 pontos - Classe B
+		- Descompensada
+	- 10 - 15 pontos - Classe C
+		- Descompensada
+		- Pior prognóstico
+	- B é o mínimo internacional para indicação de [[Transplante Hepático]]
+- [[Score de Meld]]
+	- 0-50
+	- Creatinina
+	- Bilirrubina Total
+	- INR
+	- Indica a sobrevida em 3 meses
+		- <10 = 4%
+		- 10-19 = 27%
+		- >40 = 100%
+	- Mínimo de 16 pontos para indicação de [[Transplante Hepático]]
+## Diagnóstico Diferencial
+- [[Ascite]] de outra etiologia
+- Síndrome Ictérica a esclarecer
+- [[Hemorragias Digestórias Altas (HDA)]]
+- [[Hepatoesplenomegalia]] a esclarecer
+- [[Discrasias Sanguíneas]]
+____
+# Referências
+

@@ -1,0 +1,293 @@
+2024-06-09 17:03
+Status: #🌱 
+Tags: [[Reumatologia]]
+<br/>
+- Protótipo das doenças autoimunes
+- Manifestações Sistêmicas
+- [[Auto-Anticorpos Anti-Núcleo]] (logo, inespecíficos) --> Doença inflamatória crônica
+- QC extremamente variado
+- Grande incidência em mulheres jovens (15-45a) (6-10 mulheres para cada homem)
+- Etiologia desconhecida
+- Evolui com períodos intermitentes de atividade e remissão
+- Etiopatogenia multifatorial
+	- Predisposição genética
+		- Maior frequência entre parentes de 1o grau (100x maior que pop geral)
+		- Associação com polimorfismos no [[Sistema Complemento]] --> [[C1q]], [[C4a]], [[C4b]], [[C2]]
+		- Determina diferentes evoluções
+	- Hormonal
+		- Hormônios androgênicos tem ação imunossupressora
+		- Maior incidência em mulheres em idade reprodutiva
+			- Exposição estrogênica
+		- Aumento da Prolactina nas recaídas
+	- Ambiental
+		- Infecções
+			- Mimetismo molecular
+		- Agentes Físicos
+			- Sol
+		- Estresse
+			- Alterações neuroendócrinas
+	- Imunológico
+		- Aumento da proteção e sobrevivência (apoptose retardada) de LT e LB
+		- Perda de tolerância
+## Manifestações Clínicas
+- Qualquer órgão
+- Sintomas constitucionais são muito comuns
+	- [[Febre]]
+	- [[Anorexia]]
+	- [[Perda Ponderal]]
+	- [[Insônia]], Cansaço
+	- [[Mialgia]] / [[Artralgia]]
+- Períodos de atividade e remissão
+- Manifestações Cutâneas
+	- [[Eritema Malar]]
+		- Lesões discoides
+			- Hipercrômicas
+			- Sobrelevadas
+			- Atróficas
+		- [[Alopecia]] definitiva e/ou universal
+	- [[Fotossensibilidade]]
+		- Grande sinal de reativação
+- Mucosas
+	- Úlceras nasais, labiais, nasofaríngeas (por [[Vasculite|vasculites]])
+- Vasculites
+	- Principalmente de pequenos vasos
+- Articular
+	- [[Artralgia]]
+	- [[Artrite]]
+		- Não erosiva
+		- Periférica
+		- Intermitente
+		- Possivelmente migratória
+		- [[Artropatia de Jaccoud]]
+			- 10-30% dos pacientes
+			- Deformidades 2as à frouxidão ligamentar
+				- Redutíveis
+				- "Em pescoço de cisne" --> Mãos e punhos
+- Pulmonares
+	- [[Pleurite]] / [[Derrame Pleural]]
+		- Mais comum
+		- Bilateral / pequeno
+		- Exsudato
+			- Proteínas pouco elevadas
+			- Glicose nl
+			- Complemento reduzido
+			- FAN +
+	- [[Pneumonite]] Aguda ou Crônica
+	- Hemorragia pulmonar
+	- [[Hipertensão Arterial Pulmonar (HAP)]]
+- Cardíacas
+	- 3 camadas afetadas --> [[Pancardite]]
+	- pp. [[Pericardite]]
+		- [[Derrame Pericárdico]]
+		- Risco de [[Tamponamento Cardíaco]]
+	- [[Endocardite de Libman-Sacks]]
+		- Vegetação asséptica
+		- Associada a Acs Anti-Fosfolípide
+		- Pp na valva mitral
+- Hematológicas
+	- [[Anemia Hemolítica]] (ac anti-hemácia)
+	- [[Plaquetopenia]] ([[Síndrome do Anticorpo Anti-Fosfolípide (SAAF)|SAAF]])
+	- [[Leucopenia]] / [[Linfopenia]]
+- Renais
+	- 75% dos pacientes em algum momento tem acometimento renal
+	- [[Síndrome Nefrótica]] ou [[Síndrome Nefrítica]]
+	- Acidose Tubular Renal
+	- [[Glomerulonefrites Secundárias#Lúpus Eritematoso Sistêmico (LES)|Nefrite Lúpica]]
+		- I - Mesangial Mínima
+		- II - Mesangial Proliferativa
+		- III - Focal (a) (c) ou (a/c)
+			- Ativa ou Crônica
+		- IV - Difusa
+			- IV-S --> Segmentar
+			- IV-G --> Global
+			- IV(a), IV(c) ou IV(a/c)
+			- Leva a hematúria glomerular e proteinúria >1g
+		- V - Membranosa
+			- Sd nefrótica
+		- VI - Esclerosante Avançada
+			- >90% dos glomérulos
+			- Exige planejamento de [[Terapia Renal Substitutiva (TRS)]], em especial [[Transplante Renal]]
+- Neuropsiquiátricas
+	- [[Cefaleia Refratária Lúpica]]
+		- Alta intensidade
+		- Sem resposta a analgésicos (mesmo [[Opióides]])
+			- Responde à imunossupressão
+	- Distúrbios cognitivos
+	- [[Convulsão]]
+	- [[Psiquiatria|Psicose]]
+		- Associada ao Ac Anti-P Ribossomal
+	- Ao menos 19 síndromes neuropsiquiátricas estão associadas ao lúpus
+## Auto-Anticorpos
+- [[Fator Anti Núcleo (FAN)]]
+	- O 3o consenso brasileiro mudou para PAAC (pesquisa de auto-anticorpos)
+- Excelente para rastreamento (no paciente sintomático)
+- Positivo em 95% dos pcts com LES
+- Valor preditivo negativo alto
+- Especificidade baixa (depende do padrão)
+- FAN por IFI
+	- Cél HEP-2
+	- Soro do paciente
+	- Ac. de cabra anti-Ig humana marcado com fluorescência
+- Padrões Específicos para LES
+	- Homogêneo
+		- Anti-DNA
+		- Anti-Histona
+	- Pontilhado Grosso
+		- Anti-Sm
+		- Anti-RNP
+### Anti-DNA Nativo (dupla hélice)
+- 70-75%
+- Característico
+- Nefrite Lúpica (pp. IV)
+### Anti-Sm
+- 10-30%
+- Alta especificidade
+- Nefrite Membranosa (V)
+### Anti-RNP (U1 RNP)
+- 30-40%
+- Característico da doença mista do t. conjuntivo
+### Anti-P Ribossomal
+- 10%
+- Psicose
+### Anti-Histona
+- 30-60%
+- LES induzido por drogas
+	- [[Hidralazina]]
+	- [[Penicilamina]]
+### Anti-LA (SSB)
+- 10-15%
+- Pesquisa é essencial antes de engravidar
+- [[Síndrome de Sjögren]]
+- LES neonatal / [[Bloqueio Cardíaco Congênito]]
+- Protetor renal?
+### Anti-RO (SSA)
+- 30%
+- LES Neonatal / BCC
+- LES Cutâneo subagudo 
+- Fotossensibilidade
+- Associação à [[Síndrome de Sjögren]]
+- Possivelmente positivo com FAN -
+### Anti-Fosfolípide
+- Pesquisa é essencial antes da gravidez
+- [[Anticardiolipina (aCL)]]
+- [[Anticoagulante Lúpico (LAC)]]
+- [[Anti-Beta2 Glicoproteína 1 (Ab2gp1)]]
+- Associação a [[Abortamento]] e [[Trombose]] --> [[Síndrome do Anticorpo Anti-Fosfolípide (SAAF)]]
+## Diagnóstico
+- Critério de entrada
+	- FAN + > 1:80 com padrão compatível
+- Critérios Adicionais (10 fecha diagnóstico)
+	- Constitucional
+		- [[Febre]] + 2
+	- Hematológico
+		- [[Leucopenia]] +1
+		- [[Trombocitopenia]] +4
+		- [[Hemólise]] Autoimune +4
+	- Neuropsiquiátrico
+		- Estado Confusional +2
+		- Psicose +3
+		- [[Convulsão]] +5
+	- Mucocutâneo
+		- [[Alopecia]] universal +2
+		- Úlceras orais +2
+		- L. cutâneo subagudo +4
+		- L. cutâneo discóide +4
+		- L cutâneo agudo (com bx) +6
+	- [[Serosite|Serosites]]
+		- Derrame pleural ou pericárdico +5
+		- Pericardite Aguda +5
+	- Musculoperiférico
+		- Comprometimento articular +5
+	- Renal
+		- [[Proteinúria]] >0.5g/24h +4
+		- Nefrite II ou V +8
+		- Nefrite IV ou III +10
+	- Acs Anti-Fosfolípide +2
+	- Complemento
+		- C3 ou C4 baixos +3
+		- C3 E C4 baixos +4
+	- Acs específicos do LES +6
+## Prognóstico
+- Mal prognóstico
+	- Homens
+	- Baixo nível socioeconômico
+	- Atraso no tratamento
+	- Não brancos
+	- Apresentação precoce
+	- Acometimento renal / neurológico / etc.
+- Fatores de morbimortalidade
+	- <5a --> Atv. e terapêutica
+	-  >5a --> Doença cardíaca
+		- Estado pró-inflamatório predispõe à [[Aterosclerose]]
+		- Ligado à terapêutica
+- Sobrevida >90% em 5a
+## Tratamento
+- Geral
+	- Educação do pct e familiares
+	- Apoio psicológico
+	- Atividade física
+		- Repouso na recaída
+	- Dieta
+		- Sem grandes evidências
+		- Vit D + Ca2+
+	- Fotoproteção
+	- Cessação de [[Tabagismo]]
+	- Controle de comorbidades
+	- Vacinação
+- Farmacológico
+	- [[Hidroxicloroquina]] (5mg/kg, até 400mg)
+		- Usar sempre se possível --> Reduz recaídas
+		- Melhora de perfil lipídico
+		- Anti-Agregante Plaquetário
+		- ! Aumento do intervalo QT !
+	- Cutâneo
+		- [[Corticosteróides]] tópicos
+		- Antimaláricos
+		- CE VO em baixa dose
+			- [[Prednisona]] 1-20 mg
+		- [[Talidomida]]
+		- Imunossupressores
+			- [[Metotrexato (MTX)]]
+			- [[Azatioprina]] (2-3 mg/kg/dia)
+	- Articular
+		- [[AINEs]]
+		- CE VO dose baixa / infiltrações intra-articulares
+		- Antimaláricos
+		- MTX
+	- Serosites
+		- AINEs
+		- CE VO dose moderada
+			- Prednisona 20-40 mg
+	- Hematológico
+		- CE dose moderada/alta
+			- 1g/kg
+			- VO ou pulsoterapia
+		- Imunossupressores
+			- [[Azatioprina]]
+			- [[Micofenolato Mofetil]] 2-3 g/dia
+			- [[Ciclofosfamida]] (VO ou pulsoterapia)
+		- Refratários
+			- [[Rituximabe]]
+			- Imunoglobulinas
+			- [[Plasmaférese]]
+			- [[Esplenectomia]]
+	- Renal
+		- De acordo com classificação da nefrite
+		- Indução x manutenção
+		- CE doses altas ou moderadas (VO ou pulsoterapia)
+		- Imunossupressores
+			- AZA, MMF, CCF
+	- Neuropq.
+		- Sem protocolos definidos
+		- CE dose alta à muito alta / pulsoterapia
+		- Imunossupressão (CCF)
+		- Afastar confundidores --> Infecção, distúrbios metabólicos	
+- Biológicos
+	- [[Inibidores de Células B]] --> [[Belilumabe]]
+	- [[Anifrolumabe]]
+
+____
+# Referências
+---
+# Perguntas
+

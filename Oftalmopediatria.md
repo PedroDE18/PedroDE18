@@ -1,0 +1,184 @@
+2023-11-30 21:18
+Status: #🌱 
+Tags: [[Oftalmologia]], [[Pediatria]]
+<br/>
+## [[Erros Refrativos]]
+- Epidemiologia --> Principal causa de cegueira e deficiência visual reversível
+- Emetropização --> Mudança do tamanho dos olhos e poder de refração
+- Intenção de Tratamento
+	- Desenvolvimento Visual
+	- Melhora da [[Acuidade Visual]]
+	- Prevenir e tratar [[Ambliopia]] (Dificuldade no desenvolvimento da visão) 
+- Correção de [[Estrabismo]] acomodativo
+	- Dar conforto visual durante a leitura
+		- Evitar [[Astenopia]]
+	- Preservar e desenvolver a visão binocular
+	- Proteção dos olhos
+		- Física (óculos)
+		- Lentes com filtro azul (Telas)
+### [[Hipermetropia]]
+- Até 3 DO é fisiológico
+	- Crescimento dos olhos corrige
+- Se >3 DO --> Correção com lentes convergentes
+### [[Miopia]]
+- Raramente encontrada na infância --> Mal prognóstico --> Piora com o crescimento dos olhos
+- Ligado à [[Retinopatia da Prematuridade]] e [[Glaucomas|Glaucoma]] congênito, [[Síndrome de Marfan]], [[Esferofacia]], [[Hemocistinúria]]
+- Aumento da incidência recente
+	- Alto uso de telas
+	- Poucas atividades ao ar livre
+- Uso _off-label_ de [[Atropina]] 0,01% ou 0,025% assim como lentes especiais
+	- Impede crescimento ocular e progressão da miopia
+### [[Astigmatismo]]
+- 2 focos --> Distorção da imagem, [[Astenopia]]
+- Normal --> 1 DO até 1a
+- Etio
+	- [[Conjuntivite]] alérgica
+		- O ato de coçar pode danificar a [[Córnea]]
+	- [[Hemangioma]] palpebral e periorbital
+	- [[Calázio|Calázios]] grandes
+	- [[Ptose]]
+- Correção a partir de 2 DO
+### Exames
+- Refração estática sobre [[Ciclopegia]] ([[Ciclopentolato]] 1% + [[Tropicamida]] 1%)
+- Retinoscópio, régua de refração, exame objetivo
+- Refrator com medida de AV
+## [[Cataratas|Catarata]] Congênita
+- Opacificação do [[Cristalino]] que ocorre ao nascimento ou na infância
+	- 0-3m = congênito
+	- 3-1a = precoce
+	- >1a = tardio
+- Causa Ambliopia
+- Etio
+	- Infecção Intrauterina
+		- [[Rubéola]]
+		- [[Citomegalovírus]]
+		- [[Toxoplasmose]]
+	- Hereditária
+	- Traumática
+	- [[Uveíte]]
+	- Radiações
+	- Alt. metabólicas e enzimáticas
+		- [[Erros Inatos do Metabolismo]]
+		- [[Galactosemia]]
+		- [[Hipoparatireoidismo]]
+	- Sindrômica
+		- [[Síndrome de Down]]
+		- [[Síndrome de Patau]]
+		- [[Síndrome de Lowe]]
+	- Medicamentosa
+	- Idiopática
+- QC
+	- BAV
+	- [[Leucocoria]]
+	- Estrabismo
+	- [[Nistagmo]]
+	- [[Fotofobia]]
+	- [[Microftalmia]]
+	- Incapacidade de fixar visão nos objetos
+	- Aproximação de objetos aos olhos
+	- Apatia
+	- Retardo do DNPM
+- Diagnóstico
+	- Teste do Reflexo Vermelho
+	- Exs. Complementares
+		- Sorologias
+		- Teste do Pezinho
+- Investigar
+	- HF
+	- H. Gestacional
+	- Trauma ocular
+	- Radiação
+	- Uso de [[Corticosteróides]]
+	- Inflamações oculares
+- DD
+	- [[Retinoblastoma]]
+	- [[Uveíte]]
+	- [[Persistência Primária de Vítreo Hiperplásico]]
+	- [[Leucoblastoma]]
+	- [[Descolamento de Retina]]
+- TTo
+	- O mais precoce o possível
+		- Evitar a ambliopia
+	- Se pequeno, fora do eixo e AV > 20/70 --> Uso de óculos, tampão e midriáticos
+	- Se densa e no eixo visual --> Facoemulsificação
+## [[Glaucomas|Glaucoma]] Congênito 
+- Alteração no desenvolvimento de drenagem do [[Humor Aquoso]]
+	- Aumento da resistência ao fluxo aquoso e aumento da pressão intraocular
+- Grande causa de [[Principais Causas de Cegueira|cegueira]] infantil
+- Herança autossômica recessiva
+- Classificação
+	- Verdadeiro --> Ao Nascimento
+	- Infantil --> Até 3a
+	- Juvenil
+		- Precoce --> 3-10a
+		- Tardio --> >10a
+- Sinais e Sintomas
+	- Tríade Clássica
+		- [[Epífora]]
+		- [[Fotofobia]]
+		- [[Blefaroespasmo]]
+	- [[Bulftalmo]] (aumento da velocidade do globo ocular)
+	- Aumento da escavação do [[Nervo Óptico]] 
+	- Aumento da PiO
+	- [[Gonioscopia]]
+- DD
+	- OVL
+	- [[Megalocórnea]]
+	- Trauma de parto
+	- [[Ceratite]] viral ([[Herpes]] ou [[Rubéola]])
+	- [[Distrofia Endotelial]]
+- Tratamento
+	- Clínico --> Preparação para a cirurgia
+		- [[Antiglaucomatosos]]
+			- [[Betabloqueadores]]
+			- [[Alfa-Agonistas]]
+	- Cx
+		- Trabelectomia
+## [[Retinoblastoma]]
+- Tumor das células precursoras da retina
+- Mutação no [[RB]] (supressor de tumor)
+- Diagnóstico por volta de 18 meses de vida
+- Classificação
+	- Somático
+	- Germinal
+- Sinais e Sintomas
+	- [[Leucopenia]]
+	- [[Estrabismo]]
+	- Baixa [[Acuidade Visual]]
+	- Pseudo-[[Hipópio]]
+	- [[Hifema]]
+	- [[Heterocromia da Íris]]
+	- [[Glaucomas|Glaucoma]]
+	- [[Hemorragia Vítrea]]
+	- [[Descolamento de Retina]]
+	- Sinais inflamatórios semelhantes à [[Celulite]]
+- Risco de invasão do SNC e órbita, assim como disseminação hematogênica e linfática
+- TTo
+	- Depende do estadio e estado do olho contralateral
+	- Conservador
+		- Laser (Termoterapia transpupilar)
+		- Crioterapia
+		- Braquiterapia
+		- [[Quimioterapia]]
+		- [[Radioterapia]] de feixe externo
+	- Cx
+		- Enucleação --> Casos avançados
+## [[Retinopatia da Prematuridade]]
+- Doença vasoproliferativa da retina periférica exclusiva ao RN pré-termo
+	- Angiogênese estimulada por mudanças na migração celular no ambiente extrauterino
+- fR
+	- Peso <1500/1000g ao nascer
+	- <27 sem IG
+	- [[Oxigenoterapia]]
+- Diagnóstico
+	- Oftalmoscopia indireta sob dilatação (~4 semanas de vida)
+- 80% dos casos com regressão espontânea
+- TTo
+	- Criocoagulação
+	- Fotocoagulação
+	- Vitrectomia posterior
+____
+# Referências
+---
+# Perguntas
+

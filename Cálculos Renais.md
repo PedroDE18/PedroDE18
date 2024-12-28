@@ -1,0 +1,148 @@
+2023-05-29 12:16
+Status: #🌱 
+Tags: [[Urologia]], [[Nefrologia]]
+<br/>
+## Epidemiologia
+- Acomete 10% da População Geral
+- Pode atingir qualquer gênero ou faixa etária
+- Incidência em Ascenção
+	- [[Obesidade]]
+	- Qualidade dos exames de imagem
+	- Erros na dieta
+	- Aquecimento global
+## Patogênese
+- Precipitação de sais na urina
+	- Solutos que são excretados
+		- Cálcio, Oxalato, Fosfato, Ácido Úrico, Cistina, etc.
+		- Suas concentrações são muitas vezes maiores na urina do que no plasma
+	- Citrato age contra a formação de cálculos (pp. de oxalato de cálcio)
+- Teorias
+	- Origem em solução livre intratubular
+	- Origem na placa de Randall
+	- Tampões nos ductos de Bellini da papila renal
+- Sintomas se migrar para a pelve
+	- Cálculo no sistema coletor = [[Nefrolitíase]]
+	- Pode se integrar ao interstício/parênquima = [[Nefrocalcinose]]
+		- [[Hiperparatireoidismo]] 1o
+		- Acidose tubular distal / tipo 1
+		- [[Rim Espongiomedular]]
+		- [[Hiperoxalúria]] 1a
+		- Toxicidade da Vitamina D
+- Tipos
+	- Oxalato de Cálcio
+		- pH baixo
+	- Carbonato de Cálcio ou Apatita
+		- pH alto
+	- Ác. Úrico
+		- pH baixo
+		- Único rádio-transparente
+	- Estruvita
+		- pH alto
+		- Fosfato-amônio-magnésio-cálcio
+		- Relacionado a [[Infecção do Trato Urinário (ITU)]]
+	- Cistina
+		- Doença autossômica recessiva
+- Fatores de Risco
+	- Doenças monogênicas
+		- [[Cistinúria]], [[Hiperoxalúria]] 1a, [[Doença de Dent]]
+	- Doenças sistêmicas
+		- [[Síndrome Metabólica]]
+		- [[Diabetes Mellitus (DM)]]
+		- [[Hipertensão Arterial Sistêmica (HAS)]]
+	- Doenças Gastrointestinais
+		- [[Doença Inflamatória Intestinal (DII)]]
+		- [[Síndrome do Intestino Curto]]
+	- Condições Especiais
+		- [[Nefrocalcinose]]
+		- [[Hiperparatireoidismo]] 1o
+		- [[Rim Espongiomedular]]
+	- [[Infecção do Trato Urinário (ITU)]]
+	- Histórico Familiar
+	- Ocupação Profissional
+	- Anormalidades Anatômicas
+	- IMC Alto
+		- [[Obesidade]]
+- Associação com doenças e eventos cardiovasculares
+	- [[Infarto Agudo do Miocárdio (IAM)]]
+	- Angioplastia / Enxerto
+	- [[AVC]]
+## Quem Investigar?
+- Recorrência elevada
+- Cálculos múltiplos
+- Crianças
+- Cálculos em rim único
+- [[Nefrocalcinose]]
+- Doença gastrointestinal comórbida
+- Obesidade e cirurgia bariátrica
+- Cálculos de cistina ou de ácido úrico
+## Diagnóstico
+- Urina
+	- Sedimento urinário
+	- pH após jejum de 24h
+	- Dosagem de 24h
+		- Volume
+		- Ca2+
+		- Na+
+		- K+
+		- Ácido úrico
+		- Oxalato
+		- Citrato
+		- Creatinina
+		- Uréia
+- Dosagem Sérica
+	- Ca2+, Ácido Úrico, Fósforo, Creatinina, Glicemia, Perfil lipídico, PTH, Vitamina D
+	- Pesquisa de cistina
+	- Análise cristalográfica do cálculo
+		- Espectrometria por IV
+- Img
+	- Rx
+	- UGE
+	- US
+	- TC
+	- Densitometria Mineral Óssea (DMO)
+## Tratamento
+### Clínico
+- Fundamental, principalmente para crianças, casos recidivantes, pedras bilaterais e cálculos grandes
+- Ingesta Hídrica
+	- Meta de volume urinário >2,5 L/dia
+- Medidas dietéticas
+	- Dieta DASH (para hipertensos)
+	- Redução do oxalato
+	- Aumento de frutas e vegetais
+	- Redução do sódio e proteínas
+	- Maior ingesta de cálcio
+- Medicamentoso
+	- Tiazídicos
+		- Diuréticos do TCD (Hipocalciúria)
+- Se o cálculo for de Ácido Úrico
+	- Alcalizar a urina (6,5 a 7) com citrato de potássio
+	- Allopurinol
+	- Febuxostat
+	- Restrição de purinas na dieta
+- Para aumentar o Citrato
+	- Dieta rica em frutas cítricas
+		- 1,2 L de suco de laranja, 2L de limonada
+	- Suplementos
+## Cirúrgico / Endourológico
+- Nem sempre indicado
+	- Depende de tamanho, localização e repercussões (Dor, [[Hematúria]], [[Infecção do Trato Urinário (ITU)]] e [[Insuficiência Renal Aguda (IRA)]])
+- Quase todos os casos de litíase são tratados por endourologia
+	- Cirurgias realizadas com óticas, fibras de luz, vídeo e lasers
+- Técnica
+	- Litotripsia Extracorpórea por ondas de choque
+		- Cálculos Renais Únicos de 7-12 mm
+	- Ureterolitotripsia Semirrígida
+		- Cálculos Ureterais
+	- Ureterolitotripsia Flexível
+		- Cálculos Ureterais altos e intra-renais de 1,5 - 2 cm
+	- Nefrolitotripsia percutânea
+		- Cálculos intra-renais >2 cm
+- Intervenção indicada apenas se:
+	- Dor que não cessa
+	- Grande dilatação à montante
+		- [[Hidronefrose]]
+	- Sinais infecciosos
+	- Tamanho (>7 mm) e posição não permitem resolução espontânea
+____
+# Referências
+

@@ -1,0 +1,198 @@
+2024-06-10 15:27
+Status: #🌱 
+Tags: [[Reumatologia]]
+<br/>
+- Acúmulo de cristais de ácido úrico no conjuntivo
+- Não é autoimune
+- Múltiplas comorbidades
+- Maior incidência em homens (até 7x)
+- Fator ambiental
+	- Dieta
+	- Fármacos (ex.: [[Diuréticos]] Tiazídicos)
+## Patogênese
+- Percursores estrogênicos, dieta rica em purinas (rica em proteínas) --> Hiperprodução do urato
+	- Hipoxantina -XO-> Xantina -XO-> Ácido Úrico
+- Redução da excreção do ácido úrico (menor depuração renal)
+- Resultam em [[Hiperuricemia]]
+	- Cristais de urato
+		- [[IL-1β]], [[IL-6]], [[IL-8]], [[TNFα]]
+			- Fagocitose
+			- Inflamação
+				- Ativação do [[Inflamassomas|Inflamossoma]] --> NLRP3
+					- Quimiotaxia de neutrófilos
+					- Ação da [[Caspase 1]] --> Ativação de [[IL-1β]] --> Grande aumento do p. inflamatório
+- Gota Tofácea
+	- Tofo
+		- Faces extensoras
+		- Depósito de MCU compactado + DNA extracelular
+			- Morte de neutrófilos pós fagocitose / [[Netose]]
+				- Inflamação autolimitada, mesmo na presença continuada do trigger
+				- [[Alodínea]]
+## Classificação
+- Com base na etiologia
+	- 1ª
+		- Etiologia desconhecida
+		- Fatores genéticos
+	- 2ª
+		- [[Doença Renal Crônica (DRC)]]
+- Com base na uricosúria
+	- 90% --> Hipoexcretores
+		- <800 mg na urina 24h
+	- 10% --> Hiperprodutores
+		- >800 mg na urina 24h
+## Hiperuricemia
+- Aumento da síntese de purinas
+	- Defeitos enzimáticos congênitos
+		- Aumento da [[FRPF Sintetase]]
+		- Diminuição da [[HGFRT]]
+- Doenças Hemolíticas
+- Doenças Mieloproliferativas
+- [[Obesidade]]
+- [[Psoríase]]
+- Drogas / Hábitos
+	- [[Tabagismo]]
+	- Dieta rica em purinas
+	- Drogas citotóxicas
+	- [[Etilismo]]
+		- Em especial a cerveja
+	- [[Warfarina]]
+	- [[Vitamina B12]]
+- Defeitos da Depuração
+	- [[Acidose Lática]]
+	- [[Cetoacidose Diabética (CAD)]]
+	- [[Diabetes Insipidus (DI)]]
+	- [[Hipoparatireoidismo]]
+	- [[Obesidade]]
+	- [[Doença Renal Crônica (DRC)]]
+- Fármacos
+	- Abuso de [[Laxantes]]
+	- [[Diuréticos]] (pp. Tiazídicos)
+	- [[Ciclosporina A]]
+	- [[Salicilatos]]
+	- [[Etambutol]]
+	- [[Pirazinamida]]
+	- [[Levodopa]]
+	- [[Teofilina]]
+	- [[Didanosina]]
+## QC
+- [[Artrite Gotosa]] Aguda
+	- Crise
+	- Quadro flogístico
+	- Dor lancinante, contínua / [[Alodínea]]
+	- Autolimitada (3-10 dias)
+	- Gg. monoarticular (1º metatarso)
+- Período inter-crises
+	- Assintomático
+	- Manutenção da hiperuricemia
+- A cada crise, pior o prognóstico
+	- Evolução de mono para oligo e poli articular
+		- Pp em MMII (tarso-metatarso, tíbio-társico, joelhos, punhos, mãos, cotovelos)
+- Possível [[Bursite]]
+- Gota Tofácea Crônica
+	- Gg. >10 anos de evolução
+		- Tofos, deformidades
+	- Dor contínua, sem períodos inter-crise
+	- Limitação da amplitude de movimento
+	- Depósitos principalmente em extremidades, hélice e anti-hélice da orelha
+	- Possível síndrome compressiva neuropática --> [[Síndrome do Túnel do Carpo]] ulnar
+	- Risco de fistulização --> [[Osteomielite]]
+- Lesão Renal
+	- Nefropatia Túbulo-Intersticial Crônica por deposição de uratos
+	- Nefropatia aguda por ácido úrico
+	- [[Litíase Renal]]
+## Diagnóstico
+- Hiperuricemia =/= Gota
+- Múltiplos critérios classificatórios --> Clínicos, Laboratoriais e de Imagem
+- Labs
+	- Ác. Úrico Sérico >7 mg/dL em homens e >6.5 mg/dl em mulheres
+	- Ác. Úrico Urinário de 300 a 800 mg / 24 h
+	- HMG, VHS, Glicemia/HbA1c, HDL, TGs, Colesteróis, F. Renal
+	- Líquido Sinovial
+		- 20-100000 células por mm3
+		- PMN
+		- Presença de cristais MUS intracelulares
+			- Forma de agulha
+			- Birrefringência negativa
+		- Cultura + Gram
+- Rx
+	- Lesões em Saca-Bocado
+	- Tofos
+	- Calcificações de partes moles
+	- Rede esp. articular
+	- Múltiplas erosões
+- USG (PD)
+	- Depósito de cristais --> Duplo contorno
+	- [[Derrame Articular]]
+	- [[Sinovite]]
+	- Tofo
+	- Desordem tendínea
+	- Erosão óssea
+- TC convencional
+	- Tofos
+	- Erosões ósseas
+	- Não visualiza diretamente o cristal
+- DECT (Tomo de dupla exposição)
+	- Depósito de cristais
+	- VPN 100%, VPP 75-86%
+- RNM
+	- Derrame articular
+	- Osteomielite
+	- Sinovite
+	- [[Edema]] Ósseo
+	- Erosão Óssea
+	- Av. da cartilagem
+## TTo
+- Hiperuricemia Assintomática
+	- <9 mg/dL --> controle de comorbidades
+	- >9 mg/dl --> Considerar risco CV e se >1000 mg/dia (urinário) --> [[Allopurinol]]
+- Não-Farmacológico
+	- Orientações dietéticas --> DASH e mediterrâneo
+	- Abolir consumo excessivo de álcool e bebidas ricas em frutose
+	- Considerar checklist de causas 2as
+	- Suspensão ou troca de outros fármacos
+		- Ex.: Diurético por Losartana, anlodipino
+- Farmacológico
+	- Crise
+		- Repouso de 24-48h
+		- Crioterapia
+		- Artrocentese diagnóstica / de alívio
+		- Sintomáticos
+			- Analgésicos e Anti-inflamatórios
+				- [[Colchicina]]
+		- Não iniciar hipouricemiantes
+	- Tripé
+		- [[AINEs]]
+			- [[Etoricoxib]]
+			- [[Indometacina]] 50mg 8/8
+			- [[Naproxeno]] 500mg 12/12
+		- [[Corticosteróides]]
+			- IA --> [[Triancinolona]]
+			- VO / IM --> [[Betametasona]]
+			- [[Colchicina]]
+				- Ataque --> 1mg
+				- 1h --> 0.5 mg
+				- 12h --> 0.5 mg
+				- Manutenção --> 1mg dia (profilático)
+	- Profilaxia (treat-to-target --> AU sérico < 6mg/dl )
+		- Colchicina 1mg/dia
+		- AINEs, corticóides em baixas doses
+		- Terapia Redutora / Agentes Hipouricêmicos
+			- Uma vez iniciada, deve ser contínua
+			- Inibidores da Xantina Oxidase (XO) (Uricostáticos)
+				- [[Allopurinol]] (100-900 mg/dia)
+				- [[Febuxostat]]
+			- Uricosúricos
+				- [[Benzobiomarona]]
+				- [[Lezimurad]]
+				- [[Probemicida]]
+				- [[Losartana]]
+				- [[Anlodipino]]
+				- [[Fenofibrato]]
+			- Uricase / Pegloticase (Uricolíticos) --> Peg-Uricase
+				- [[Rasburicase]]
+				- 8 mg/dia via SC ou IV a cada 2 semanas
+____
+# Referências
+---
+# Perguntas
+

@@ -1,0 +1,165 @@
+2023-12-03 11:48
+Status: #🌱 
+Tags: [[Medicina Ocupacional]]
+<br/>
+- Não existem substâncias químicas inócuas
+	- Existem maneiras seguras de utilizá-las
+	- Agente tóxico = Toxicante = Xenobiótico
+		- Estrutura definida e capacidade de produzir efeito tóxico
+- Fatores da Exposição
+	- Tempo
+	- Via de Introdução
+	- Dose / Concentração
+	- Frequência
+- O efeito tóxico depende sempre do hospedeiro
+	- Mediação Imune
+	- Reserva funcional
+	- Atopia
+	- Etc.
+- As leis que determinam doses seguras não levam alergias em consideração
+	- Resposta alérgica não segue curva dose - resposta
+	- Torna o trabalhador inapto a qualquer emprego onde exista esta exposição
+- Curva Dose - Resposta
+	- Dividida em 3 fases
+		- NOAEL --> Doses seguras para a lei estão nesta fase
+		- Faixa de Linearidade
+		- Resposta Máxima
+- Efeito Agudo - ~24h
+- Efeito Crônico - >3 meses
+	- Caracterização anatomopatológica distinta
+		- Acúmulo
+		- Somatória de efeitos
+- Efeitos Reversíveis ou Irreversíveis
+	- Depende do tecido alvo (e sua capacidade de regeneração)
+- Toxicidade - Potencial de uma substância exercer efeito nocivo
+	- Determinada pela DL50 ou CL50
+- Se, à medida de marcadores com significado clínico de exposição à xenobióticos, se encontrar um nível elevado --> Abrir CAT
+- Se houver um aumento de marcadores de exposição significativa, deve-se apenas afastar (7-14d) se não houver quadro clínico (se houver, CAT)
+## Chumbo / [[Saturnismo]]
+- Usos
+	- Fabricação de canos, pratos, jarras, copos
+	- Tintas de cabelo
+	- Baterias
+	- Plásticos
+	- Pisos
+	- Tintas
+	- Azulejos
+	- Cerâmica
+	- Vidros
+	- Funilaria de Automóveis
+- Via de Exposição
+	- Inalatória (Principalmente se aquecido)
+		- Máscaras não protegem contra o fumo metálico
+	- TGI
+	- Não atravessa pele íntegra
+- Fica até 20 anos armazenado nos ossos
+- Diagnóstico - ALA urinário
+- QC
+	- [[Cefaleia]]
+	- [[Astenia]]
+	- Cansaço
+	- [[Paralisia]] motora
+		- pp. de [[Nervo Radial]] --> Punhos caídos
+	- Mudanças de Comportamento
+		- Irritabilidade
+		- Hostilidade
+		- Agressividade
+		- Redução da capacidade de controle racional
+	- Mudanças do estado mental
+		- Apatia
+		- Obtusidade
+		- Hipoexcitabilidade
+		- Perda de memória
+	- Alt. da habilidade psicomotora
+	- Redução da força muscular
+	- [[Dor]] e [[Parestesia]] em membros
+	- [[Disfunção Erétil]]
+	- Redução do Libido
+	- [[Hiporexia]]
+	- [[Epigastralgia]]
+	- Dispepsia
+	- [[Pirose]]
+	- [[Eructação]]
+	- [[Hipotensão]]
+	- [[Orla Gengival de Burton]]
+	- Dor abdominal aguda
+	- [[Edema]]
+	- Redução na função renal
+		- Cólicas Renais
+		- Risco de [[Insuficiência Renal Aguda (IRA)]] ou [[Doença Renal Crônica (DRC)]]
+		- [[Oligúria]] ou [[Anúria]]
+	- [[Dispnéia]]
+	- [[Anemia]] Hipocrômica
+- Agudo
+	- Náusea
+	- Vômitos
+		- Possivelmente de aspecto leitoso
+	- Dores abdominais
+	- Gosto metálico na boca
+	- Fezes escuras
+- TTo
+	- Hidratação
+		- Posterior estímulo da diurese com [[Manitol]]
+	- Quelação com EDTA
+## Mercúrio / [[Hidragismo]]
+- Vias de exposição
+	- Inalatória
+	- TGI
+	- Absorvível pela pele íntegra
+- Hg metálico é usado principalmente no garimpo, mas também em
+	- Produção de cloro e soda cáustica
+	- Fabricação de termômetros, barômetros, eletrônicos
+	- Amalgamas ortodentários
+	- Lâmpadas fluorescentes
+- Hg orgânico tem usos em
+	- Fungicidas
+	- Fumegantes
+	- Inseticidas
+- Ação
+	- Ligação à MAO
+		- Acúmulo de 5-HT endógena e redução do 5-Hidroxindolacético
+- QC
+	- Crônica
+		- [[Gengivite]]
+		- [[Sialorréia]]
+		- Queixas TGI
+		- Gosto metálico
+		- [[Periodontite]]
+		- Sintomas do SNC
+			- Irritabilidade
+			- Tremores
+				- Letra tremida e pequena
+			- [[Parestesia]]
+			- Perda de memória, concentração
+			- Depressão
+			- Alucinações
+			- Paranoia
+- Sem TTo --> Afastar da exposição
+## Benzeno
+- Fonte --> Indústria petroquímica
+- QC
+	- Hipoplasia ou [[Aplasia de Medula]]
+		- [[Pancitopenia]] periférica
+			- [[Trombocitopenia]]
+			- [[Epistaxe]]
+			- [[Menorragia]]
+			- [[Hemorragia Gengival]]
+			- [[Leucopenia]]
+	- Carcinogênico
+		- [[Leucemia]] e [[Linfoma]]
+		- Grupo I IARC
+- Por si só não é tóxico
+	- Produtos de sua biotransformação --> Quebra do anel aromático
+- Intoxicação Aguda
+	- Inalação
+		- Tontura
+		- [[Cefaleia]]
+		- Perda de consciência
+		- Morte por [[Parada Respiratória]]
+- TTo
+	- Das complicações
+____
+# Referências
+---
+# Perguntas
+

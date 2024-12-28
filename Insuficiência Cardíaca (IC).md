@@ -1,0 +1,199 @@
+2024-05-19 16:35
+Status: #🌱 
+Tags: [[Cardiologia]]
+<br/>
+## Insuficiência Cardíaca Crônica
+- Agressão
+	- [[Hipertensão Arterial Sistêmica (HAS)]]
+	- [[Doença Arterial Coronariana (DAC)]]
+	- [[Diabetes Mellitus (DM)]]
+	- [[Doença de Chagas]]
+	- [[Valvopatias]]
+	- [[Parasitologia|Parasitoses]]
+	- [[Endocardite Infecciosa]] (pp. por Enterovírus)
+	- [[Doença Reumática Cardíaca]]
+	- [[Amiloidose]] / [[Sarcoidose]]
+	- [[Hemocromatose]] / [[Doença de Wilson]]
+	- [[Álcool]], [[Tratamento Sistêmico do Câncer|Quimioterapia]] (ex.: [[Trastuzumabe]] = Anti-HER2), Anabolizantes
+	- Leva a redução da função contrátil do Miocárdio
+		- Queda do Débito Cardíaco
+			- Redução da Perfusão Tecidual
+				- Aumento de [[Endotelina-I]] --> Vasoconstrição
+				- Inflamação --> Aumento de [[IL-1β]], [[IL-1]], [[TNFα]] (associados a [[Sarcopenia]])
+				- Expressão e Ativação de [[Oncogenes]] --> Hipertrofia, expansão da matriz intersticial
+					- [[Fatores de Crescimento]] --> [[FGF]], [[TGF-β]], [[PDGF]]
+					- [[Receptores de Fatores de Crescimento]]
+				- Mecanismos Compensatórios --> Ao longo do tempo, contribuem com a lesão
+					- Ativação do [[Sistema Renina Angiotensina Aldosterona (SRAA)]]
+						- Aumento da recaptação de Na+ e H2O
+							- Redução da concentração de K+, aumento de Na+ e volemia
+						- Vasoconstrição (via receptores [[AT1]])
+							- Aumento da pré-carga --> Redução do volume sistólico
+						- Aumento de [[TGF-β]] --> Fibrose Miocárdica
+					- Estímulo do [[Sistema Nervoso Autônomo Simpático (SNAS)|SNAS]]
+						- NOR, EPI --> alfa 1, beta 2
+						- Aumento da [[Frequência Cardíaca]]
+						- Vasoconstrição
+							- Aumento da resistência vascular sistêmica
+								- Aumento da [[Pressão Arterial (PA)]]
+								- Aumento da pós-carga --> Redução do Volume Sistólico
+					- Aumento de [[Vasopressina (ADH)]] 
+						- Vasoconstrição --> Redução do VS
+						- Aumento da volemia
+						- [[Hiponatremia]]
+							- Sinal de IC avançada, sobrevida em 5a de ~20%
+- Sistemas de Controle da Resposta
+	- Aumento da pressão intraventricular / atrial  
+		- Aumento do [[pró-BNP]] --> [[Peptídeos Natriuréticos]]
+			- Antifibrótico
+			- Vasodilatador --> Aumento do VS
+			- Natriurese --> Queda da volemia
+			- Uso clínico para diagnóstico e prognóstico
+				- Quanto maiores os níveis, pior (IC provável se >400, improvável se <50)
+### Sinais e Sintomas
+- [[Dispnéia]]
+	- Classificação NYHA
+		- I - Assintomático
+		- II - Limitação Leve
+		- III - Limitação importante, porém confortável ao repouso
+		- IV - Sintomas no repouso
+- [[Ortopneia]]
+- [[Estertores Pulmonares]]
+- [[Edema]]
+- Limitações ao esforço
+- [[Terceira Bulha]]
+- [[Estase Jugular]]
+- [[Dispnéia Paroxística Noturna]]
+- Desvio do [[Ictus Cordis]]
+- Classificação pela [[Fração de Ejeção]] (FEVE)
+	- FEVE reduzida (<40%)
+	- FEVE levemente reduzida (40-50%)
+	- FEVE nl (>50%)
+	- FEVE melhorada (era reduzida e melhorou ao menos 10 pontos com tto)
+- Classificação pelo perfil hemodinâmico
+	- Esquerda x Direita
+	- Baixo débito x Alto débito
+- Classificação Estrutural (ACC)
+	- A, B, C, D
+### Exames Complementares
+- ECG
+	- Possível [[Sobrecarga de Ventrículo Esquerdo (SVE)]]
+- Ecocardiograma
+- BNP
+- Rx Tórax
+	- 1/3 ICT aumentado
+		- [[Cardiomegalia]]
+	- Ingurgitamento perihilar
+	- Cefalização da trama Vasobrônquica
+	- [[Linha B de Kerley]]
+	- [[Derrame Pleural]]
+- Perfil Lipídico
+- Função Renal
+- Eletrólitos
+- HMG
+- Perfil do Ferro
+- TSH, T4L
+- Função Hepática
+- Glicemia, HbA1c
+- Sorologias
+	- Chagas
+	- [[HIV-AIDS]]
+	- [[Hepatites Virais]]
+### TTo 
+#### FEVE Reduzida
+- [[Betabloqueadores]]
+	- Redução de 30-40% de mortalidade
+	- [[Carvedilol]]
+	- [[Bisoprolol]] --> Melhor para os hipotensos
+	- [[Metoprolol]]
+- [[BRA]] ou [[iECA]] 
+	- Redução de 40% de mortalidade
+	- [[Losartana]]
+	- [[Valsartana]]
+	- [[Captopril]]
+	- [[Enalapril]]
+	- [[Ramipril]]
+- [[Espironolactona]] ou [[Eplerone]] (inibidores da Aldosterona)
+- [[Sacubitril]] 
+	- Interação com iECA --> [[Angioedema]]
+	- Boa resposta em soma com BRA --> [[Entresto]]
+- [[Mononitrato de Isossorbida]] + [[Hidralazina]]
+	- Venodilatador + Dilatador arterial
+- [[iSGLT2]]
+	- [[Empaglifozina]]
+	- [[Dapaglifozina]]
+- [[Diuréticos]] --> Sintomáticos
+	- [[Furosemida]]
+#### FEVE Preservada
+- [[iSGLT2]]
+- [[Espironolactona]]
+#### Dispositivos
+- RC --> [[Marcapasso]]
+- [[Cardiodesfibrilador Intravascular (CDI)]]
+- LVAD
+#### [[Transplante Cardíaco]]
+## Insuficiência Cardíaca Aguda
+- Demanda intervenção imediata
+- Classificada em *de novo* e "Descompensada"
+- Tripé do TTo
+	- Descongestão
+	- Suporte Inotrópico
+	- Vasodilatação
+- [[Escala ADHERE]] de mortalidade
+	- [[Hipotensão]]
+	- BUN
+	- Cr
+### Diagnóstico
+- ECG nl --> Valor preditivo negativo >90%
+	- P = 80 a 110 ms
+	- PRi = 120 a 200 ms
+	- P + em DI, DII, aVF
+	- QRS < 120ms
+	- Eixo QRS = -10º a 100º
+	- Potenciais + nas precordiais direitas e - nas precordiais esquerdas
+- ECG Alterado
+	- [[Bloqueio de Ramo Esquerdo (BRE)]] --> Disfunção Sistólica (prior prognóstico)
+- Rx
+	- Aumento do índice cardiotorácico
+	- Velamento mediastinal
+	- [[Congestão Pulmonar]]
+- ECO
+	- Avaliação da FEVE
+	- Alteração da Geometria cardíaca
+	- Técnica de Teicholz vc Simpson (Coração nl ou alterado)
+### Manejo Clínico
+- Alívio da Congestão
+	- [[Diuréticos]] de alça ([[Furosemida]] 1mg/kg)
+	- Solução salina hipertônica
+	- [[Hemodiálise]]
+- Vasodilatadores
+	- [[Nitroprussiato de Sódio]]
+	- [[Nitroglicerina]]
+	- [[Hidralazina]] / [[Nitratos]] / [[iECA]] / [[BRA]]
+- Suporte Inotrópico
+	- [[Dobutamina]] / [[Milrinone]]
+	- [[Levosimesdan]]
+	- Dispositivos (BIA, ECMO, Coração Artificial)
+- Manejo da Etiologia
+- Classificação quanto a congestão e hipotensão
+	- Quente e Seco --> A
+		- Tto de comorbidades
+		- Ajuste de Tto crônico
+	- Quente e Molhado --> B
+		- Vasodilatação
+		- Diuréticos
+		- TRR
+	- Frio e Molhado --> C
+		- Vasodilatação
+		- Suporte Inotrópico
+		- Drogas Vasoativas
+		- Diuréticos
+		- MCS
+	- Frio e Seco --> L
+		- Reposição de Volume
+		- Suporte Inotrópico
+____
+# Referências
+---
+# Perguntas
+

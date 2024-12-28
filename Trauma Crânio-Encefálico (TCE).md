@@ -1,0 +1,201 @@
+Status: #Flor 
+
+---
+# Compass
+- De onde vem?
+	- [[Neurologia]]
+	- [[Traumatologia]]
+- O que é similar?
+	- [[Trauma Raqui-Medular (TRM)]]
+- O que é antagônico?
+- Ao que leva?
+
+----
+# Generalidades
+## Critério Mínimo de Definição
+- História definida de trauma na cabeça
+- Ferimentos no couro cabeludo ou testa
+- Alteração da consciência, mesmo que mínima
+- Exclusão
+	- Ferimentos de face
+	- Fraturas de mandíbula
+	- Corpo estranho nos olhos, ouvidos, nariz e epistaxe
+## Risco Populacional
+- Idade
+	- Adulto Jovem - 15-24a
+- Sexo
+	- 2 homens para cada mulher
+- Etiologia
+	- Veículos 40-50%
+	- Quedas 30-40%
+	- Agressões 10-20%
+	- Esportes 5-10%
+	- Outros 5-40%
+# Clínica
+
+## Efeitos Imediatos
+### Couro Cabeludo
+- Abrasão / [[Contusão]]
+- [[Hematoma]] subcutâneo
+- Hematoma Subgaleal
+- Hematoma Subperiostal
+- Ferimento corto-contuso
+- Escalpe
+### Crânio
+- Fraturas da Convexidade
+	- Abertas
+	- Fechadas
+		- Linear
+		- Cominutiva
+		- Afundamento
+			- Ping-Pong
+				- "Galho Verde" --> Cortical não se rompe
+- Fraturas da Base --> Muito associadas a lesões de nervos cranianos (I, II, VII, VIII)
+	- Seio Esfenoidal
+	- Forâmen Magno
+	- Petroso do Temporal
+- Eventos Associados
+	- [[Epistaxe]]
+	- [[Otorragia]]
+	- [[Fístula Liquórica]]
+	- [[Pneumoencéfalo]]
+	- Lesão de NC
+	- Infecção secundária
+### Meninges
+- Dura-máter
+	- [[Cisto Leptomeníngeo]] (Crianças)
+- Aracnóide-Máter
+	- Fístula Liquórica
+- Hemorragia Meníngea
+	- Sangue incoágulável no líquor
+### Cérebro
+- Lesão Cerebral Focal --> Golpe / Contra-Golpe
+	- Contusão
+		- Inflamação pós-trauma
+	- Laceração
+		- Fragmentação do tecido
+- Lesão Cerebral Difusa
+	- Concussão Cerebral --> Não causa alteração tecidual (apenas bioelétrica)
+		- Clássica
+		- Suave
+	- [[Lesão Axonal Difusa]] <-- Trauma Rotacional (n. da base + TE)
+		- Suave --> Coma 6-24h
+		- Moderada --> Coma >24h sem sinais de TE
+		- Grave --> Coma >24h com sinais de TE
+			- Alteração do p. respiratório
+			- [[Decerebração]]
+			- Alteração dos mov. oculares 
+## Efeitos Secundários Precoces
+### Intracranianos
+- [[Hematoma Extradural]]
+	- Rotura de Vasos 
+		- Artérias meníngeas (pp. Meningea Média)
+		- Veias Meníngeas
+		- Seios Venosos
+		- Díploe Óssea
+	- Lentiforme / Biconvexo
+	- Evolução com [[Intervalo Lúcido]] --> Efeito Talk-and-Die --> HIC, Herniação, etc.
+- [[Hematoma Subdural]]
+	- Agudo
+		- Desenvolve clínica em até 72h do TCE
+		- Veias cerebrais pontes
+		- Associado à contusão e laceração cerebral
+		- Veias e artérias corticais
+	- Sub-Agudo --> Clínica de 3 a 20d
+	- Crônico
+		- Clínica após 20 dias do TCE
+		- Mais ff.
+			- Idosos
+			- [[Etilismo|Etilistas]]
+			- [[Coagulopatias|Coagulopatas]]
+		- Sangramento de vasos subdurais
+			- Teoria osmótica (Gardner)
+			- Teoria da efusão proteica (Gitlin) 
+		- Ressangramentos periódicos
+			- Redução dos fatores de coagulação
+- [[Higroma Subdural]]
+	- Lesão da Membrana Aracnóide
+	- Coleção de líquor no espaço subdural --> "Aspirado" por efeito osmótico de inflamação
+- [[Hematoma Parenquimatoso]]
+	- Ferimentos penetrantes
+	- Fraturas com afundamento
+	- Trauma acelerativo
+	- [[AVC]]h
+- [[Edema Cerebral]]
+	- Aumento do volume cerebral por aumento do líquido tecidual
+		- Processo físico-metabólico (inflamação)
+		- Tipos
+			- Vasogênico
+				- Destruição da [[Barreira Hematoencefálica]]
+					- Aumento da permeabilidade vascular
+						- Adsorção --> Edema extracelular (pp. na subst. branca)
+			- Citotóxico
+				- Hipóxia --> Falência das bombas --> Edema intracelular (pp. na subst. cinzenta)
+			- Intersticial
+				- Obstrução ao fluxo liquórico --> Dilatação do sistema ventricular e aumento da pressão --> Edema Periventricular
+- [[Swelling Cerebral]]
+	- Aumento do volume cerebral por congestão sanguínea
+		- Redução do fluxo induz anóxia --> edema citotóxico --> necrose
+	- Causado por
+		- Dilatação arterial --> Congestão Ativa
+		- Obstrução venosa --> Congestão Passiva
+### Sistêmicos
+- [[Hipóxia]]
+	- Origem
+		- Pulmonar / Obstrutiva
+		- Neurogênica
+- [[Hipercapnia]] / [[Hipocapnia]]
+- [[Hipotensão]]
+- [[Hipertermia]]
+## Efeitos Secundários Tardios
+- Persistência da [[Hipertensão Intracraniana (HIC)]]
+	- Vasodilatação cerebral
+	- Novas áreas hemorrágicas
+	- Edema Cerebral
+	- [[Hidrocefalia]]
+- Isquemia Cerebral
+	- [[Hipertensão Intracraniana (HIC)]]
+	- [[Hipotensão]]
+	- Perda da regulação do FSC
+	- Vasoespasmo
+	- Edema Cerebral
+	- Hérnias Encefálicas
+	- Hipóxia / Anemia
+	- Epilepsia
+- Infecção Intracraniana
+	- [[Meningite]]
+	- Abscessos
+- Epilepsia
+- Transtornos Hidroeletrolíticos
+	- [[Síndrome Inapropriada do HAD (SIHAD)]]
+- Hemorragia Gastrointestinal
+- Infecção / Hemorragia do TGU
+- Lesão Miocárdica
+# Diagnóstico
+- Classificação de acordo com a [[Escala de Coma de Glasgow (GCS)]]
+	- 13-15 --> Leve
+	- 09-12 --> Moderado
+	- 03-08 --> Grave
+# Tratamento
+- Pré-Hospitalar
+	- ABCDE do trauma
+- Hospitalar
+	- MOV
+	- Sondagem Nasogástrica
+	- Sondagem Vesical
+	- TTo de lesões associadas
+	- Monitorização da PIC
+- Investigação
+	- TC
+	- Rx Crânio
+	- Rx Coluna cervical em perfil
+	- Angiografia cerebral
+- TTo de TCE Leve
+	- Critérios de Admissão Hospitalar
+		- Desorientação ou perda da consciência (mesmo se GSC normal ao momento do exame)
+		- Alteração do exame neurológico
+		- Perda de sangue ou líquor por nariz / ouvidos
+		- Anormalidade no Rx de crânio ou TC
+		- Paciente de difícil abordagem
+		- Ausência de responsável capaz de observação domiciliar
+		- Crianças com náusea e vômitos prolongados

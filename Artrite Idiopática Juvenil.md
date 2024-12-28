@@ -1,0 +1,108 @@
+2024-06-10 14:52
+Status: #🌱 
+Tags: [[Reumatologia]], [[Pediatria]]
+<br/>
+- Artrite em crianças
+	- Se aguda, jamais
+		- Solicitar [[Fator Reumatóide (FR)]] ou [[Fator Anti Núcleo (FAN)]]
+		- Introduzir [[Corticosteróides]]
+		- Minimizar [[Dor]]
+- Artrite Crônica pediátrica
+	- Atenção para [[Tuberculose]] articular
+## AIJ
+- Raros casos familiares
+- Vários desencadeantes psicológicos
+- Doença progressiva e incapacitante
+- Doença inflamatória crônica com acometimento articular e extra-articular
+- Doença reumática mais frequente na faixa pediátrica (<16a)
+- Possivelmente não é uma única doença
+	- Grupo de doenças com expressões clínicas variadas
+- Diagnóstico clínico
+	- Anam
+		- Nº de articulações
+		- Duração da artrite em cada articulação
+		- Presença ou ausência da dor
+		- Horário da dor (Inflamatória x Mecânica)
+		- [[Rigidez Articular]]
+		- Manifestações extra-articulares
+			- [[Febre]]
+			- Olhos
+			- Pleuras
+		- Histórico familiar
+	- EF
+		- Marcha
+		- Aparelho locomotor
+			- Ossos
+			- Ligamentos
+			- Enteses
+			- Músculos
+			- Articulações
+			- Detecção de anormalidades estruturais e funcionais
+	- Critério
+		- <16a (início dos sintomas)
+		- Artrite em ao menos 1 articulação
+		- Duração mínima na articulação de 6 semanas
+		- Classificação
+			- Sistêmico
+			- Oligoartrite (<5 articulações)
+			- Poliarticular (>5 articulações)
+				- FR+
+				- FR-
+			- [[Artrite Psoriásica]]
+			- Artrite relacionada à entesite
+			- Formas diferenciadas (nenhuma ou +) categoria
+- Distribuição
+	- 50% Oligoarticular
+		- Maior risco de [[Uveíte]] anterior crônica
+		- AAN+ em baixo título
+		- Pp. grandes articulações
+	- 30% Poliarticular
+		- + Grave
+		- Rigidez matinal
+		- Dor moderada a intensa
+		- Deformidades precoces
+		- Pior prognóstico se FR positivo
+	- 20% Sistêmico
+		- Pior prognóstico
+		- Febre diária, Rash cutâneo
+		- [[Linfadenomegalia]], [[Hepatoesplenomegalia]], [[Pleurite]], [[Pericardite]]
+		- 2-3% de mortalidade
+	- Relacionada à entesite
+		- Forma pediátrica de [[Espondilite Anquilosante]]
+		- Artrite de mmii
+		- Curso arrastado
+		- [[HLA-B27]]
+		- Risco de Uveíte anterior aguda
+- Complicações
+	- Redução da velocidade de crescimento
+		- Diferença no tamanho dos membros
+	- Redução da massa óssea --> [[Osteopenia]]
+	- Deformidades Osteoarticulares localizadas
+		- [[Anquilose Temporomandibular]]
+		- [[Micrognatia]]
+- Avaliação Subsidiária
+	- HMG --> DD
+	- Provas de Atv. Infl. (VHS, PCR)
+		- Para acompanhamento da eficácia do Tto
+	- Função hepática, renal
+		- Monitorização de efeitos adversos
+	- Auto-Anticorpos
+		- Fatores prognósticos
+		- Fator Reumatóide
+		- Fator Anti Núcleo
+	- Rx
+		- Avaliação de alterações tardias
+			- Redução do espaço articular
+			- Cistos ósseos
+			- Erosões
+	- USG Quadril
+		- Detecção precoce de derrame
+## TTo
+- [[AINEs]] + [[Analgésicos]]
+- [[Metotrexato (MTX)]], [[Corticosteróides]] IA / VO
+- [[Leflunomida]], [[Ciclofosfamida]], [[Inibidores de TNFα]], [[Inibidores de IL-6]], [[Inibidores de IL-1]], [[Inibidores de IL-10]], [[Inibidores de CTLA4]], [[Inibidores de Células B]]
+____
+# Referências
+---
+# Perguntas
+

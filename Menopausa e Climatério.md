@@ -1,0 +1,141 @@
+2023-05-12 16:26
+Status: #🌱  
+Tags: [[Ginecologia]]
+<br/>
+- Início com o esgotamento da reserva ovariana
+	- ~45 anos
+	- Sem a função folicular, há grande queda do estrogênio ([[Hipoestrogenismo]])
+>[!info] Menopausa
+>Data da última menstruação
+>Só se define após 12 meses sem menstruar (logo, é um diagnóstico retrospectivo)
+
+- Peri-menopausa
+	- Transição menopausal+12 meses pós-menopausa
+		- Alterações menstruais e sintomas do climatério
+			- Geralmente, ciclos irregulares
+			- Sintomas vasomotores (Fogacho)
+		- Aumento do FSH
+- Consequências do [[Hipoestrogenismo]]
+	- Curto Prazo
+		- Irregularidade Menstrual
+			- Evolui para [[Amenorreia]]
+		- Fogachos
+		- Transpiração
+		- Palpitações
+		- [[Insônia]]
+			- Sono entrecortado por fogachos
+		- Labilidade do humor
+		- Humor Depressivo ou Irritável
+		- Desânimo
+		- Cefaleia
+		- Falta de concentração
+	- Médio Prazo
+		- Atrofia Urogenital
+		- [[Dispareunia]]
+		- Infecções Vaginais de Repetição
+		- Aumento da Frequência de [[Infecção do Trato Urinário (ITU)]]
+		- [[Incontinência Urinária]]
+		- [[Distopias Genitais]]
+		- Pele mais fina
+	- Longo prazo
+		- Aumento do risco cardiovascular
+		- [[Osteoporose]]
+		- [[Demência]]s
+- Fogachos diminuem com o tempo
+	- 80% ainda tem após um ano, 50% após 4, 10% após 12
+- Ondas de calor são a principal motivação para iniciar a Terapêutica Hormonal
+- 1/3 das mulheres na menacme tem sintomas depressivos, enquanto 70% os tem na peri-menopausa
+	- Quão mais tardia a menopausa, menor o risco de sintomas depressivos
+- Atrofia Urogenital
+	- Mucosa vulvovaginal
+		- +Fina, menos vascularização
+			- Aumento do risco de fissuras
+	- Uretra
+		- +Fina, menos vascularização
+	- Pele
+		- +Fina, menos glândulas anexas
+	- Principal Queixa
+		- Secura Vaginal
+			- Tendência a piora com o tempo (prevalência e intensidade)
+- Estrogênio estimula a secreção de glicogênio pelo epitélio vaginal
+	- Lactobacilos produzem, a partir dele, ácido lático
+		- Queda do pH
+	- Menos E2 diminui a população de lactobacilos, aumentando o pH
+		- Maior população de micro-organismos patológicos
+			- Enterobactérias
+			- Infecções de repetição
+- Maior risco de [[Síndrome Metabólica]]
+	- Obesidade central
+	- [[Dislipidemia]]
+	- [[Hipertensão Arterial Sistêmica (HAS)]]
+	- [[Resistência Insulínica (RI)]]
+	- Aumento do risco cardiovascular
+- [[Osteoporose]]
+	- Contínuo ciclo de quiescência, ativação, reabsorção, reversão, formação e novamente quiescência óssea
+		- E2 inibe a reabsorção (osteoclastos)
+	- Aumento da osteoclastogênese
+		- Balanço negativo de cálcio ósseo
+			- Há aumento na formação óssea, mas não suficiente
+## Tratamento
+- Terapêutica Hormonal (TH)
+	- Gold Standard
+	- Deve ser feita nos 1os anos pós-menopausa
+		- Janela de oportunidade de ~10 anos
+	- Indicações
+		- Sintomas Vasomotores
+			- Fogachos
+			- Sudorese
+			- Mal-estar geral
+		- S. de Atrofia Urogenital
+			- [[Síndrome Geniturinária da Menopausa]]
+		- Prevenção da [[Osteoporose]]
+		- Menopausa Precoce
+			- [[Insuficiência Ovariana Prematura]]
+	- Contraindicações
+		- Sangramento Vaginal Inexplicado
+		- Np. Hormônio dependente
+		- Doença hepática descompensada
+		- [[Porfiria]]
+		- Doença Coronariana
+		- Doença Cerebrovascular
+		- [[Tromboembolismo Venoso (TEV)]] Recente
+		- [[Lúpus Eritematoso Sistêmico (LES)]]
+		- Meningeoma
+	- Regimes Terapêuticos
+		- TE isolada
+			- Para pacientes histerectomizadas
+		- T. Combinada Sequencial
+			- Manutenção da menstruação
+		- T. Combinada Sequencial de Doses mínimas
+		- T. C. Contínua
+		- T. C. Contínua em doses Mínimas
+			- Mais frequente
+		- Tibolona
+			- Ação estrogênica, progestagênica e androgênica
+		- Terapia Androgênica
+		- Via oral ou transdérmica
+	- Sem tempo ideal de uso pré-determinado
+		- Suspensão a ser discutida com melhora clínica
+		- Motivos de Interrupção
+			- Medo de Ca
+			- Sangramentos
+			- Ganho de peso
+			- Mastalgia
+			- Custo
+			- Falta de informação
+- Terapia Não Hormonal
+	- Contraindicações e Preferências Pessoais
+		- Comportamentais
+			- Mudança de estilo de vida
+			- Acupuntura
+		- Farmacologia Alternativa
+			- Fitoterápicos
+				- Soja
+				- Isoflavona
+				- Amora
+		- Farmacologia
+			- [[Antidepressores]]
+			- Gabapentina
+____
+# Referências
+

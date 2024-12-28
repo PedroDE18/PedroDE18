@@ -1,0 +1,223 @@
+2023-05-30 20:09
+Status: #🌱  
+Tags: [[Pneumologia]], [[Tabaco]], [[Psiquiatria]]
+<br/>
+- 1,3 Bilhões de fumantes
+	- 3 Bilhões em contato com o tabaco
+- Consumo está aumentando
+	- Menos em países desenvolvidos, mais nos em desenvolvimento
+- Mundo
+	- 5M mortes por ano (6 mortes/segundo)
+		- 75% em países desenvolvidos
+	- Maior causa de mortes evitáveis do mundo
+- Brasil
+	- 80-100k óbitos/ano
+		- 25% em SP
+	- Mais homens do que mulheres
+	- 9,3% fumante
+	- 0,43% (12 a 64 anos) fuma cigarros eletrônicos
+	- 428 mortes/dia
+- Componentes
+	- 4720 Elementos químicos
+		- 25500 na folha
+		- 599 adicionados
+		- Restante produzido na combustão
+	- Fumaça
+		- Corrente principal
+		- Corrente secundária
+	- Fases
+		- Gasosa
+			- Gases irritantes da mucosa e ciliostáticos
+			- CO, CO2 e Cianeto de Hidrogênio
+		- Particulada (Alcatrão)
+			- Cancerígenos
+			- Nicotina
+## Nicotina
+- Principal Alcaloide do tabaco
+- Causa dependência
+- Absorção
+	- Respiratória
+	- Digestiva
+	- Cutânea
+- Neurobiologia da Adição
+	- Nicotina
+		- Efeitos por receptores colinérgicos (nAChR), amplamente distribuídos no SNC
+		- Aumento da densidade de nAChR de 100 a 300%
+		- Modifica a estrutura do SNC
+		- Pode produzir efeitos desagradáveis (início)
+		- Liberação de outros NTs
+			- Dopamina
+				- Prazer
+				- Queda do apetite
+				- Adição
+			- NOR
+				- Alerta
+				- Queda do apetite
+			- ACh
+				- Alerta
+				- Melhora da cognição
+			- Vasopressina
+				- Melhora da memória
+				- Menos diurese
+				- Aumento da PAM
+			- 5HT
+				- Modula humor
+				- Menos apetite
+				- Menos síndrome da abstinência
+			- Beta-Endorfina
+				- Menos ansiedade e tensão
+			- Glu
+				- Melhora da memória
+			- GABA
+				- Menos ansiedade e tensão
+		- Receptor principal: Nicotínico alfa 4 beta 2 na área tegmentar ventral (ATV)
+			- Liberação de dopamina no núcleo accumbens (nAcc)
+				- Recompensa
+		- Queda de dopamina entre cigarros - Sintomas de abstinência
+- Diagnóstico da Dependência - CID 10
+	- A - Forte desejo ou compulsão para consumir a droga
+	- B - Dificuldade em controlar o consumo em termos de seu início, término e níveis de consumo
+	- C - Surgimento da síndrome da abstinência quando o uso da droga cessa ou diminui
+	- D - Evidência de Tolerância; Doses crescentes para alcançar o mesmo efeito 
+	- E - Abandono progressivo de prazeres ou interesses alternativos em favor do uso da droga; Redução do tempo para obter ou usar a droga; Redução do tempo para se recuperar dos efeitos da droga
+	- F - Persistência do uso, apesar do conhecimento da nocividade
+## Monóxido de Carbono (CO)
+- Combustão incompleta do fumo
+- Carboxihemoglobina
+- >10 cigarros / dia = Hipoxemia Crônica
+	- Possibilidade aumentada de [[Infarto Agudo do Miocárdio (IAM)]] e morte súbita
+## Cancerígenos
+- Alcatrão
+	- 60 elementos cancerígenos
+		- Benzopireno
+			- Danos ao DNA
+				- Age sobre o p53
+		- N-Alkil-Indoes e N-Alkil-Carbazoes
+			- Aceleração
+		- Fenóis voláteis
+			- Promoção
+- Aldeídos
+	- Formaldeído (metanal), Acetaldeído e Furfurol
+	- Cilioestase, Hipersecreção e Broncoespasmo
+- Anilinas
+	- [[Câncer de Bexiga]]
+- Compostos Inorgânicos
+	- Cádmio, Cromo, Níquel, Arsênico
+	- Chumbo 210, Polônio 210
+		- Radiação Alfa - 30 cigarros/dia = 300 Rxs
+## Doenças Tabaco-Relacionadas
+### Pulmonares
+- Alteração do clearance mucociliar
+	- Retenção de muco
+		- Infecções
+			- Inflamação
+				- [[Doença Pulmonar Obstrutiva Crônica (DPOC)]]
+- Irritação de vias aéreas, Lesão e morte celular, influxo de neutrófilos
+	- Inflamação
+		- [[Doença Pulmonar Obstrutiva Crônica (DPOC)]]
+### Neoplasias
+- [[Carcinoma Brônquico]]
+	- 90-95% ocorre em fumantes
+	- Np. visceral maligna mais comum
+- [[Câncer de Esôfago]]
+- Cabeça e Pescoço
+	- pp. com cachimbo e charuto
+- [[Câncer de Bexiga]]
+	- 1/3 dos casos em fumantes
+- Rins
+- [[Np. de Pâncreas]]
+- [[Câncer de Estômago]]
+- [[Câncer de Mama]]
+- [[Neoplasia Colorretal|Ca. Colorretal]]
+- [[Câncer de Colo de Útero]]
+### Doenças Cardiovasculares
+- [[AVC]]
+	- [[Arteriosclerose]]
+	- 3x mais frequente em fumantes
+	- Risco normaliza após 5 anos de abstinência
+- Cardiopatias Isquêmicas
+	- Risco normaliza após 10 anos de abstinência
+- Morte súbita
+	- > quão mais precoce o início do hábito
+- [[Tromboangeíte Obliterante]]
+	- 100% fumantes
+	- Artérias MMSS e MMII
+- [[Doença Oclusiva Aortoilíaca]]
+- [[Doença Oclusiva Carotídea]]
+- Retina
+- [[Tromboembolismo Venoso (TEV)]]
+	- Lesão à túnica íntima
+	- Hipóxia e agregação plaquetária
+### Outras
+- Impotência Sexual
+	- [[Disfunções Sexuais]]
+- Reprodução humana
+	- Menor índice de fertilidade feminina
+	- Menopausa precoce
+- [[Osteoporose]]
+- Gastrointestinais
+- Envelhecimento e pele
+## Tabagismo Passivo
+- Infecções pulmonares
+- [[Asma]] brônquica
+- [[Bronquite]]s agudas
+- [[Bronquiolite]]s
+- [[Doença Pulmonar Obstrutiva Crônica (DPOC)]] (10%)
+- [[Carcinoma Brônquico]]
+	- 2x
+- Doenças profissionais
+### Doenças Infantis
+- Feto <200 g (PIG)
+- Efeito >1º Ano
+	- Prematuros, baixo peso e atópicos
+- RR 1,64 quando mãe fumante
+	- Sibilância
+	- [[Asma]]
+	- Tosse
+	- [[Otite]] média
+- Maior hiper-reatividade em crianças de mães fumantes
+	- Menos VEF1
+	- Mais diagnósticos de asma
+## Tratamento
+- Motivação
+	- Pré-contemplação
+	- Contemplação
+	- Preparação
+	- Ação
+	- Manutenção
+	- Recaída
+- Hábito ou Condicionamentos
+	- Ações repetidas
+- Dependência Psicológica
+	- Prazer e bem-estar
+	- Alívio de tensões, depressão
+	- Companhia
+- Dependência Nicotínica
+	- [[Teste de Fagerströn]]
+- 70% dos fumantes desejam parar
+	- 1/3 tenta - 90% sem apoio
+		- 1/3 abstêmios por 2 dias
+- Terapia Cognitivo-Comportamental (Base do Tratamento)
+- Medicamentoso
+	- 10 cigarros/dia ou mais
+		- Consumo menor, porém com sintomas da sd. de abstinência
+	- Fumar 1o cigarro do dia em menos de 30 min
+	- Fagerströn >5
+	- Insucesso com terapia comportamental
+	- Desejo do paciente, se não houver contraindicação
+	- Fármacos Nicotínicos
+		- Adesivos Cutâneos
+		- Gomas de Mascar
+		- Pastilhas
+		- Spray Nasal
+		- Inalações
+	- Fármacos Não Nicotínicos
+		- Bupropiona
+			- Bloqueio da recaptação de dopamina, NOR e 5HT
+		- Nortriptilina
+		- Vareniclina
+			- Menos fissura e sintomas de abstinência
+
+____
+# Referências
+
