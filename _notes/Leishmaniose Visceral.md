@@ -41,16 +41,20 @@ Status: #Flor
 - Doença crônica, sistêmica
 - [[Febre]] de longa duração
 - [[Perda Ponderal]]
+- [[Tosse]]
 - [[Astenia]]
 - [[Adinamia]]
 - [[Hepatoesplenomegalia]]
 - [[Anemia]]
+- [[Diarréias Crônicas|Diarréia]]
+- [[Cefaleia]]
 ### Complicações
 - [[Otite#Aguda|Otite Média Aguda]]
 - [[Piodermites]]
 - [[Infecção do Trato Urinário (ITU)]]
 - [[Infecções das Vias Aéreas Superiores (IVAS)]]
 - [[Sepse]]
+- [[Pancitopenia]]
 - [[Hemorragia]]
 	- [[Epistaxe]]
 	- [[Gengivorragia]]
@@ -68,7 +72,7 @@ Status: #Flor
 ### Laboratorial
 #### Imunológico
 - Teste rápido imunocromatográfico
-- Reação de Imunofluorescência direta (RIFI)
+- Reação de Imunofluorescência indireta (RIFI)
 	- Positivo a partir da diluição 1:80
 	- Se título 1:40 mas sintomático, repetição em 30 dias
 - ELISA
@@ -89,7 +93,7 @@ Status: #Flor
 - [[Leucemia]]
 ## Tratamento
 - [[Antimoniais]]
-	- Antimoniato de meglumina
+	- Antimoniato de meglumina (Glucantine)
 - [[Anfotericina B]]
 - Suporte clínico
 	- Hidratação

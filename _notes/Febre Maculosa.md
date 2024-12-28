@@ -17,12 +17,14 @@ Status: #Flor
 - Doença infecciosa febril aguda
 ## Agente Etiológico
 - Bactéria Gram-Negativa intracelular obrigatória do gênero _Rickettsia_
-	- Febre Maculosa Brasileira --> _[[Rickettsia rickettsii]]_
+	- Intracelulares obrigatórias, de pequeno genoma
+	- Febre Maculosa Brasileira (FMB) --> _[[Rickettsia rickettsii]]_
 	- FMRP --> _[[Rickettsia parkeri]]_ (pp. em áreas de mata atlântica)
 ## Reservatório
 ### _R. rickettsii_
 - Equídeos
 - Roedores
+	- Especialmente capivaras
 - Marsupiais
 - Cão doméstico
 ### _R. parkeri_
@@ -38,6 +40,7 @@ Status: #Flor
 ## Transmissão
 - Picada por carrapato infectado com _Rickettsias_
 	- Principalmente se o artrópode permanece aderido ao hospedeiro
+	- Bactéria é fagocitada, transportada ao Sistema retículo-endotelial --> Ganha a circulação sanguínea --> Infecta o Endotélio --> [[Disfunção Endotelial]]
 - PI
 	- FMB --> 2 a 14d
 	- FMRP --> 4 a 11d
@@ -59,7 +62,7 @@ Status: #Flor
 		- Predominantemente em MMII
 		- Possivelmente em região palmar / plantar
 - Se não tratada
-	- [[Rebaixamento do Nível de Consciência (RNC)]]
+	- [[Rebaixamento do Nível de Consciência (RNC)]] ([[Encefalite]])
 	- Alterações psicomotoras
 	- [[Coma]]
 	- [[Icterícia]]
@@ -138,7 +141,7 @@ Status: #Flor
 	- [[Farmacodermias]]
 	- [[Lúpus Eritematoso Sistêmico (LES)]]
 # Tratamento
-- Antimicrobiano
+- Antimicrobiano (Iniciado na suspeita, sem espera de confirmação laboratorial)
 	- [[Doxiciclina]]
 		- Resolução em 24-72h do início do tratamento
 		- Mantida por 7 dias (3 dias após término da febre)

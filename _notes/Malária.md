@@ -44,7 +44,7 @@ Status: #Flor
 ## Período de Incubação
 - Varia de acordo com a espécie de plasmódio
 	- [[Plasmodium falciparum]] --> >7 dias
-	- [[Plasmodium vivax]] --> 10-30d
+	- [[Plasmodium vivax]] --> 5-30d
 	- [[Plasmodium malariae]] --> 18-30d
 ## Período de Latência
 - Em infecções por [[Plasmodium vivax]] e [[Plasmodium ovale]], alguns esporozoítos originam formas evolutivas denominadas "Hipnozoítos"
@@ -68,11 +68,13 @@ Status: #Flor
 ## Malária Não-Complicada
 - Sintomas prodrômicos
 	- [[Náusea]], [[Vômito]], [[Astenia]], [[Fadiga]], [[Anorexia]]
-- Acesso Malárico
+- Acesso Malárico (Surto Palúdico)
 	- Calafrio, [[Febre]], [[Sudorese]]
 	- Duração variável de 6-12 horas
 	- Pode cursar com temperatura igual ou superior a 40ºC
-	- Nem sempre com o padrão de febre a cada 2 dias (terçã)
+	- Nem sempre com o padrão de febre a cada 2 dias (terçã) --> Inoculação ao longo de um período longo, com diferentes inóculos --> Esquizogonia assíncrona
+		- Característico de _P. vivax_ e _P. falciparum_
+		- _P. malariae_ costuma ter febre a cada 3 dias (quartã)
 - Sintomas Acompanhantes
 	- [[Cefaleia]]
 	- [[Mialgia]]
@@ -131,8 +133,8 @@ Status: #Flor
 - Artesunato + Mefloquina
 - Primaquina --> Contraindicada para gestantes, puérperas (até 1m) e crianças <6m
 ### [[Plasmodium vivax]] e [[Plasmodium ovale]] Não-Complicado
-- [[Cloroquina]]
-- Primaquina
+- [[Cloroquina]] --> Esquizonticida Eritrocitário
+- Primaquina --> Esquizonticida Tecidual
 ### [[Plasmodium malariae]]
 - [[Cloroquina]]
 ### Malária Mista

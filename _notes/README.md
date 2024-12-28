@@ -1,3 +1,6 @@
+# README
+Esse é um conjunto de anotações tomadas durante os 6 anos da faculdade de Medicina
+=======
 Este é o meu conjunto de anotações durante a faculdade de medicina, organizados segundo a seguinte lógica:
 
 "#Raiz"

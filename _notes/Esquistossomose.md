@@ -16,7 +16,7 @@ Status: #Flor
 ## Descrição
 - Doença parasitária de evolução crônica
 - Relacionada à vulnerabilidade social e às condições precárias de saneamento básico
-- Sinônimos --> "Xistose", "Barriga-d'água", "doença dos caramujos"
+- Sinônimos --> "Biliariase", "Xistose", "Barriga-d'água", "doença dos caramujos"
 ## Agente Etiológico
 - Helminto _[[Schistosoma mansoni]]_
 	- Classe _Trematoda_, Família _Schistossomatidae_, Gênero _Schistosoma_
@@ -81,6 +81,7 @@ Status: #Flor
 		- [[Náusea]]
 		- [[Vômito]]
 		- [[Tosse]] seca
+			- [[Pneumonia de Loeffler]]
 		- [[Hepatoesplenomegalia]]
 ## Fase Tardia
 - A partir dos seis meses após a infecção
@@ -91,24 +92,40 @@ Status: #Flor
 	- [[Ascite]]
 	- [[Hemorragias Digestórias Altas (HDA)]]
 - Múltiplas formas possíveis
-	- Hepatointestinal
-	- Hepática
+	- Hepatointestinal (~90%)
+		- [[Diarréia]] / [[Disenteria]]
+		- [[Dor]] Abdominal intermitente
+		- Escassa repercussão sistêmica
 	- Hepatoesplênica
 		- Compensada
 		- Descompensada
+			- [[Hipertensão Portal (HP)]]
+			- [[Hepatoesplenomegalia]]
+			- [[Ascite]]
+			- [[Hemorragias Digestórias Altas (HDA)]]
+			- [[Coagulopatias]]
+			- Necrose Hepatocelular --> Elevação de transaminases
 	- Vasculopulmonar
+		- [[Hipertensão Arterial Pulmonar (HAP)]]
+		- Possível [[Cianose]]
 	- Pseudoneoplásica
+		- Infecção por _[[Schistossoma haematobium]]_ --> [[Câncer de Bexiga|Carcinomatose de Bexiga]]
 	- Neuroesquistossomose ([[Mielorradiculite Esquistossomótica]])
-		- Paralisia (pp de MMII)
+		- [[Paralisia]] (pp de MMII), [[Parestesia]], [[Lombalgia]]
+		- [[Incontinência Urinária]], [[Incontinência Fecal]]
+			- [[Disfunção Erétil]]
 	- Outras
+		- Renal
+			- [[Glomerulonefrites Secundárias]]
 # Diagnóstico
 ## Laboratorial
 - Detecção de ovos nas fezes  --> Avaliação seriada 
 	- Método Kato-Katz
 	- Método de Sedimentação espontânea
 - Sorologia
-	- IGI --> IgM
+	- IFI --> IgM
 	- ELISA --> IgG
+- Biologia Molecular
 - Imagem --> [[Hepatoesplenomegalia]], [[Fibrose de Symmers]], [[Varizes Gastroesofágicas]]
 	- USG
 	- RNM
@@ -148,3 +165,9 @@ Status: #Flor
 - Específico
 	- Praziquantel (50 mg/kg)
 		- Repouso de ao menos 3 horas após a ingestão do comprimido --> Prevenção de náuseas e tonturas
+- Inespecífico
+	- Ascite
+	- Prevenção de sangramentos
+		- [[Betabloqueadores]]
+		- Ligadura de varizes
+		- [[Esplenectomia]] com desconexão ázigo-portal 

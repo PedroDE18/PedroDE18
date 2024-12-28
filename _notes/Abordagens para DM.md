@@ -1,6 +1,6 @@
 2023-10-01 13:14
 Status: #🌱 
-Tags: [[Atenção Primária em Saúde (APS)]], [[Diabetes Mellitus]], [[Endocrinologia]]
+Tags: [[Atenção Primária em Saúde (APS)]], [[Diabetes Mellitus (DM)]], [[Endocrinologia]]
 <br/>
 - QC Mais comum = Assintomático
 - Testes de Rastreio
@@ -24,7 +24,7 @@ Tags: [[Atenção Primária em Saúde (APS)]], [[Diabetes Mellitus]], [[Endocrin
 		- [[Poliúria]]
 		- [[Polidipsia]]
 		- [[Polifagia]]
-	- Raramente: [[Cetoacidose]], [[Hiperosmolaridade]]
+	- Raramente: [[Cetoacidose Diabética (CAD)]], [[Hiperosmolaridade]]
 ## Tto
 - Alterações do estilo de vida
 - Alternativas medicamentosas
@@ -34,7 +34,7 @@ Tags: [[Atenção Primária em Saúde (APS)]], [[Diabetes Mellitus]], [[Endocrin
 			- [[Sulfoniluréias]]
 			- [[Pioglitazina]]
 			- Inibidores da Dipeptidil Peptidase ([[DPP4]])
-		- Reduzem a glicemia e a mortalidade cardiovascular (para pessoas com risco de [[Infarto Agudo do Miocárdio (IAM)|IAM]], [[AVC]], [[Insuficiência Cardíaca Congestiva (ICC)|ICC]], [[Doença Renal Crônica (DRC)|DRC]])
+		- Reduzem a glicemia e a mortalidade cardiovascular (para pessoas com risco de [[Infarto Agudo do Miocárdio (IAM)|IAM]], [[AVC]], [[Insuficiência Cardíaca (IC)|ICC]], [[Doença Renal Crônica (DRC)|DRC]])
 			- [[GLP1]]
 			- [[SGLT2]]
 		- [[Insulinoterapia]]

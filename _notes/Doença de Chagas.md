@@ -145,6 +145,14 @@ Status: #Flor
 ## Específico
 - [[Benznidazol]]
 - [[Nifurtimox]]
+- Indicações
+	- Fase Aguda
+	- Infecção congênita
+	- Imunodeprimidos
+	- Acidente com material biológico
+	- Transplante de órgãos (D+/R-)
+	- Formas Crônicas não avançadas no adulto
+	- Mulheres em idade fértil
 ## Suporte
 -  Afastamento de atividades? Dieta específica?
 - Atenção ao comprometimento cardíaco

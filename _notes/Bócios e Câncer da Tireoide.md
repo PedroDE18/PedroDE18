@@ -85,7 +85,8 @@ Tags: [[Cirurgia de Cabeça e Pescoço (CCP)]], [[Endocrinologia]]
 ### Investigação da Função
 - [[TSH]]/[[T4L]]
 - Cintilografia
-	- Iodo 131 ou Tecnécio
+	- Iodo 131 ou 123 ou Tecnécio 99m
+	- Interessante pp se TSH baixo
 ### Caracterização
 - USG
 	- Calcificações

@@ -5,6 +5,7 @@ Status: #Flor
 - De onde vem?
 	- [[Neurologia]]
 - O que é similar?
+	- [[Síndromes Sensitivas]]
 - O que é antagônico?
 - Ao que leva?
 
