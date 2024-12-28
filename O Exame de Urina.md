@@ -1,0 +1,82 @@
+2023-05-17 20:32
+Status: #🌱  
+Tags: [[Nefrologia]], [[Urologia]]
+<br/>
+- A urina é um produto biológico de fácil acesso
+- Uroscopia = Exame visual do urina
+- Avaliação da presença, gravidade e curso de doenças renais e do trato urinário
+- Análise Física
+	- Volume (ideal é em um período de 24h)
+		- Define casos de oligúria ou poliúria
+		- Quantifica [[Proteinúria]]
+		- Mensura excreção de Ca, Na, Ác. Úrico, Citrato, Oxalato, Creatina, outros (litíase)
+		- Permite a quantificação da [[TFG]]
+		- VR: 500-2800 mL/24h
+	- Aspecto
+		- Translúcida
+		- Turva
+		- Espumosa
+	- Cor
+		- Amarelada
+		- Castanha
+		- Alaranjada
+		- Vermelha
+		- Castanho-enegrecido
+		- Preta
+		- Azul ou verde
+		- Leitosa
+		- Damasco
+		- Identificação de:
+			- [[Quilúria]]
+			- [[Hematúria]]
+	- Odor
+		- Doce ou Frutada
+		- Amoniacal
+		- Xarope de Bordo
+			- [[Fenilcetonúria]]
+		- Mofada
+		- "Pés suados"
+		- Rançosa
+	- Densidade e Osmolalidade
+- Análise química
+	- Fita ou equipamento automatizado
+	- Glicose
+		- Só há [[Glicosúria]] se glicemia > 200 mg/dL (ou uso de glifozinas)
+	- Cetonas
+		- [[Cetoacidose Diabética (CAD)]], jejum, dieta
+	- Bilirrubina
+	- Urobilinogênio
+	- Ác. Ascórbico
+	- Hemopigmentos
+	- Nitritos
+		- Detecção de bactérias Gram +
+	- Estearase Leucocitária
+	- Proteinúria
+		- Fita só detecta albumina
+	- pH Urinário (VR: 5 a 8)
+- Análise Microscópica
+	- Células
+		- Epiteliais, Leucócitos, Hemácias (Dismórficas ou não)
+	- Cilindros (de cadeia leve ou longa)
+		- Hemáticos, leucocitários, hialino, celular, granular, gorduroso, céreo
+	- Cristais
+		- Ca bi ou monohidratado, Ác. úrico, uretos amorfos, cistina, fosfatos amórficos, fosfato de cálcio, fosfatos triplos
+## Avaliação da Função Renal
+- Uso da creatinina plasmática
+	- VR 0,6 a 1 mg/dL
+- TFG Medida ou Estimada
+- Cr é filtrada e pouquíssimo secretada/reabsorvida
+- Não tem reação linear com a perda de função
+	- Aumento da Cr a partir de dano de 50% da massa renal
+- CKD-EPI
+	- Idade
+	- Cr sérica
+	- Gênero
+- Possibilidade
+	- Cistatina C (caro e pouco usado)
+- Clearance de Cr (urina 24h)
+	- Cl. Cr = Concentração Urinária de Cr x Volume Urinário / Concentração Plasmática de Cr
+		- É necessário corrigir por superfície corporal (levar para 1,73 m^2)
+____
+# Referências
+

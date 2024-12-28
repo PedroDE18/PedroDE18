@@ -1,0 +1,94 @@
+2023-09-08 15:23
+Status: #🌱 
+Tags: [[Ortopedia]], [[Geriatria]], [[Reumatologia]]
+<br/>
+## [[Osteoartrose]]
+- Degeneração articular
+- 70% das pessoas >65 anos (possivelmente assintomáticos)
+- Cartilagem
+	- Reduz o atrito articular
+	- Distribui cargas
+	- Nutrição via líquido sinovial e osso subcondral
+- Rx
+	- [[Osteófitos]]
+	- Redução do espaço sinovial
+	- Esclerose do osso subcondral
+- Etiologia
+	- Degenerativa
+	- Inflamatória / Reumatológica
+	- Traumática
+- Articulações mais acometidas
+	- Metatarso Falangeana ([[Pé]])
+	- [[Joelho]]
+	- [[Quadril]]
+	- [[Coluna Vertebral]]
+	- Interfalangeana dos Dedos ([[Mão]])
+	- Base do polegar ([[Rizartrose]])
+- Padrões de Acometimento
+	- Poli de mão e joelhos
+		- Mulheres de meia idade
+	- Mono de Joelho
+		- Meia idade
+	- Mono de Quadril
+		- Homens de meia idade
+		- Única com maior incidência em homens
+- QC
+	- [[Dor Articular]] associada ao uso e/ou ao repouso/noturna
+	- [[Rigidez Articular]] após repouso (>30 min)
+	- Sensação de insegurança e instabilidade articular
+	- Limitação do arco de movimento
+	- Incapacidade física
+- EF
+	- Aumento de volume
+	- Dor ao movimento passivo
+	- Crepitação
+	- Limitação da amplitude do movimento
+	- Instabilidade Articular
+	- Mãos --> [[Nódulo de Heberden e Bouchard]]
+- TTo
+	- Sintomático
+		- [[Analgésicos|Analgesia]] e melhora de função
+	- Não-Farmacológico
+		- Redução Ponderal
+		- Exercício Físico
+		- Aplicação de calor e frio local
+		- Repouso programado
+		- Estimulação elétrica transcutânea
+		- Acupuntura
+	- Farmacológico
+		- [[Analgésicos]]
+		- Infiltração de [[Corticosteróides]]
+		- Condroprotetores
+			- [[Glicosamina]] e [[Condroitina]]
+			- Efeito controverso
+		- Infiltração de [[Ácido Hialurônico]]
+	- Radiofrequência
+	- Cirúrgico
+		- Artroscopia
+		- Osteotomias
+		- Artroplastias
+## [[Osteoporose]]
+- Doença de mineralização óssea
+	- Osso mais porótico
+- Muito prevalente no idoso
+	- Fraturas
+- Pico de massa óssea ~30 anos
+	- Em mulheres é mais baixo e cai mais rápido
+- QC
+	- Assintomática
+	- Sintomas decorrentes de Fraturas
+- Diagnóstico
+	- Suspeita --> Fraturas por trauma de baixa energia
+	- Densitometria óssea
+	- Rx se muito avançada
+- TTo
+	- Profilaxia primária
+	- Prevenção de fraturas
+	- Farmacologia
+		- Para fraturas de coluna ou quadril ou T-Score < 2.5
+			- Estrógenos
+			- [[Calcitonina]]
+			- [[Biofosfonatos]]
+____
+# Referências
+

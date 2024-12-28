@@ -1,0 +1,87 @@
+Status: #Flor 
+
+---
+# Compass
+- De onde vem?
+	- [[Infectologia]]
+	- [[Neurologia]]
+- O que é similar?
+- O que é antagônico?
+- Ao que leva?
+	- [[Hidrofobia]]
+
+----
+# Pergunta
+- Quais os principais pontos acerca da Raiva?
+	- Agente
+		- Vírus de sorotipo único
+		- Patogênico e fatal em todos os mamíferos, exceto morcegos Hematófagos
+		- PI médio = 2 meses
+	- Atinge SNC através da bainha de mielina --> Movimento de ~1-1.5 cm/dia
+	- Virus replica em todos os tecidos
+	- Eliminado via saliva
+		- Transmissão via mordedura
+			- Alto Risco --> Morcegos, Animais silvestres
+			- Médio Risco --> Cães, Gatos, Bovinos, Caprinos, Suínos, Equinos, etc.
+			- Baixo Risco --> Roedores de baixo porte --> Coelhos, ratos, camundongos, etc.
+	- QC do Cão
+		- PI - 21-60 d
+		- Período Infeccioso (48h)
+			- Alterações comportamentais --> Micção frequente
+			- Salivação intensa
+			- Fase Nervosa
+				- Excitação --> [[Convulsão]]
+			- Fase Paralítica (Ascendente) --> Óbito
+		- Não existe raiva sublínica
+			- Observação por 10 dias --> Avaliar evolução de animal possivelmente afetado
+	- QC Humano
+		- PI - 2/3m
+		- Evolução dos sintomas em 48h
+			- Hiperexcitabilidade local
+			- Hipotensão
+			- [[Sudorese]], [[Taquicardia]], [[Insônia]]
+			- [[Aerofobia]]
+				- Dor por contrações em resposta ao vento
+			- [[Agitação Psicomotora]], Agressividade, [[Hidrofobia]] (dor intensa à deglutição)
+			- [[Convulsão]], [[Apatia]], Depressão, [[Coma]]
+			- [[Paralisia]] Ascendente
+	- Diagnóstico
+		- Isolamento do vírus na saliva
+		- Póstumo
+			- Prova de Schneider --> Anticorpos fluorescentes (lavado da córnea)
+			- Necrópsia --> Coloração de Sellers 
+				- 65% [[Corpúsculos de Negri]] (Hipocampo/Cerebelo)
+				- 90% Acs Fluorescentes
+	- TTo
+		- Sem tratamento efetivo
+		- Protocolo de Recife (2008)
+			- Sedação Profunda
+			- Antivirais
+			- Acs. Monoclonais
+			- Vacinação
+			- Miorrelaxantes
+			- Etc, etc, etc
+			- 1 paciente curado, com múltiplas sequelas neurológicas
+				- Contaminação por raiva não confirmada
+	- Profilaxia
+		- Controle + Registro + Vacinação de 2/2a de animais domésticos
+		- Nenhum caso em SP desde 1982
+		- Casos nas áreas rurais do estado, ligados à raiva animal
+	- Tipos de Ferimento (Risco)
+		- Sem Risco
+			- Ausência de Mordedura
+			- Lambedura de pele íntegra
+		- Leve
+			- Arranhadura superficial
+			- Lambedura de pele lesionada
+			- Mordedura única e superficial de tronco ou mmii/mmss
+		- Grave
+			- Mordedura de cabeça e pescoço
+			- Mordedura de mão e dedos
+			- Lambedura em mucosas
+			- Mordedura ou arranhadura profunda
+	- Vacinação
+		- Vírus morto
+		- Pode ser aplicada em gestante
+		- Regime 0/3/7/14
+			- Não aplicada em glúteo

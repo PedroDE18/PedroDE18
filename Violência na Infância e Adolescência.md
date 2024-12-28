@@ -1,0 +1,92 @@
+2023-10-29 12:29
+Status: #🌱 
+Tags: [[Pediatria]], [[Atenção Primária em Saúde (APS)]], [[Medicina Legal]]
+<br/>
+- "Violência" presume intencionalidade
+- Disque 100 --> Denúncia
+- Formas
+	- Física
+	- Sexual
+	- Psicológica
+	- Auto-Infringida
+	- Institucional
+	- Negligência
+- Alçada do Código Penal
+	- Artigo 136 - Ação ou Omissão
+- Notificação
+	- Conselho Tutelar
+		- Obrigatória
+		- Inicia processo para interromper atitudes e comportamentos violentos no âmbito da família
+			- Qualquer agressor
+			- Qualquer agressão
+		- Ativa a polícia civil e o juizado da família
+- Lesões Sugestivas
+	- Que não se justificam pelo mecanismo sugerido
+	- Múltiplas, em diferentes estados de recuperação
+	- Em regiões protegidas
+	- [[Queimaduras]], Escaldar
+	- [[Fratura]]
+		- De crânio
+		- Espiralar
+- _[[Shaken Baby Syndrom]]_
+	- 80% com sequelas
+	- Lesão de Golpe e Contragolpe
+	- 3ª em frequência de lesões intracranianas
+- Negligência
+	- Omissão em prover as necessidades básicas (físicas e emocionais)
+	- Extremo = Abandono
+	- Intencional e Sociocultural
+- Violência Psicológica
+	- Qualquer forma de humilhação, rejeição, denegrir, ignorar, aterrorizar, corromper, isolar, levantar falsas expectativas
+	- Acontece em qualquer faixa socioeconômica e em todas as faixas etárias
+- Alienação Parental
+- [[Síndrome de Munchausen por Procuração]]
+- Na escola
+	- _Bullying_
+	- _Cyber-Bullying_
+- Violência Sexual
+	- Atividade Sexual/Erótica que desrespeita o direito de escolha de um dos envolvidos
+	- Crianças --> Ato ou jogo sexual, geralmente com recompensa
+	- Incesto, sedução, assédio, exploração, Cyberpedofilia
+	- Atendimento
+		- História e EF cuidadosamente descritos
+			- Corpo inteiro
+		- Exame ginecológico
+			- Evitar novo trauma
+				- Uso de espéculo específico
+			- Avaliar secreções
+			- Avaliação de rotura himenal
+			- Excluir lesões sangrantes
+			- Avaliação de região perianal
+		- Exame Urológico
+			- Eritema em Pênis
+			- Região perianal
+		- Exames Laboratoriais
+			- Testes rápidos para [[Vírus da Hepatite B (HBV)|HBV]], [[Vírus da Hepatite C (HCV)|HCV]], [[Sífilis]] e [[HIV-AIDS|HIV]]
+			- [[β-HCG]] (se em idade fértil)
+			- Coleta de material forense
+			- USG pélvico e abdominal
+		- Profilaxia
+			- Se já menstrua --> [[ACH]]
+			- [[Tratamento Antiretroviral (TARV)]]
+				- AZT+3TC+LPV/RTV
+			- [[Penicilina Benzatina]], [[Ciprofloxacina]]
+		- Acompanhamento
+			- Seguimento ambulatorial
+			- Grupos de assistência social
+			- Orientar família sobre demais medidas legais
+## Infanticídio
+- Homicídio de criança durante parto ou logo após, sob influência do estado puerperal
+	- "Logo após" --> Estado sanguinolento induto sebáceo do cordão umbilical
+- Logo, pode apenas ser realizado pela mãe
+- Logo, feto precisa nascer vivo
+	- Determinação por docimásias
+		- de Galeno
+		- Histológica de Baltasar
+		- Respiratórias
+	- Tumor de Parto (bossa linfo-sero-hemática)
+____
+# Referências
+---
+# Perguntas
+

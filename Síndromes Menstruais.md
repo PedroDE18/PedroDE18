@@ -1,0 +1,158 @@
+2023-05-12 11:57
+Status: #🌱  
+Tags: [[Ginecologia]]
+<br/>
+## [[Dismenorreia]]
+- "Fluxo Menstrual Difícil"
+- Dor tipo cólica, intensa, em hipogástrio, relacionada ao ciclo menstrual (imediatamente anterior à menstruação)
+- Duração de 1-2 dias
+- Absenteísmo
+- Intensidade variável, acompanhada de sintomas gerais
+- Sem relação com perda sanguínea
+- Classificação por Intensidade
+	- Leve
+	- Moderada
+		- Exige Medicação
+	- Grave
+		- Exige visita a PS
+- Etiologia
+	- 1a
+		- Sem Doenças Pélvicas Orgânicas
+	- 2a
+		- Com Doenças Pélvicas Orgânicas
+			- [[Malformações Genitais Congênitas Femininas]]
+			- Miomas
+				- Principalmente os submucosos
+			- [[Endometriose]]
+- Diagnóstico
+	- Anamnese e EF
+		- Dor
+			- Tempo de início, intensidade, duração, localização, fatores de melhora, piora
+			- Geralmente: Tipo cólica, início na pelve, com irradiação e sensação de peso
+			- F. Predisponentes: [[Tabagismo]], [[Álcool]], [[Transtornos de Ansiedade]], [[Transtorno Depressivo Maior (TDM)]] 
+			- Sem concomitantes
+		- Teste objetivo de medida da pressão intrauterina
+			- Usado em pesquisa, não clínica
+- Fisiopatologia
+	- 1a
+		- Queda das prostaglandinas (após 7 dias da ovulação)
+			- Aumento de Ácido Araquidônico
+				- 5-Lipoxigenase
+					- Leucotrienos
+				- Cicloxigenase
+					- PGF2-alfa e PGE2
+						- Vasoconstrição e contração miometrial
+							- Dor
+							- Redução do limiar da dor
+	- 2a
+		- Ginecológicas
+			- [[Endometriose]]
+			- [[Adenomiose]]
+			- Miomas
+			- [[Malformações Genitais Congênitas Femininas]] (Müllerianas)
+			- Pólipos uterinos
+			- [[Estenose Cervical]]
+			- [[Dispositivo Intrauterino (DIU)]]
+		- Não-Ginecológicas
+			- [[Síndrome do Intestino Irritável]]
+			- [[Constipação]] crônica
+			- [[Doença Inflamatória Intestinal (DII)]]
+			- Dor miofascial
+			- [[Infecção do Trato Urinário (ITU)]]
+			- [[Litíase Renal]]
+			- Psicossomáticas
+			- [[Transtorno Depressivo Maior (TDM)]]
+- Suspeita de dismenorreia 2a
+	- Sintomas desde menarca
+	- Piora progressiva
+	- Dor pélvica acíclica
+	- [[Dispareunia]]
+	- Malformações Renais
+	- [[Sangramento Uterino Anormal (SUA)]]
+	- HF de [[Endometriose]]
+	- Falha de tratamento clínico
+	- Não resposta a [[AINEs]] e [[ACH]]
+- Tratamento
+	- Alívio dos Sintomas
+	- Não-Medicamentoso
+		- Dieta balanceada
+		- Exercício físico
+		- Calor local
+		- Estimulação Elétrica Transcutânea
+		- Acupuntura
+	- Medicamentoso
+		- [[AINEs]] e analgésicos
+		- Contraceptivos Hormonais ([[ACH]])
+		- Progestagênios
+		- DIU de Levogestrel
+## [[Síndrome Pré-Menstrual]] & [[Transtorno Disfórico Pré-Menstrual]]
+- SPM
+	- Sintomas Emocionais, comportamentais e físicos
+	- Fase lútea
+	- Melhora com a menstruação
+	- Epidemiologia
+		- ~80%
+			- 3 a 8% são clinicamente significantes
+		- Geralmente início dos sintomas na metade da 2a década (15 anos)
+	- Fisiopatologia
+		- Indefinida
+		- Associação com fase do ciclo
+		- Supressão ovariana resolve os sintomas
+		- NTs mais Relacionados: 5HT, Beta-Endorfinas, GABA
+			- SNA Autonômico
+		- Queda de esteroides Gonadais
+			- Desvio da capacidade de ligação de opióides endógenos
+		- Descontroles no circuito entre C. Pré-Frontal e Amigdala
+	- Diagnóstico
+		- 2a fase do ciclo
+		- QC polimórfico
+		- EF e Lab sem anormalidades
+		- Diário sintomatológico
+	- Sintomas
+		- Psíquicos
+			- Tensão
+			- Irritabilidade
+			- Disforia
+			- Ansiedade
+			- Labilidade
+			- Agressividade
+			- Depressão
+		- Somáticos
+			- Cefaleia
+			- Mastalgia
+			- Cólica
+			- Náusea
+			- Taquicardia
+			- Tonturas
+		- Comportamentais
+			- Falta de Iniciativa
+			- Aumento do apetite
+			- Compulsão por doces
+			- Absenteísmo
+			- Isolamento
+- DD com TDPM
+	- SPM
+		- Sintomas físicos e comportamentais
+		- Sintomas com início na fase lútea e cíclicos
+		- Sintomas que melhoram com a menstruação
+	- TDPM
+		- Forma mais grave de SPM
+		- Sintomas que podem ser incapacitantes
+		- Exclusão de distúrbios psiquiátricos
+- Tratamento
+	- Nenhum alivia todos os sintomas
+	- Avaliação individualizada e multidisciplinar ([[Psiquiatria]])
+	- Abordagem escalonada
+	- Eliminação das Flutuações Hormonais
+		- Supressão da Ovulação
+		- Estímulo dos NTs
+	- MHV
+	- Psicoterapia
+	- Medicação
+		- Diuréticos se grande edema
+		- Tratamento Hormonal ([[ACH]])
+		- [[Antidepressores]] / [[Ansiolíticos]]
+
+____
+# Referências
+

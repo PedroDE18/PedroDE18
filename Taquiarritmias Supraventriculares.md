@@ -1,0 +1,152 @@
+2024-05-20 20:23
+Status: #🌱 
+Tags: [[Cardiologia]], [[Arritmia]], [[Taquiarritmias]]
+<br/>
+- VRs
+	- fC repouso --> 50-100 bpm
+	- iPR --> 120 - 200 ms
+	- QRS --> 80-120 ms
+	- QTc --> até 470 ms
+- QC - [[Taquicardia]]
+	- [[Palpitações]]
+	- Mal-estar inespecífico
+	- Desconforto torácico
+	- [[Dispneia]]
+	- [[Angina]]
+		- Hipoperfusão coronária transitória
+	- [[Síncope]]
+		- Hipoperfusão cerebral transitória
+## [[Taquicardia Sinusal]]
+- >100 bpm
+- Possivelmente fisiológico (aumento do tônus simpático)
+- Patológico
+	- [[Febre]]
+	- [[Hipertireoidismo]]
+	- [[Transtornos de Ansiedade]]
+- Compensatório
+	- [[Anemia]]
+	- [[Desidratação]]
+	- [[Hipotensão]]
+	- [[Embolia Pulmonar]]
+	- [[Doença Isquêmica Cardíaca]]
+	- [[Insuficiência Cardíaca (IC)]]
+- Drogas
+	- [[Atropina]]
+	- Simpatomiméticos
+	- Hormônio Tireoidiano
+	- [[Cafeína]]
+	- [[Álcool]]
+	- [[Nicotina]]
+	- [[Anfetaminas]]
+	- [[Cocaína]]
+	- [[Beta2-Agonistas]]
+- TTo
+	- Causa de base
+- ECG
+	- Onda P nl, precede cada QRS
+	- fC >100 bpm
+	- QRS estreito
+## [[Extra-sístole Supraventricular (ESV)]] / Extra-Sístole Atrial (ESA)
+- Despolarização anormal e isolada de algum foco atrial
+- Causa mais comum de palpitações
+- Coração estruturalmente normal
+- Frequência aumenta com a idade (ESA isolada em 97% >65a)
+- QC variável --> Depende da quantidade de ESAs
+- ECG
+	- Despolarização atrial em qualquer localização do átrio
+	- Onda P pode ser parecida ou diferente da P sinusal
+	- Despolarização precoce da onda P seguida de pausa compensatória após QRS
+## [[Taquicardia Atrial]]
+- Despolarização anormal e repetitiva de qualquer região do átrio
+- Com ou sem cardiopatia estrutural
+- Qualquer idade e bom prognóstico
+- 3-17% dos pacientes com TSV
+- QC variável
+	- Episódios curtos, recorrentes ou não, com término súbito ou incessante
+- Etio
+	- [[Doença Arterial Coronariana (DAC)]]
+	- [[Insuficiência Cardíaca (IC)]]
+	- [[Cor pulmonale]]
+	- Intoxicação Digitálica
+	- Estimulantes
+		- Cafeína
+		- T3 / T4
+		- [[Efedrina]]
+		- Chocolate
+		- Ex. Físico
+- ECG
+	- Onda P diferente da P sinusal, mesmo padrão
+	- fC - 100-250 bpm
+	- Pelo menos 3 batimentos consecutivos
+	- Sustentada = Duração >30s ou sintomático
+	- Se ondas P de diferentes padrões = multifocal
+		- Intervalo PR e RR irregular
+## [[Flutter Atrial]]
+- Tipo mais comum de Taquiarritmia Atrial (Macrocircuito)
+- Coração sadio ou com dilatação atrial (fibrose)
+- ECG
+	- Intervalo entre Ps -> 200 ms
+	- 300 bpm nos átrios
+	- "Ondas F" --> como se um P viesse atrás do outro, sem parar
+	- Frequência Ventricular determinada pelo nó AV
+		- Taqui, normo ou bradicárdico
+## [[Taquicardia Atrial Paradoxal]] / TSVP
+- Nó AV faz parte do circuito de arritmia
+- 2 caminhos para a onda de despolarização descer para o ventrículo
+	- f. de His-Purkinje
+	- Via acessória
+- Início e término súbitos
+- Coração estruturalmente normal
+	- Bom prognóstico
+- Se despolarização transmitida por via acessória --> Pré-Excitação
+- ECG
+	- Onda ômega --> Sinusal --> Pré-excitação (Sem desaceleração característica do nó AV)
+		- PR curto (<120 ms)
+	- [[Síndrome de Wolf-Parkinson White]]
+	- fC - 140-280 bpm
+	- Taqui de QRS estreito e RR regular
+	- onda P não visível
+## TTo
+- Na emergência
+	- Monitorização cardíaca e de PA
+	- Oxigenação
+	- Acesso Venoso
+- [[Manobra Vagal]]
+	- Para TAP
+	- Aumento da pressão intratorácica, expirando contra a glote fechada por 30-40s
+	- [[Massagem do Seio Carotídeo]] por 5-10s
+		- Checar sopro carotídeo com estetoscópio
+- [[Adenosina]] (Cardioversão Química)
+	- Bloqueio direto do nó AV
+	- Efeitos colaterais rápidos
+		- Desconforto torácico
+		- Flushing
+		- [[Taquipnéia]]
+		- Sensação de morte iminente
+	- Contraindicação
+		- [[Bloqueio Atrioventricular (BAV)]] de 2º ou 3º Grau
+		- [[Doença Pulmonar Obstrutiva Crônica (DPOC)]] ou [[Asma]]
+		- Cafeína
+		- [[Teofilina]]
+- [[Bloqueadores de Canais de Cálcio]]
+	- [[Verapamil]] ou [[Diltiazem]]
+- [[Betabloqueadores]]
+	- [[Metoprolol]] ou [[Esmolol]]
+- [[Amiodarona]]
+	- Coração normal ou com disfunção ventricular
+- Se instabilidade hemodinâmica --> [[Cardioversão Elétrica]]
+	- 50-100J
+	- Modo sincronizado
+- Profiláticos
+	- BCC VO
+	- BB VO
+	- [[Propafenona]]
+	- [[Amiodarona]]
+- Intervencionista
+	- Ablação por radiofrequência
+		- 1ª linha para TSVP
+____
+# Referências
+---
+# Perguntas
+

@@ -1,0 +1,140 @@
+2023-03-19 12:01
+Status: #🌱 
+Tags: [[Psiquiatria]]
+<br/>
+- Alto número de mortes e incapacitações
+- Fatores de Risco
+	- IMC elevado
+	- [[Hipertensão Arterial Sistêmica (HAS)]]
+	- [[Tabagismo]]
+	- GPJ elevada
+	- Consumo de [[Álcool]]
+	- [[Desnutrição]]
+	- Riscos dietéticos
+	- LDL alto
+		- [[Dislipidemia]]
+	- Função renal prejudicada
+	- Poluição do ar
+	- Riscos ocupacionais
+- No Brasil (90-19)
+	- Aumento do nº de transtornos relacionado ao uso de [[Cocaína]] e [[Opióides]]
+	- Diminuição no nº de transtornos relacionado ao uso de [[Anfetaminas]] e [[Maconha]]
+- Uso de Drogas é responsável por 5% das mortes relacionadas ao uso de substâncias
+	- Álcool e Tabaco são os grandes "Vencedores"
+- "Mapa" do uso de de drogas
+	- Escala de Dependência x Problemas
+		- Baixa dependência e poucos problemas
+			- Uso social
+			- Se beneficiam de informação
+		- Baixa dependência mas problemas
+			- Uso problemático
+			- No álcool é o "Bebedor problema"
+			- Se beneficiam de informação, rastreio e intervenções breves
+		- Alta dependência e poucos problemas
+			- Não existe
+		- Alta dependência e problemas
+			- Transtorno de dependência
+			- No álcool, o [[Etilismo]]
+			- Se beneficiam de informação, rastreio, intervenções breves e tratamento prolongado
+## Diagnóstico
+- Segundo CID 10 e 11
+	- Uso Nocivo
+		- Responsável por dano físico ou psicológico
+		- Natureza do dano é identificável
+		- Persistência por ao menos 1 mês ou repetido no último ano
+		- Não satisfaz critérios para dependência
+	- Dependência
+		- 3 ou + itens, ocorrendo por pelo menos 1 mês ou com repetições no último ano
+			- Forte desejo ou compulsão
+			- Falta de controle
+			- Tolerância
+			- Sintomas de Abstinência
+			- Desinteresse / Abandono de atividades
+			- Uso persiste apesar dos problemas
+## Propedêutica
+- Anamnese especial
+	- Idade de início
+	- Tipo de substância
+	- Frequência e intensidade
+	- Função social e ocupacional
+	- Histórico familiar
+	- Tratamento prévio
+	- Motivação
+	- Medicamentos
+	- Comorbidades
+- EF
+	- Apresentação geral
+		- Agitação psicomotora/inquietação
+		- Sudorese
+		- Convulsões
+	- Mãos e Braços
+		- Pulso e PA
+		- Tremores
+		- Eritema Palmar
+		- Dedos amarelados de nicotina
+		- Dedos queimados de Crack
+	- Olhos
+		- [[Nistagmo]]
+		- [[Icterícia]]
+		- Palidez das mucosas
+	- Boca
+		- Hálito etílico
+		- [[Hálito Hepático]]
+	- Peito
+		- [[Ginecomastia]]
+		- Perda de pelos
+		- Aranhas vasculares
+		- Ausculta cardíaca
+	- Abdômen
+		- Alterações vasculares
+		- Fígado e baço palpáveis
+		- [[Ascite]]
+	- Testículos
+		- [[Atrofia Testicular]]
+	- Neurológico
+		- Reflexos alterados
+		- Neuropatia periférica
+		- [[Miopatia Proximal]]
+		- Alteração da coordenação motora e da marcha
+- Exame Psíquico
+	- Apresentação
+		- Descuidada
+		- Atitude desafiadora
+	- Alteração de nível de consciência (intoxicação)
+	- Prejuízos na memória e atenção
+	- Alterações do humor e afeto
+	- Instabilidade emocional
+	- Delírios e alucinações
+	- Ausência total ou parcial de crítica
+## Principais Substâncias de Abuso
+- [[Álcool]]
+- [[Tabaco]]
+- [[Maconha]]
+- [[Cocaína]]
+- [[Inalantes]]
+- [[Drogas Sintéticas]]
+- [[Opióides]]
+## Tratamento
+- Metas
+	- Abstinência ou redução no uso e nos efeitos das substâncias
+	- Redução na frequência e gravidade das recaídas
+	- Melhora no funcionamento psicológico e social
+	- Criação de habilidades para prevenção de recaídas
+	- Motivação para novos hábitos
+- Tipos
+	- Hospitalar
+		- Internação Voluntária
+		- Internação involuntária
+			- À pedido de 3º
+			- Se há risco de hetero ou auto agressão
+		- Internação Compulsória
+			- Determinada pela justiça, por laudo médico
+	- Ambulatorial
+		- Pode ser desde o 1º uso
+		- Fator decisivo: Motivação
+		- Deve estar disponível, planos individualizados
+		- Acompanhamento a longo prazo
+		- Recaídas frequentes: Aprendizado e revisão
+____
+# Referências
+

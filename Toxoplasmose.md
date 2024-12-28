@@ -1,0 +1,83 @@
+Status: #Flor 
+
+---
+# Compass
+- De onde vem?
+	- [[Linfonodomegalias Infecciosas Crônicas]]
+- O que é similar?
+	- [[Síndrome Mono-Like]]
+	- [[Mononucleose Infecciosa]]
+	- [[Citomegalovirose]]
+- O que é antagônico?
+- Ao que leva?
+
+----
+# Pergunta
+- Quais os principais pontos acerca da Toxoplasmose?
+	- Agente
+		- [[Toxoplasma gondii]]
+			- _Sub-phylum Apicomplexa_ classe _Sporozoa_ 
+			- Coccídio (protozoário)
+			- Formas
+				- Oocisto (Esporozoíto)
+				- Cisto tecidual (Bradizoíto)
+				- Taquizoítos
+		- Felinos como hospedeiros definitivos
+	- Formas de Transmissão
+		- Vertical
+		- Ingesta de Cistos (carne crua) ou Oocistos
+		- Transfusional / Transplante / Acidentes em Laboratório
+	- Formas Clínicas
+		- Adquirida
+			- Imunocompetentes
+				- Linfoglandular
+				- Ocular
+				- Cerebral
+				- Pulmonar
+			- Imunocomprometidos
+				- Ocular
+				- Cerebral
+				- Pulmonar
+				- Miocárdica
+		- Ocular
+			- [[Coriorretinite]]
+			- Possível reativação
+		- Gravidez
+			- Em imunocompetentes costuma ser assintomática
+			- Multiplicação na Placenta
+		- Vertical
+			- ~30% 1º transmissível para feto
+				- Manifestações oculares e nervosas
+					- [[Tétrade de Sabin]]
+						- [[Coriorretinite]]
+						- [[Retardo do Desenvolvimento Cognitivo]]
+						- [[Microcefalia]] / [[Macrocefalia]]
+						- [[Calcificações Intracranianas]]
+	- Diagnóstico
+		- Isolamento do parasita
+		- Histopatológico
+		- Molecular (qPCR)
+		- Sorologia (ELISA)
+			- IgG- / IgM+
+				- IgA
+					- - --> IgM Falso Positivo --> Medidas Profiláticas
+					- + --> Infecção Aguda
+				- Repetido em 2 semanas
+					- IgG+/IgM+ --> Infecção Aguda
+					- IgG-/IgM+ --> Falso Positivo --> Medidas Profiláticas
+			- Gestante
+				- IgG+ / IgM+
+					- > 16S
+						- Considerar infecção aguda
+					- < 16S
+						- Teste de Avidez de IgG
+							- Baixa (<30%) --> Infecção Aguda (<4m)
+							- Alta (>60%) --> Infecção Crônica (>4m)
+	- TTo
+		- [[Sulfadiazina]] ou [[Clindamicina]] + [[Pirimetamina]] + [[Ácido Folínico]]
+		- [[Sulfadiazina]] + [[Pirimetamina]]
+		- [[Espiramicina]] (Não atravessa a barreira placentária)
+			- Não oferece risco ao feto caso este não esteja contaminado
+		- [[Sulfametoxazol]] + [[Trimetropim]] (Discutível)
+		- [[Claritromicina]] ou [[Azitromicina]] ou [[Atovaquona]] ou [[Dapsona]] + [[Pirimetamina]] + [[Ácido Folínico]]
+		
