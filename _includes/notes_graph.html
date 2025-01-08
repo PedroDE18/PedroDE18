@@ -1,146 +1,333 @@
 <style>
+  /* Styling for the links connecting nodes */
   .links line {
-    stroke: #ccc;
-    opacity: 0.5;
+    stroke: #ccc; /* Light gray color for the links */
+    opacity: 0.5; /* Semi-transparent */
   }
-
+/* Styling for the node circles */
   .nodes circle {
-    cursor: pointer;
-    fill: #8b88e6;
-    transition: all 0.15s ease-out;
+    cursor: pointer; /* Makes the cursor a pointer when hovering over nodes */
+    fill: #8b88e6; /* Default fill color for nodes */
+    transition: all 0.15s ease-out; /* Smooth transition effect for changes */
   }
 
+  /* Styling for the text labels */
   .text text {
-    cursor: pointer;
-    fill: #333;
+    cursor: pointer; /* Allows text to be clickable */
+    fill: #333; /* Dark gray text color */
+    /* Adds a text shadow effect for readability */
     text-shadow: -1px -1px 0 #fafafabb, 1px -1px 0 #fafafabb, -1px 1px 0 #fafafabb, 1px 1px 0 #fafafabb;
   }
 
+  /* Highlighted state for active nodes and text */
   .nodes [active],
   .text [active] {
     cursor: pointer;
-    fill: black;
+    fill: black; /* Changes color to black for active elements */
   }
 
-  .inactive {
-    opacity: 0.1;
-    transition: all 0.15s ease-out;
+  .inactive { /* Styling for inactive elements (e.g., dimmed during hover interactions) */
+    opacity: 0.1; /* Almost invisible */
+    transition: all 0.15s ease-out; /* Smooth transition when changing state */
   }
 
+  /* Container for the graph with rounded corners and background color */
   #graph-wrapper {
-    background: #fcfcfc;
-    border-radius: 4px;
-    height: auto;
+    background: #fcfcfc; /* Light background */
+    border-radius: 4px; /* Slightly rounded edges */
+    height: auto; /* Dynamic height based on content */
   }
-  
+
+  /* Ensures the graph's SVG scales responsively */
   #graph-wrapper > svg {
-    max-width: 100%;
-    display: block;
+    max-width: 100%; /* Prevents overflow */
+    display: block; /* Ensures proper layout within the wrapper */
   }
 </style>
 
 <div id="graph-wrapper">
-  <svg width="800" height="600"></svg>
   <script>
+    // Attach a load event listener to initialize the graph
     window.addEventListener("load", loadGraph);
 
     function loadGraph() {
-    var oScript = document.createElement("script");
-    oScript.src = "https://cdnjs.cloudflare.com/ajax/libs/d3/5.16.0/d3.min.js";
-    oScript.crossOrigin = 'anonymous';
-    oScript.integrity =
+       // Dynamically load the D3.js library
+      var oScript = document.createElement("script");
+      oScript.src = "https://cdnjs.cloudflare.com/ajax/libs/d3/5.16.0/d3.min.js";
+      oScript.crossOrigin = 'anonymous';
+      oScript.integrity =
         "sha512-FHsFVKQ/T1KWJDGSbrUhTJyS1ph3eRrxI228ND0EGaEp6v4a/vGwPWd3Dtd/+9cI7ccofZvl/wulICEurHN1pg==";
-    document.body.appendChild(oScript);
-    oScript.onload = () => {
-        const GRAPH_DEPTH = 3; // Depth of neighbors to show
+      document.body.appendChild(oScript);
+      // Execute the graph setup once the D3 script loads
+      oScript.onload = () => {
+         // Constants for controlling graph appearance and behavior
         const MINIMAL_NODE_SIZE = 8;
         const MAX_NODE_SIZE = 12;
+        const ACTIVE_RADIUS_FACTOR = 1.5;
         const STROKE = 1;
         const FONT_SIZE = 16;
         const TICKS = 200;
+        const FONT_BASELINE = 40;
+        const MAX_LABEL_LENGTH = 50;
 
-        const graphData = {% include notes_graph.json %};
-        let allNodes = graphData.nodes;
-        let allLinks = graphData.edges;
+        // Load graph data (assumes server-side inclusion of `notes_graph.json`)
+        const graphData = {% include notes_graph.json %}
+        let nodesData = graphData.nodes; // Nodes from the graph data
+        let linksData = graphData.edges;  // Links between nodes
 
-        // Filter nodes and links to create a local graph
-        function getLocalGraph(currentPath, depth = 2) {
-            const relevantNodes = new Set();
-            const relevantLinks = [];
-            
-            // Find current node
-            const rootNode = allNodes.find((node) => window.location.pathname.includes(node.path));
-            if (!rootNode) return { nodes: [], links: [] };
 
-            // BFS to get nodes up to the desired depth
-            const queue = [{ node: rootNode, depth: 0 }];
-            while (queue.length) {
-                const { node, depth: currentDepth } = queue.shift();
-                if (currentDepth > depth || relevantNodes.has(node.id)) continue;
-                relevantNodes.add(node.id);
+        const nodeSize = {}; // Object to store dynamically calculated node sizes
 
-                const neighbors = allLinks.filter(
-                    (link) => link.source.id === node.id || link.target.id === node.id
-                );
-
-                neighbors.forEach((link) => {
-                    relevantLinks.push(link);
-                    const neighborId = link.source.id === node.id ? link.target.id : link.source.id;
-                    const neighborNode = allNodes.find((n) => n.id === neighborId);
-                    queue.push({ node: neighborNode, depth: currentDepth + 1 });
-                });
+        const updateNodeSize = () => { // Calculate node sizes based on the number of links
+          nodesData.forEach((el) => {
+            let weight =
+              3 *
+              Math.sqrt(
+                linksData.filter((l) => l.source.id === el.id || l.target.id === el.id)
+                  .length + 1
+              );
+             // Clamp the node size between MINIMAL_NODE_SIZE and MAX_NODE_SIZE
+            if (weight < MINIMAL_NODE_SIZE) {
+              weight = MINIMAL_NODE_SIZE;
+            } else if (weight > MAX_NODE_SIZE) {
+              weight = MAX_NODE_SIZE;
             }
+            nodeSize[el.id] = weight;
+          });
+        };
 
-            return {
-                nodes: allNodes.filter((n) => relevantNodes.has(n.id)),
-                links: relevantLinks,
-            };
-        }
+        const onClick = (d) => { // Handle click events on nodes (redirect to a specific path)
+          window.location = d.path
+        };
 
-        const { nodes: nodesData, links: linksData } = getLocalGraph(window.location.pathname, GRAPH_DEPTH);
+        const onMouseover = function (d) { // Highlight related nodes and links on mouseover
+          const relatedNodesSet = new Set();
+          // Identify all nodes connected to the hovered node
+          linksData
+            .filter((n) => n.target.id == d.id || n.source.id == d.id)
+            .forEach((n) => {
+              relatedNodesSet.add(n.target.id);
+              relatedNodesSet.add(n.source.id);
+            });
 
+          // Dim unrelated nodes and links
+          node.attr("class", (node_d) => {
+            if (node_d.id !== d.id && !relatedNodesSet.has(node_d.id)) {
+              return "inactive";
+            }
+            return "";
+          });
+
+          link.attr("class", (link_d) => {
+            if (link_d.source.id !== d.id && link_d.target.id !== d.id) {
+              return "inactive";
+            }
+            return "";
+          });
+
+          link.attr("stroke-width", (link_d) => {
+            if (link_d.source.id === d.id || link_d.target.id === d.id) {
+              return STROKE * 4;
+            }
+            return STROKE;
+          });
+          text.attr("class", (text_d) => {
+            if (text_d.id !== d.id && !relatedNodesSet.has(text_d.id)) {
+              return "inactive";
+            }
+            return "";
+          });
+        };
+// Reset styles on mouseout
+        const onMouseout = function (d) {
+          node.attr("class", "");
+          link.attr("class", "");
+          text.attr("class", "");
+          link.attr("stroke-width", STROKE);
+        };
+// Function to compare nodes from previous and next arrays
+        const sameNodes = (previous, next) => {
+          // If the lengths of the arrays are different, return false
+          if (next.length !== previous.length) {
+            return false;
+          }
+// Create a map to store node ids and their labels from the 'previous' array
+          const map = new Map();
+          for (const node of previous) {
+            map.set(node.id, node.label);
+          }
+// Loop through the 'next' array and check if each node exists in the map with the same label
+          for (const node of next) {
+            const found = map.get(node.id);
+            // If node is not found or the label does not match, return false
+            if (!found || found !== node.title) {
+              return false;
+            }
+          }
+ // If no issues were found, return true
+          return true;
+        };
+// Function to compare edges from previous and next arrays
+        const sameEdges = (previous, next) => {
+          // If the lengths of the arrays are different, return false
+          if (next.length !== previous.length) {
+            return false;
+          }
+// Create a set to store edge connections (source and target ids as string)
+          const set = new Set();
+          for (const edge of previous) {
+            set.add(`${edge.source.id}-${edge.target.id}`);
+          }
+// Loop through the 'next' array and check if each edge exists in the set
+          for (const edge of next) {
+            // If the edge is not in the set, return false
+            if (!set.has(`${edge.source.id}-${edge.target.id}`)) {
+              return false;
+            }
+          }
+// If no issues were found, return true
+          return true;
+        };
+// Create an SVG element and set its size according to the wrapper's dimensions
+        const graphWrapper = document.getElementById('graph-wrapper')
+        const element = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+        element.setAttribute("width", graphWrapper.getBoundingClientRect().width);
+        element.setAttribute("height", window.innerHeight * 0.8);
+        graphWrapper.appendChild(element);
+// Function to handle window resize and update SVG size accordingly
+        const reportWindowSize = () => {
+          element.setAttribute("width", window.innerWidth);
+          element.setAttribute("height", window.innerHeight);
+        };
+// Attach the resize handler to the window resize event
+        window.onresize = reportWindowSize;
+// Select the SVG element using d3
         const svg = d3.select("svg");
         const width = Number(svg.attr("width"));
         const height = Number(svg.attr("height"));
-
+        let zoomLevel = 1;// Initialize zoom level
+// Set up the simulation with forces and layout
         const simulation = d3
-            .forceSimulation(nodesData)
-            .force("link", d3.forceLink(linksData).id((d) => d.id).distance(70))
-            .force("charge", d3.forceManyBody())
-            .force("center", d3.forceCenter(width / 2, height / 2))
-            .stop();
-
+          .forceSimulation(nodesData)// Nodes data
+          .force("forceX", d3.forceX().x(width / 2)) // Horizontal force towards center
+          .force("forceY", d3.forceY().y(height / 2))// Vertical force towards center
+          .force("charge", d3.forceManyBody())// Charge force for node repulsion
+          .force(
+            "link",
+            d3
+              .forceLink(linksData)// Links data
+              .id((d) => d.id)/ Unique identifier for each link
+              .distance(70)/ Distance between linked nodes
+          )
+          .force("center", d3.forceCenter(width / 2, height / 2)) // Center the graph
+          .force("collision", d3.forceCollide().radius(80)) // Collide nodes to avoid overlap
+          .stop(); // Stops the simulation initially
+// Create SVG groups for links, nodes, and text elements
         const g = svg.append("g");
         let link = g.append("g").attr("class", "links").selectAll(".link");
         let node = g.append("g").attr("class", "nodes").selectAll(".node");
-
-        const ticked = () => {
-            node.attr("cx", (d) => d.x).attr("cy", (d) => d.y);
-            link
-                .attr("x1", (d) => d.source.x)
-                .attr("y1", (d) => d.source.y)
-                .attr("x2", (d) => d.target.x)
-                .attr("y2", (d) => d.target.y);
+        let text = g.append("g").attr("class", "text").selectAll(".text");
+// Resize function to adjust elements based on zoom level
+        const resize = () => {
+          if (d3.event) {
+            const scale = d3.event.transform;
+            zoomLevel = scale.k;
+            g.attr("transform", scale);
+          }
+// Function to adjust values based on the zoom level
+          const zoomOrKeep = (value) => (zoomLevel >= 1 ? value / zoomLevel : value);
+// Adjust font size and node size based on zoom level
+          const font = Math.max(Math.round(zoomOrKeep(FONT_SIZE)), 1);
+// Update text size, link width, and node radius based on zoom level
+          text.attr("font-size", (d) => font);
+          text.attr("y", (d) => d.y - zoomOrKeep(FONT_BASELINE) + 8);
+          link.attr("stroke-width", zoomOrKeep(STROKE));
+          node.attr("r", (d) => {
+            return zoomOrKeep(nodeSize[d.id]);
+          });
+          // Adjust active node size on zoom
+          svg
+            .selectAll("circle")
+            .filter((_d, i, nodes) => d3.select(nodes[i]).attr("active"))
+            .attr("r", (d) => zoomOrKeep(ACTIVE_RADIUS_FACTOR * nodeSize[d.id]));
         };
 
-        simulation.on("tick", ticked);
-
-        node = node
-            .data(nodesData)
+// Tick function to update the positions of nodes, links, and text
+        const ticked = () => {
+          node.attr("cx", (d) => d.x).attr("cy", (d) => d.y);
+          text
+            .attr("x", (d) => d.x)
+            .attr("y", (d) => d.y - (FONT_BASELINE - nodeSize[d.id]) / zoomLevel);
+          link
+            .attr("x1", (d) => d.source.x)
+            .attr("y1", (d) => d.source.y)
+            .attr("x2", (d) => d.target.x)
+            .attr("y2", (d) => d.target.y);
+        };
+// Function to update the graph when the data changes
+        const restart = () => {
+          updateNodeSize(); // Update node size based on new data
+          node = node.data(nodesData, (d) => d.id); // Bind new data to nodes
+          node.exit().remove(); // Remove old nodes
+          // Create new nodes and bind events for interaction
+          node = node
             .enter()
             .append("circle")
-            .attr("r", MINIMAL_NODE_SIZE)
-            .on("click", (d) => (window.location = d.path));
-
-        link = link
-            .data(linksData)
+            .attr("r", (d) => {
+              return nodeSize[d.id];
+            })
+            .on("click", onClick)
+            .on("mouseover", onMouseover)
+            .on("mouseout", onMouseout)
+            .merge(node);
+// Handle links the same way as nodes
+          link = link.data(linksData, (d) => `${d.source.id}-${d.target.id}`);
+          link.exit().remove();
+          link = link.enter().append("line").attr("stroke-width", STROKE).merge(link);
+// Handle text elements
+          text = text.data(nodesData, (d) => d.label);
+          text.exit().remove();
+          text = text
             .enter()
-            .append("line")
-            .attr("stroke-width", STROKE);
-
-        simulation.nodes(nodesData).force("link").links(linksData);
-        simulation.alpha(1).restart();
-    };
-}
+            .append("text")
+            .text((d) => shorten(d.label.replace(/_*/g, ""), MAX_LABEL_LENGTH))
+            .attr("font-size", `${FONT_SIZE}px`)
+            .attr("text-anchor", "middle")
+            .attr("alignment-baseline", "central")
+            .on("click", onClick)
+            .on("mouseover", onMouseover)
+            .on("mouseout", onMouseout)
+            .merge(text);
+// Mark nodes and text as "active" based on path condition
+          node.attr("active", (d) => isCurrentPath(d.path) ? true : null);
+          text.attr("active", (d) => isCurrentPath(d.path) ? true : null);
+// Restart the simulation with updated data
+          simulation.nodes(nodesData);
+          simulation.force("link").links(linksData);
+          simulation.alpha(1).restart();
+          simulation.stop();
+ // Simulate a few ticks to stabilize the layout
+          for (let i = 0; i < TICKS; i++) {
+            simulation.tick();
+          }
+// Call ticked to apply the new positions
+          ticked();
+        };
+// Apply zoom handler to the SVG element
+        const zoomHandler = d3.zoom().scaleExtent([0.2, 3]).on("zoom", resize);
+        zoomHandler(svg);
+      // Start the graph rendering process
+        restart();
+// Helper function to check if the current path matches a note path
+        function isCurrentPath(notePath) {
+          return window.location.pathname.includes(notePath)
+        }
+// Helper function to shorten long text labels
+        function shorten(str, maxLen, separator = ' ') {
+          if (str.length <= maxLen) return str;
+          return str.substr(0, str.lastIndexOf(separator, maxLen)) + '...';
+        }
+      }
+    }
   </script>
 </div>
