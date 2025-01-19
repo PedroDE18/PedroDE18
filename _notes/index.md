@@ -8,48 +8,20 @@ permalink: /
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  Aqui está um conjunto de anotações que tomei durante a faculdade de Medicina, 
+seguirei atualizando este site, para torná-lo cada vez mais completo! 
 </p>
 
-Aqui está um conjunto de anotações que tomei durante a faculdade de Medicina, 
-seguirei atualizando este site, para torná-lo cada vez mais completo! 
+# Grandes Áreas
+<div class="grid-container">
+  <a href=[[Atenção Primária em Saúde (APS)]] class="grid-item">Atenção Primária</a>
+  <a href=[[Clínica Médica]] class="grid-item">Clínica Médica</a>
+  <a href=[Cirurgia]] class="grid-item">Cirurgia</a>
+  <a href=[[Pediatria]] class="grid-item">Pediatria</a>
+  <a href=[[Ginecologia & Obstetrícia]] class="grid-item">GO</a>
+  <a href=[[Pesquisa]] class="grid-item">Pesquisa</a>
+</div>
 
-# Matérias
-[[Anatomia]]
-[[Anestesiologia]]
-[[Atenção Primária em Saúde (APS)]]
-[[Cardiologia]]
-[[Cirurgia Cardiotorácica]]
-[[Cirurgia de Cabeça e Pescoço (CCP)]]
-[[Cirurgia]]
-[[Cirurgia Plástica]]
-[[Cirurgia Vascular]]
-[[Cuidados Paliativos]]
-[[Dermatologia]]
-[[Endocrinologia]]
-[[Emergência]]
-[[Gastroenterologia]]
-[[Geriatria]]
-[[Ginecologia & Obstetrícia]]
-[[Hepatologia]]
-[[Infectologia]]
-[[Imunologia]]
-[[Medicina Legal]]
-[[Medicina Ocupacional]]
-[[Nefrologia]]
-[[Neurologia]]
-[[Obstetrícia]]
-[[Oftalmologia]]
-[[Oncologia]]
-[[Ortopedia]]
-[[Otorrinolaringologia (ORL)]]
-[[Patologia]]
-[[Pediatria]]
-[[Pneumologia]]
-[[Propedêutica]]
-[[Psiquiatria]]
-[[Reumatologia]]
-[[Urologia]]
 
 <strong>Anotações Recentemente Atualizadas</strong>
 
@@ -63,6 +35,28 @@ seguirei atualizando este site, para torná-lo cada vez mais completo!
 </ul>
 
 <style>
+  .grid-container{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  gap: 1em;
+  margin: 2em 0;
+  }
+  .grid-item{
+  background-color: #4caf50;
+  color: white;
+  padding: 1.5em;
+  text-align: center;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 1.2em;
+  font-weight: bold;
+  transition: transform 0.2s, background-color 0.3s;
+  }
+  .grid-item: hover{
+  background-color: #388e3c;
+  transform: translateY(-5px);
+  }
+  }
   .wrapper {
     max-width: 46em;
   }
