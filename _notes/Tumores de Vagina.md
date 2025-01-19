@@ -1,6 +1,6 @@
 2023-05-13 14:02
 Status: #🌱  
-Tags: [[Ginecologia]], [[Oncologia]], [[Patologia]]
+Tags: [[Ginecologia & Obstetrícia]], [[Oncologia]], [[Patologia]]
 <br/>
 - Maioria dos diagnósticos ocorre em estadios avançados
 - Estadiamento por TNM e FIGO

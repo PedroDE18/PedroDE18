@@ -1,6 +1,6 @@
 2023-09-06 17:41
 Status: #🌱 
-Tags: [[Oncologia]], [[Cirurgia Geral]], [[Cirurgia Plástica]]
+Tags: [[Oncologia]], [[Cirurgia]], [[Cirurgia Plástica]]
 <br/>
 - Modalidade locorregional de terapia
 - Objetivos

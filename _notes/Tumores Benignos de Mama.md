@@ -1,6 +1,6 @@
 2023-05-13 13:23
 Status: #🌱  
-Tags: [[Ginecologia]], [[Mastologia]], [[Oncologia]], [[Patologia]]
+Tags: [[Ginecologia & Obstetrícia]], [[Mastologia]], [[Oncologia]], [[Patologia]]
 <br/>
 >[!warning] Fluxo Papilar
 >- Fisiológico

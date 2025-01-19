@@ -1,6 +1,6 @@
 2023-04-08 10:59
 Status: #🌱 
-Tags: [[Cirurgia Geral]], [[Oncologia]], [[Hepatologia]]
+Tags: [[Cirurgia]], [[Oncologia]], [[Hepatologia]]
 <br/>
 - Todos os tumores 1os são hipervascularizados (portanto captam bem contraste)
 	- Bom para diferenciar de d. metastática

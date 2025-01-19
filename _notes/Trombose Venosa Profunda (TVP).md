@@ -26,7 +26,7 @@ Tags: [[Cirurgia Vascular]]
 ## Fatores de Risco
 - Associação
 	-  36-55% --> Artroplastia de Quadril
-	- 22.8-25% --> [[Cirurgia Geral]]
+	- 22.8-25% --> [[Cirurgia]]
 	- 62.5% --> Fraturas de MMII
 	- 60% --> [[AVC]]
 	- 23% --> [[Infarto Agudo do Miocárdio (IAM)]]

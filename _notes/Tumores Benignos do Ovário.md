@@ -1,6 +1,6 @@
 2023-05-12 20:19
 Status: #🌱  
-Tags: [[Ginecologia]], [[Oncologia]], [[Patologia]]
+Tags: [[Ginecologia & Obstetrícia]], [[Oncologia]], [[Patologia]]
 <br/>
 ## Cistos
 - Mais comuns na menacme

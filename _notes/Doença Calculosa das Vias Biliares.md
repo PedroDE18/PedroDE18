@@ -1,6 +1,6 @@
 2023-04-07 12:42
 Status: #🌱   
-Tags: [[Cirurgia Geral]], [[Hepatologia]], [[Gastroenterologia]]
+Tags: [[Cirurgia]], [[Hepatologia]], [[Gastroenterologia]]
 <br/>
 - Presença de cálculos na vesícula e/ou na árvore biliar
 	- Evolução possivelmente assintomática

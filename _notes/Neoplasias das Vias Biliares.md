@@ -1,6 +1,6 @@
 2023-04-07 12:40
 Status: #🌱   
-Tags: [[Cirurgia Geral]], [[Oncologia]]
+Tags: [[Cirurgia]], [[Oncologia]]
 <br/>
 ## [[Câncer da Vesícula Biliar]]
 - Agressivo

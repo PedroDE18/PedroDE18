@@ -1,6 +1,6 @@
 2023-04-06 15:45
 Status: #🌱   
-Tags: [[Cirurgia Plástica]], [[Cirurgia Geral]], [[Geriatria]]
+Tags: [[Cirurgia Plástica]], [[Cirurgia]], [[Geriatria]]
 <br/>
 >[!note] Definição
 >Áreas de ulceração e necrose da pele e tecidos moles de qualquer parte do corpo, usualmente sobre uma proeminência óssea, que seja submetida a uma pressão prolongada  

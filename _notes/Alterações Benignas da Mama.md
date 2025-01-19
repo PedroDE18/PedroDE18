@@ -1,6 +1,6 @@
 2023-05-13 13:15
 Status: #🌱 
-Tags: [[Ginecologia]], [[Mastologia]]
+Tags: [[Ginecologia & Obstetrícia]], [[Mastologia]]
 <br/>
 ## Alterações do Desenvolvimento
 - [[Politelia]]

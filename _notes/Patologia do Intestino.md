@@ -1,6 +1,6 @@
 2023-11-15 11:48
 Status: #🌱 
-Tags: [[Patologia]], [[Gastroenterologia]], [[Cirurgia Geral]], [[Oncologia]], [[Duodeno]], [[Intestino Delgado]], [[Intestino Grosso]]
+Tags: [[Patologia]], [[Gastroenterologia]], [[Cirurgia]], [[Oncologia]], [[Duodeno]], [[Intestino Delgado]], [[Intestino Grosso]]
 <br/>
 ## Doenças Não Neoplásicas
 ### [[Enterocolites Infecciosas]]

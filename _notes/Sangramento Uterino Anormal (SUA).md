@@ -1,13 +1,13 @@
 2023-05-12 12:21
 Status: #Folha   
-Tags: [[Ginecologia]], [[Hematologia]]
+Tags: [[Ginecologia & Obstetrícia]], [[Hematologia]]
 <br/>
 Status: #Flor 
 
 ---
 # Compass
 - De onde vem?
-	- [[Ginecologia]]
+	- [[Ginecologia & Obstetrícia]]
 	- [[Metrorragia]]
 - O que é similar?
 	- [[Coagulopatias]]

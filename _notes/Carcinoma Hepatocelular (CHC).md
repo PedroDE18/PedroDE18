@@ -1,6 +1,6 @@
 2023-03-19 12:37
 Status: #🌱   
-Tags: [[Gastroenterologia]], [[Cirurgia Geral]], [[Hepatologia]], [[Oncologia]], [[Neoplasias Hepáticas Primárias]]
+Tags: [[Gastroenterologia]], [[Cirurgia]], [[Hepatologia]], [[Oncologia]], [[Neoplasias Hepáticas Primárias]]
 <br/>
 - 5º Tumor mais comum
 - 3º em causa de morte

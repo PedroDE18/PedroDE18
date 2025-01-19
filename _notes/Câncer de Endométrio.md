@@ -1,6 +1,6 @@
 2023-05-13 13:09
 Status: #🌱   
-Tags: [[Ginecologia]], [[Oncologia]], [[Patologia]]
+Tags: [[Ginecologia & Obstetrícia]], [[Oncologia]], [[Patologia]]
 <br/>
 - 7º Ca mais frequente
 	- 6540 casos novos em 2020

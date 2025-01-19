@@ -1,6 +1,6 @@
 2023-05-12 20:30
 Status: #🌱 
-Tags: [[Ginecologia]], [[Oncologia]], [[Patologia]]
+Tags: [[Ginecologia & Obstetrícia]], [[Oncologia]], [[Patologia]]
 <br/>
 - 6650 novos casos/2020
 - ~3879 óbitos/ano

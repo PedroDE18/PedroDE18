@@ -1,6 +1,6 @@
 2023-05-13 15:25
 Status: #🌱  
-Tags: [[Ginecologia]], [[Dermatologia]], [[Infectologia]], [[Virologia]], [[Infecções Sexualmente Transmitidas (ISTs)]], [[Patologia]]
+Tags: [[Ginecologia & Obstetrícia]], [[Dermatologia]], [[Infectologia]], [[Virologia]], [[Infecções Sexualmente Transmitidas (ISTs)]], [[Patologia]]
 <br/>
 - Papilomavírus humano
 	- Mais oncogênicos: 16 e 18

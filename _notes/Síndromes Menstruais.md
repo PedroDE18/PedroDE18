@@ -1,6 +1,6 @@
 2023-05-12 11:57
 Status: #🌱  
-Tags: [[Ginecologia]]
+Tags: [[Ginecologia & Obstetrícia]]
 <br/>
 ## [[Dismenorreia]]
 - "Fluxo Menstrual Difícil"

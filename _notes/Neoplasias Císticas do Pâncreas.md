@@ -1,6 +1,6 @@
 2023-03-05 19:01
 Status: #🌱 
-Tags: [[Cirurgia Geral]], [[Oncologia]], [[Gastroenterologia]], [[Np. de Pâncreas]]
+Tags: [[Cirurgia]], [[Oncologia]], [[Gastroenterologia]], [[Np. de Pâncreas]]
 <br/>
 ## Mucinosa
 - Mais ff. (20-40%)

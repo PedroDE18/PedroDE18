@@ -1,6 +1,6 @@
 2023-05-12 11:07
 Status: #🌱  
-Tags: [[Ginecologia]], [[Embriologia]], [[Genética]]
+Tags: [[Ginecologia & Obstetrícia]], [[Embriologia]], [[Genética]]
 <br/>
 >[!info] Definição
 >Defeitos na formação, desenvolvimento ou diferenciação de órgãos genitais

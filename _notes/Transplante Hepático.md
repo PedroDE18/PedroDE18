@@ -1,6 +1,6 @@
 2023-04-08 10:55
 Status: #🌱   
-Tags: [[Cirurgia Geral]], [[Hepatologia]]
+Tags: [[Cirurgia]], [[Hepatologia]]
 <br/>
 - [[Cirrose Hepática]]
 	- Insuficiência Hepática

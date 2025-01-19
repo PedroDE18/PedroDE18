@@ -1,6 +1,6 @@
 2023-05-13 14:00
 Status: #🌱 
-Tags: [[Ginecologia]], [[Oncologia]], [[Patologia]]
+Tags: [[Ginecologia & Obstetrícia]], [[Oncologia]], [[Patologia]]
 <br/>
 - 2a maior causa de mortalidade por Ca em mulheres
 - Citologia oncótica (Papanicolau) reduz a incidência em 70% nos países onde existem sistemas de _screening_ organizado

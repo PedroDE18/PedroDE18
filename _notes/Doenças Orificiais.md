@@ -1,6 +1,6 @@
 2023-04-07 12:36
 Status: #🌱 
-Tags: [[Gastroenterologia]], [[Cirurgia Geral]], [[Proctologia]]
+Tags: [[Gastroenterologia]], [[Cirurgia]], [[Proctologia]]
 <br/>
 ## [[Doença Hemorroidária]]
 - Afecção proctológica mais prevalente

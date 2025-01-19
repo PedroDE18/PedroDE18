@@ -1,6 +1,6 @@
 2023-05-13 15:35
 Status: #🌱    
-Tags: [[Ginecologia]], [[Infectologia]], [[Dermatologia]]
+Tags: [[Ginecologia & Obstetrícia]], [[Infectologia]], [[Dermatologia]]
 <br/>
 - Agentes = _[[Candida albicans]]_, _[[Candida glabrata]]_
 ## Candidíase Vaginal

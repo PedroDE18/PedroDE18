@@ -1,6 +1,6 @@
 2023-03-07 13:45
 Status: #🌲  
-Tags: [[Cirurgia Geral]]
+Tags: [[Cirurgia]]
 <br/>
 
 1. A maioria dos casos de sg agudo gastrointestinal ocorre:

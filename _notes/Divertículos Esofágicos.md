@@ -1,6 +1,6 @@
 2023-04-07 12:32
 Status: #🌱   
-Tags: [[Gastroenterologia]], [[Cirurgia Geral]]
+Tags: [[Gastroenterologia]], [[Cirurgia]]
 <br/>
 - Protrusão ou evaginação da parede do esôfago
 - Classificação

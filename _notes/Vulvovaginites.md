@@ -1,6 +1,6 @@
 2023-05-13 15:28
 Status: #🌱  
-Tags: [[Ginecologia]], [[Infectologia]]
+Tags: [[Ginecologia & Obstetrícia]], [[Infectologia]]
 <br/>
 - Manifestações Inflamatórias e/ou infecções do trato genital feminino inferior
 - Bacterianas, fúngicas ou por protozoários

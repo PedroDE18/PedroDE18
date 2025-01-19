@@ -1,6 +1,6 @@
 2023-05-13 14:03
 Status: #🌱  
-Tags: [[Urologia]], [[Ginecologia]], [[Geriatria]]
+Tags: [[Urologia]], [[Ginecologia & Obstetrícia]], [[Geriatria]]
 <br/>
 ## Epidemiologia
 - >50% das mulheres pós-menopausa

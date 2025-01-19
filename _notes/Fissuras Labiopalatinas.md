@@ -1,6 +1,6 @@
 2023-04-06 15:37
 Status: #🌱   
-Tags: [[Cirurgia Geral]], [[Pediatria]]
+Tags: [[Cirurgia]], [[Pediatria]]
 <br/>
 - 1-10 crianças que nascem com fissura lábio-palatina morrem antes de completar um ano de vida
 	- FLP isolada aumenta o risco de morte em 2x

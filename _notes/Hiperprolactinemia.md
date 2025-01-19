@@ -1,6 +1,6 @@
 2023-05-12 16:09
 Status: #🌱  
-Tags: [[Ginecologia]], [[Endocrinologia]]
+Tags: [[Ginecologia & Obstetrícia]], [[Endocrinologia]]
 <br/>
 - 56% - Prolactinomas
 	- Micro (<10 mm) ou macro (>10 mm)

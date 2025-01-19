@@ -1,6 +1,6 @@
 2023-03-05 09:19
 Status: #Procedure
-Tags: [[IC]], [[Biologia Molecular]], [[Laboratório]]
+Tags: [[Pesquisa]], [[Biologia Molecular]], [[Laboratório]]
 <br/>
 - Volume final na placa - 15 micro Litros por amostra
 	- Destes

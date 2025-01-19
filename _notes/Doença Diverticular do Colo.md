@@ -1,6 +1,6 @@
 2023-04-07 12:29
 Status: #🌱   
-Tags: [[Cirurgia Geral]], [[Gastroenterologia]]
+Tags: [[Cirurgia]], [[Gastroenterologia]]
 <br/>
 ## Divertículos
 - Congênitos

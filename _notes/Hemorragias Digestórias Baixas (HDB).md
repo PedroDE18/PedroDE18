@@ -1,6 +1,6 @@
 2023-04-07 12:35
 Status: #🌱 
-Tags: [[Gastroenterologia]], [[Cirurgia Geral]], [[Proctologia]]
+Tags: [[Gastroenterologia]], [[Cirurgia]], [[Proctologia]]
 <br/>
 - Distal à válvula ileocecal
 - Maciça se

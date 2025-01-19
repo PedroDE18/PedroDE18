@@ -1,6 +1,6 @@
 2023-02-20 19:47
 Status: #🌱   
-Tags: [[Gastroenterologia]]  [[Inibidores da Bomba de Prótons]] [[Cirurgia Geral]]
+Tags: [[Gastroenterologia]]  [[Inibidores da Bomba de Prótons]] [[Cirurgia]]
 <br/>
 
 >[!note] Definição

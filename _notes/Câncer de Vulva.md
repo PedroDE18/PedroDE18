@@ -1,6 +1,6 @@
 2023-05-13 14:00
 Status: #🌱 
-Tags: [[Ginecologia]], [[Oncologia]], [[Patologia]]
+Tags: [[Ginecologia & Obstetrícia]], [[Oncologia]], [[Patologia]]
 <br/>
 - A vulva representa ~1% da SC
 - Úlceras

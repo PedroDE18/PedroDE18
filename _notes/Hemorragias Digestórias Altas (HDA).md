@@ -1,6 +1,6 @@
 2023-04-07 12:34
 Status: #🌱 
-Tags: [[Gastroenterologia]], [[Cirurgia Geral]]
+Tags: [[Gastroenterologia]], [[Cirurgia]]
 <br/>
 - Alta = Proximal à papila duodenal maior (de Vater)
 ## Anamnese

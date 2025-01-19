@@ -1,6 +1,6 @@
 2023-03-20 12:00
 Status: #🌱   
-Tags: [[Cirurgia Plástica]], [[Sutura]], [[Cirurgia Geral]]
+Tags: [[Cirurgia Plástica]], [[Sutura]], [[Cirurgia]]
 <br/>
 - Suturas - Aproximação de estruturas teciduais
 - Diretrizes Básicas

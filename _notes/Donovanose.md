@@ -1,6 +1,6 @@
 2023-05-13 14:12
 Status: #🌱  
-Tags: [[Ginecologia]], [[Dermatologia]], [[Infecções Sexualmente Transmitidas (ISTs)]], [[Infectologia]]
+Tags: [[Ginecologia & Obstetrícia]], [[Dermatologia]], [[Infecções Sexualmente Transmitidas (ISTs)]], [[Infectologia]]
 <br/>
 - "Granuloma Inguinal"
 - Agente: _[[Klebisiela granulomatis]]_ (G-)

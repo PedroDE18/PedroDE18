@@ -1,6 +1,6 @@
 2023-04-06 18:07
 Status: #🌱   
-Tags: [[Cirurgia Geral]], [[Gastroenterologia]], [[Oncologia]]
+Tags: [[Cirurgia]], [[Gastroenterologia]], [[Oncologia]]
 <br/>
 ## Epidemiologia
 - 13-14k casos/ano

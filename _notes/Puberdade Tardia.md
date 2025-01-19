@@ -1,6 +1,6 @@
 2023-05-12 16:03
 Status: #🌱  
-Tags: [[Ginecologia]], [[Hebiatria]]
+Tags: [[Ginecologia & Obstetrícia]], [[Hebiatria]]
 <br/>
 - Nenhum desenvolvimento de caracteres sexuais secundários aos 13 anos ou ausência de menarca aos 15 anos
 - Etiologia

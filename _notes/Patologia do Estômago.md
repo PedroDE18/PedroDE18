@@ -1,6 +1,6 @@
 2023-11-13 19:56
 Status: #🌱 
-Tags: [[Patologia]], [[Cirurgia Geral]], [[Gastroenterologia]], [[Oncologia]], [[Estômago]]
+Tags: [[Patologia]], [[Cirurgia]], [[Gastroenterologia]], [[Oncologia]], [[Estômago]]
 <br/>
 ## Doenças Inflamatórias Agudas
 - [[Gastrite Aguda]]

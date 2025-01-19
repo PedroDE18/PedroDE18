@@ -1,6 +1,6 @@
 2023-05-12 15:51
 Status: #🌱  
-Tags: [[Ginecologia]], [[Hebiatria]], [[Endocrinologia]]
+Tags: [[Ginecologia & Obstetrícia]], [[Hebiatria]], [[Endocrinologia]]
 <br/>
 - Incompleta (Variantes do desenvolvimento puberal)
 	- Telarca precoce isolada

@@ -1,6 +1,6 @@
 2023-05-13 15:22
 Status: #🌱  
-Tags: [[Ginecologia]], [[Infecções Sexualmente Transmitidas (ISTs)]], [[Infectologia]]
+Tags: [[Ginecologia & Obstetrícia]], [[Infecções Sexualmente Transmitidas (ISTs)]], [[Infectologia]]
 <br/>
 - Agente: _[[Neisseria gonorrhoeae]]_, G-
 - QC

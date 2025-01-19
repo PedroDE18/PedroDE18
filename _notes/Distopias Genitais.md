@@ -1,6 +1,6 @@
 2023-05-13 14:03
 Status: #🌱 
-Tags: [[Ginecologia]]
+Tags: [[Ginecologia & Obstetrícia]]
 <br/>
 ## Suspensão Pélvica
 - Fáscia Endopélvica

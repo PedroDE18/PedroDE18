@@ -1,6 +1,6 @@
 2023-05-13 15:31
 Status: #🌱  
-Tags: [[Ginecologia]], [[Infectologia]], [[Vulvovaginites]]
+Tags: [[Ginecologia & Obstetrícia]], [[Infectologia]], [[Vulvovaginites]]
 <br/>
 - Pouca inflamação
 - Flora mista

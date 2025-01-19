@@ -1,6 +1,6 @@
 2023-04-07 12:31
 Status: #🌱 
-Tags: [[Gastroenterologia]], [[Cirurgia Geral]]
+Tags: [[Gastroenterologia]], [[Cirurgia]]
 <br/>
 - [[Acalasia]] (falha em relaxar)
 	- EIE mantém estado de tonicidade

@@ -1,6 +1,6 @@
 2023-11-12 19:43
 Status: #🌱 
-Tags: [[Patologia]], [[Gastroenterologia]], [[Cirurgia Geral]], [[Oncologia]], [[Esôfago]]
+Tags: [[Patologia]], [[Gastroenterologia]], [[Cirurgia]], [[Oncologia]], [[Esôfago]]
 <br/>
 ## Malformações
 - [[Agenesia de Esôfago]]

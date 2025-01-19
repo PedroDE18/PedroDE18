@@ -1,6 +1,6 @@
 2023-05-12 16:26
 Status: #🌱  
-Tags: [[Ginecologia]]
+Tags: [[Ginecologia & Obstetrícia]]
 <br/>
 - Início com o esgotamento da reserva ovariana
 	- ~45 anos

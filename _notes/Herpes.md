@@ -1,6 +1,6 @@
 2023-05-13 14:15
 Status: #🌱  
-Tags: [[Ginecologia]], [[Dermatologia]], [[Virologia]], [[Infecções Sexualmente Transmitidas (ISTs)]], [[Infectologia]]
+Tags: [[Ginecologia & Obstetrícia]], [[Dermatologia]], [[Virologia]], [[Infecções Sexualmente Transmitidas (ISTs)]], [[Infectologia]]
 <br/>
 ## Herpes Simples
 ## Herpes Genital

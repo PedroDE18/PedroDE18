@@ -1,6 +1,6 @@
 2023-03-05 17:52
 Status: #🌱   
-Tags: [[Cirurgia Geral]], [[Oncologia]], [[Gastroenterologia]], [[Np. de Pâncreas]]
+Tags: [[Cirurgia]], [[Oncologia]], [[Gastroenterologia]], [[Np. de Pâncreas]]
 <br/>
 
 > [!warning] Menor índice de sobrevivência dentre Nps. do sistema digestório

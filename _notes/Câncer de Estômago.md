@@ -1,6 +1,6 @@
 2023-02-22 01:33
 Status: #🌱   
-Tags: [[Cirurgia Geral]],[[Gastroenterologia]], [[Oncologia]]
+Tags: [[Cirurgia]],[[Gastroenterologia]], [[Oncologia]]
 <br/>
 ## Incidência
 - Baixo nível socioeconômico

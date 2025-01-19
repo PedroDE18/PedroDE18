@@ -1,6 +1,6 @@
 2023-05-13 14:04
 Status: #🌱 
-Tags: [[Ginecologia]], [[Endocrinologia]]
+Tags: [[Ginecologia & Obstetrícia]], [[Endocrinologia]]
 <br/>
 - Critérios diagnósticos (Rotterdam)
 	- 2 necessários

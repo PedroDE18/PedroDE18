@@ -1,6 +1,6 @@
 2023-05-13 14:01
 Status: #🌱  
-Tags: [[Ginecologia]], [[Infectologia]], [[Infecções Sexualmente Transmitidas (ISTs)]]
+Tags: [[Ginecologia & Obstetrícia]], [[Infectologia]], [[Infecções Sexualmente Transmitidas (ISTs)]]
 <br/>
 ## [[Sífilis]]
 ## [[Cancro Mole]]

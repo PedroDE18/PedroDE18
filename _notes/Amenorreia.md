@@ -1,6 +1,6 @@
 2023-05-13 13:43
 Status: #🌱 
-Tags: [[Ginecologia]]
+Tags: [[Ginecologia & Obstetrícia]]
 <br/>
 - Ausência da Menstruação
 	- 1a (Nunca menstruou)

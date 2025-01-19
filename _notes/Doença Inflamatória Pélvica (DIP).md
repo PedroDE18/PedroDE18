@@ -1,6 +1,6 @@
 2023-05-13 14:02
 Status: #🌱 
-Tags: [[Ginecologia]], [[Infectologia]]
+Tags: [[Ginecologia & Obstetrícia]], [[Infectologia]]
 <br/>
 - Ascenção e disseminação no trato genital superior feminino de micro-organismos provenientes da vagina ou endocérvice
 - Gg. - _[[Neisseria gonorrhoeae]]_ e _[[Chlamydia trachomatis]]_; Anaeróbios

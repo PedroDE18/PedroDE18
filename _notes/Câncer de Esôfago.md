@@ -1,6 +1,6 @@
 02023-02-22 01:34
 Status: #🌱   
-Tags: [[Gastroenterologia]], [[Cirurgia Geral]], [[Oncologia]]
+Tags: [[Gastroenterologia]], [[Cirurgia]], [[Oncologia]]
 <br/>
 ## Incidência
 - 1% de todos os cânceres

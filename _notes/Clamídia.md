@@ -1,6 +1,6 @@
 2023-05-13 15:19
 Status: #🌱 
-Tags: [[Ginecologia]], [[Infecções Sexualmente Transmitidas (ISTs)]], [[Infectologia]]
+Tags: [[Ginecologia & Obstetrícia]], [[Infecções Sexualmente Transmitidas (ISTs)]], [[Infectologia]]
 <br/>
 - Mais comum das ISTs
 - Agente: _[[Chlamydia trachomatis]]_

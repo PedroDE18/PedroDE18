@@ -1,6 +1,6 @@
 2023-04-08 22:07
 Status: #🌲  
-Tags: [[Cirurgia Geral]],. [[Revisão de Ciru Geral]]
+Tags: [[Cirurgia]],. [[Revisão de Ciru Geral]]
 <br/>
 ## **HEMORRAGIA DIGESTIVA ALTA E BAIXA
 1. **Como proceder ao receber um paciente com HDA no pronto socorro? E quais exames são necessários?**
