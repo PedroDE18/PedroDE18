@@ -114,6 +114,6 @@ ____
 ---
 # Perguntas
 - [[Conduta Inicial em Compressão Medular]]
-- [[Febre em paciente oncológico]]
+- [[Febre em Paciente Oncológico]]
 - [[Síndrome da Lise Tumoral]]
 - [[Síndrome da Veia Cava Superior]]

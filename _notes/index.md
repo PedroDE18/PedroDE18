@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+<p style="padding: 3em 1em; background: #808080; border-radius: 4px;">
   Aqui está um conjunto de anotações que tomei durante a faculdade de Medicina, 
 seguirei atualizando este site, para torná-lo cada vez mais completo! 
 </p>
@@ -58,7 +58,7 @@ seguirei atualizando este site, para torná-lo cada vez mais completo!
   }
   .grid-item{
   background-color: #808080;
-  color: gray;
+  color: #808080;
   padding: 1.5em;
   text-align: center;
   border-radius: 8px;

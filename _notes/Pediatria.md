@@ -12,7 +12,7 @@ ____
 - [[Infecções das Vias Aéreas Superiores (IVAS)]], [[Pneumonia]]
 - [[Asma]], [[Rinite]]
 - [[Violência na Infância e Adolescência]]
-- [[Suporte básico de vida pediátrico]]
+- [[Suporte Básico de Vida Pediátrico (PALS)]]
 - [[Oncopediatria]]
 - [[Obesidade Infantil]]
 - [[Doença do Refluxo Gastroesofágico (DRGE)]]
