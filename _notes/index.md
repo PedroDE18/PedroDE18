@@ -44,8 +44,8 @@ seguirei atualizando este site, para torná-lo cada vez mais completo!
   margin: 2em 0;
   }
   .grid-item{
-  background-color: #4caf50;
-  color: white;
+  background-color: #808080;
+  color: gray;
   padding: 1.5em;
   text-align: center;
   border-radius: 8px;
