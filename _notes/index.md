@@ -14,13 +14,14 @@ seguirei atualizando este site, para torná-lo cada vez mais completo!
 
 # Grandes Áreas
 <div class="grid-container">
-  <a href="/Aten%C3%AD%C3%A7o%20Prim%C3%A1ria%20em%20Sa%C3%BAde%20%28APS%29" class="grid-item">Atenção Primária</a>
-  <a href="/Cl%C3%ADnica%20M%C3%A9dica" class="grid-item">Clínica Médica</a>
-  <a href="/Cirurgia" class="grid-item">Cirurgia</a>
-  <a href="/Pediatria" class="grid-item">Pediatria</a>
-  <a href="/Ginecologia%20%26%20Obstetr%C3%ADcia" class="grid-item">GO</a>
-  <a href="/Pesquisa" class="grid-item">Pesquisa</a>
+  <div class="grid-item">[[Atenção Primária em Saúde (APS)]]</div>
+  <div class="grid-item">[[Clínica Médica]]</div>
+  <div class="grid-item">[[Cirurgia]]</div>
+  <div class="grid-item">[[Pediatria]]</div>
+  <div class="grid-item">[[Ginecologia & Obstetrícia]]</div>
+  <div class="grid-item">[[Pesquisa]]</div>
 </div>
+
 
 
 
