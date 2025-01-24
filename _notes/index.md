@@ -12,6 +12,18 @@ permalink: /
 seguirei atualizando este site, para torná-lo cada vez mais completo! 
 </p>
 
+<!-- Search Bar -->
+<div id="search-bar-container" style="margin-bottom: 1em;">
+  <input
+    type="text"
+    id="search-bar"
+    placeholder="Search..."
+    onkeyup="filterNotes()"
+    style="width: 100%; padding: 0.5em; font-size: 1em; border-radius: 4px; border: 1px solid #ccc;"
+  />
+</div>
+
+
 # Grandes Áreas
 <div class="grid-container">
   <div class="grid-item">[[Atenção Primária em Saúde (APS)]]</div>
@@ -58,8 +70,24 @@ seguirei atualizando este site, para torná-lo cada vez mais completo!
   background-color: #388e3c;
   transform: translateY(-5px);
   }
+
   }
   .wrapper {
     max-width: 46em;
   }
 </style>
+<script>
+  function filterNotes() {
+    const searchInput = document.getElementById("search-bar").value.toLowerCase();
+    const gridItems = document.querySelectorAll(".grid-item");
+
+    gridItems.forEach((item) => {
+      const text = item.textContent || item.innerText;
+      if (text.toLowerCase().includes(searchInput)) {
+        item.style.display = ""; // Show matching items
+      } else {
+        item.style.display = "none"; // Hide non-matching items
+      }
+    });
+  }
+</script>
