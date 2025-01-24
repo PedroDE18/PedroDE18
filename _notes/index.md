@@ -13,16 +13,17 @@ seguirei atualizando este site, para torná-lo cada vez mais completo!
 </p>
 
 <!-- Search Bar -->
-<div id="search-bar-container" style="margin-bottom: 1em;">
+<div id="search-bar-container" style="position: relative; margin-bottom: 1em;">
   <input
     type="text"
     id="search-bar"
-    placeholder="Search..."
-    onkeyup="filterNotes()"
+    placeholder="Search notes..."
+    onkeyup="searchNotes()"
     style="width: 100%; padding: 0.5em; font-size: 1em; border-radius: 4px; border: 1px solid #ccc;"
   />
+  <ul id="search-results" style="list-style: none; margin: 0; padding: 0; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #ccc; border-radius: 4px; max-height: 200px; overflow-y: auto; display: none; z-index: 1000;">
+  </ul>
 </div>
-
 
 # Grandes Áreas
 <div class="grid-container">
@@ -76,18 +77,48 @@ seguirei atualizando este site, para torná-lo cada vez mais completo!
     max-width: 46em;
   }
 </style>
+<!-- Dynamically Generated Notes Array -->
 <script>
-  function filterNotes() {
-    const searchInput = document.getElementById("search-bar").value.toLowerCase();
-    const gridItems = document.querySelectorAll(".grid-item");
+  const notes = [
+    {% for note in site.notes %}
+      { title: "{{ note.title | escape }}", url: "{{ note.url | relative_url }}" },
+    {% endfor %}
+  ];
 
-    gridItems.forEach((item) => {
-      const text = item.textContent || item.innerText;
-      if (text.toLowerCase().includes(searchInput)) {
-        item.style.display = ""; // Show matching items
-      } else {
-        item.style.display = "none"; // Hide non-matching items
-      }
-    });
+  function searchNotes() {
+    const query = document.getElementById("search-bar").value.toLowerCase();
+    const resultsContainer = document.getElementById("search-results");
+    resultsContainer.innerHTML = ""; // Clear previous results
+
+    if (query.trim() === "") {
+      resultsContainer.style.display = "none";
+      return;
+    }
+
+    const filteredNotes = notes.filter(note =>
+      note.title.toLowerCase().includes(query)
+    );
+
+    if (filteredNotes.length > 0) {
+      resultsContainer.style.display = "block";
+      filteredNotes.forEach(note => {
+        const listItem = document.createElement("li");
+        listItem.innerHTML = `<a href="${note.url}" style="text-decoration: none; display: block; padding: 0.5em; color: #333;">${note.title}</a>`;
+        resultsContainer.appendChild(listItem);
+      });
+    } else {
+      resultsContainer.style.display = "block";
+      resultsContainer.innerHTML = `<li style="padding: 0.5em; color: #777;">No results found</li>`;
+    }
   }
+
+  // Close dropdown if user clicks outside
+  document.addEventListener("click", (event) => {
+    const searchBar = document.getElementById("search-bar");
+    const resultsContainer = document.getElementById("search-results");
+
+    if (!searchBar.contains(event.target) && !resultsContainer.contains(event.target)) {
+      resultsContainer.style.display = "none";
+    }
+  });
 </script>
