@@ -1,46 +1,64 @@
 <head>
+  <!-- Specifies the character encoding for the HTML document -->
   <meta charset="UTF-8">
 
+  <!-- Provides the canonical URL for the page (used for SEO purposes to avoid duplicate content issues) -->
   <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
+  <!-- Ensures the page is properly responsive by setting the viewport properties -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+  <!-- Provides a brief description of the page for search engines (SEO) -->
+  <!-- If the page has an excerpt, it's used; otherwise, the site title is used as the description -->
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
 
+  <!-- Specifies the site name for Open Graph metadata (used by social platforms like Facebook) -->
   <meta property="og:site_name" content="{{ site.title }}">
 
+  <!-- Sets the favicon for the site -->
   <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgo=">
 
+  <!-- Links the stylesheet for the page -->
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
 
+  <!-- Open Graph: Provides the description for social media sharing -->
   {% if page.excerpt %}
   <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}"/>
   {% else %}
   <meta property="og:description" content="{{ site.title | strip_html | strip_newlines | truncate: 160 }}"/>
   {% endif %}
 
+  <!-- Open Graph: Sets the title of the content for social media sharing -->
   {% if page.title %}
   <meta property="og:title" content="{{ page.title }}">
+  <!-- Specifies the Open Graph type as an article if the page has a title -->
   <meta property="og:type" content="article">
   {% else %}
   <meta property="og:title" content="{{ site.title }}">
+  <!-- Specifies the Open Graph type as a website for general pages -->
   <meta property="og:type" content="website">
   {% endif %}
 
+  <!-- Open Graph: Adds the publication date and author for articles -->
   {% if page.date %}
   <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
   <meta property="article:author" content="{{ site.url }}/">
   {% endif %}
 
+  <!-- Open Graph: Specifies the URL of the page -->
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 
+  <!-- Open Graph: Includes the page image (if defined) for social media previews -->
   {% if page.image %}
   <meta property="og:image" content="{{ site.url }}{{ page.image }}">
   {% endif %}
 
+  <!-- Sets the title of the page -->
   <title>
+    <!-- If the page is the home page, display only the site title -->
     {% if page.id == "home" %}
       {{ site.title }}
+    <!-- For other pages, display the page title followed by the site title -->
     {% else %}
       {{ page.title }} &mdash; {{ site.title }}
     {% endif %}
