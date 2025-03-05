@@ -190,6 +190,65 @@ Tags: [[Cardiologia]], [[Clínica Médica]]
 	- Contestado
 	- Alteração do ST e T + Alargamento do QRS +AS --> Desvio à esquerda
 	- Alteração do ST e T + Alargamento do QRS +PI --> RD3 > RD2
+### Extra-sístole
+- Despolarização Prematura
+	- Classificadas pela origem
+		- [[Extra-sístole Supraventricular (ESV)]]
+			- SV
+				- P normal
+				- Morfologia normal
+				- Sem pausa compensatória
+			- Juncional
+				- Neste caso, P pode ser normal, sobreposto à QRS ou após QRS
+				- Morfologia normal
+				- Sem pausa compensatória
+		- [[Extra-sístole Ventricular (EV)]]
+			- Tem pausa compensatória (ao menos dobra RR)
+			- Onda T de polaridade inversa à do QRS
+			- Morfologia atípica
+	- Classificadas pela frequência
+		- Únicas / Isoladas
+		- Pareadas (2x)
+		- Períodos de Taquicardia
+			- Sustentada (>6 batimentos ou algo como 3s)
+			- Não Sustentadas (<6 batimentos ou menos de 3s)
+		- Bigeminadas
+			- 1 batimento normal para cada extra-sístole
+		- Trigeminadas
+			- 2 batimento normal para cada extra-sístole
 ### Onda T
 - Naturalmente tem aspecto assimétrico
 	- Ascende mais rápido do que descende
+	- Se simétrica (independente de + ou -) = Alteração da Repolarização (logo, [[Síndrome Coronariana Crônica (DCC)]] ou [[Síndrome Coronariana Aguda (SCA)]])
+		- Não existe IAM no laudo de ECG, apenas "Corrente de Lesão"
+	- Se - --> Alteração 2ª da Repolarização
+- Determinação do Território
+	- Lateral Alto
+		- DI, aVL
+	- Inferior
+		- DII, DIII, aVF
+	- Antero-Septal 
+		- V1, V2, V3
+	- Anterior
+		- V1, V2, V3, V4 e poss. V5
+	- Anterior Extensa
+		- V1 a V6
+	- Lateral
+		- V5 e V6
+	- Antero-Lateral
+		- V4 a V6
+	- Posterior
+		- Imagem em espelho em V1-V3
+		- Considerar se houver alteração em parede inferior (logo, ramo da coronária direita)
+	- VD
+		- V3R, V4R
+		- Considerar se houver alteração em parede inferior
+		- Jamais usar nitratos em IAM de VD
+#### Evolução do Eletro pós-IAM com SST
+- Formação de onda Q patológica
+	 - De amplitude ao menos igual a 1/3 do R ou >2 mm
+	 - Determina Área Eletricamente Inativa
+		 - Logo, Acinética (cicatriz)
+- Evolução com BAV no infarto de coronária direita (irriga SA)
+- Supra pode ser "tolerado" por até 15 dias após evento agudo
+	- Se persistir, indica formação de [[Aneurisma de Parede Anterior]]
