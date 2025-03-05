@@ -77,7 +77,7 @@ Tags: [[Cardiologia]]
 	- A, B, C, D
 ### Exames Complementares
 - ECG
-	- Possível [[Sobrecarga de Ventrículo Esquerdo (SVE)]]
+	- Possível [[Sobrecarga Ventricular Esquerda (SVE)]]
 - Ecocardiograma
 - BNP
 - Rx Tórax

@@ -65,7 +65,7 @@ Tags: [[Cardiologia]], [[Infarto Agudo do Miocárdio (IAM)]]
 - ECG
 	- Baixa sensibilidade para DAC
 	- Presença de ondas Q --> Infarto antigo
-	- Alt. do segmento ST e onda T --> DAC, [[Sobrecarga de Ventrículo Esquerdo (SVE)|SVE]], alt. eletrolítica, drogas
+	- Alt. do segmento ST e onda T --> DAC, [[Sobrecarga Ventricular Esquerda (SVE)|SVE]], alt. eletrolítica, drogas
 - Marcadores de necrose miocárdica
 - Rx Tórax
 - Ecocardiograma

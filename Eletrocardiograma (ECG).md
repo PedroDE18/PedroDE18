@@ -1,0 +1,195 @@
+Status: #Folha 
+Tags: [[Cardiologia]], [[Clínica Médica]]
+<br/>
+## Derivações
+- Periféricas
+	- Unipolares
+		- aVL
+		- aVR
+		- aVF
+	- Bipolares
+		- DI
+		- DII
+		- DIII
+- Precordiais
+	- V1
+	- V2
+	- V3
+	- V4
+	- V5
+	- V6
+	- Com Variantes
+		- V3R
+		- V4R
+		- V7
+		- V8
+![[Pasted image 20250305190414.png|600]]
+![[Pasted image 20250305190449.png]]
+## Ritmos
+- Sinusal
+	- Normal --> Ritmo cardíaco definido pelo nó SA
+	- 60-100 bpm em repouso
+	- Onda P+ em DII, DIII e aVF, precedendo QRS
+	- Obs: Arritmia Fásica / de Respiração
+		- Alteração benigna do ritmo de acordo com o movimento respiratório (portanto variações do retorno venoso)
+			- Aumento da frequência na Inspiração
+			- Redução da frequência na Expiração
+- Juncional
+	- Ritmo determinado pelo nó AV
+		- Onda P ausente em todas ou algumas derivações
+		- P- em DII, aVF
+	- Condução retrógrada
+		- Desvio do Eixo de P
+- [[Flutter Atrial]] (F)
+	- Distúrbio do mecanismo de bloqueio de re-entrada
+	- fC < 350
+	- Linha de base em "Ponta de Serra" em DII, DIII, aVF, V1
+	- Difícil diagnóstico se alta resposta ventricular (logo alta fC) --> Comparar DI e DII
+	- Alguns flutters degeneram em FA
+- [[Fibrilação Atrial (FA)]] (f)
+	- Onda P não visível
+	- RR irregular
+	- fC variável
+		- Baixa resposta ventricular --> 50 bpm
+		- Adequada --> 50-100 bpm
+		- Alta resposta ventricular --> >100 bpm
+### Cálculo da Frequência Cardíaca
+- Ritmo Regular --> 1500 / RR em mm
+	- 300 / nº de quadradões entre Rs
+- Ritmo Irregular
+	- Média --> Número de QRSs em 15 quadradões (3 segundos), multiplicado por 20
+## Análise das Ondas
+### P
+- Avaliada principalmente em DII
+- Valores de Referência
+	- Amplitude < 0.25 mV
+	- Duração < 0.1 s
+	- PR - 0.12-0.2 s
+	- SÂP - 0-90º
+- Despolarização Atrial
+	- Direita 
+		- "Pontiaguda"
+			- Maior amplitude, menor duração
+	- Esquerda
+		- "Achatada"
+			- Menor amplitude, maior duração
+	- Sobreposição --> Onda arredondada
+- Sobrecargas
+	- AD
+		- Aumento da amplitude
+			- Apiculada
+		- Duração normal
+		- Tendência de desvio de eixo à Direita
+		- Menor voltagem de QRS em V1
+			- AD se sobrepõe ao VD
+		- Origem --> Aumento da pressão pulmonar e/ou [[Insuficiência Tricúspide]]
+			- Obs.: [[Doença de Ebstein]] --> implantação anômala de válvulas da tricúspide levando a insuficiência
+	- AE
+		- Onda P entalhada
+		- Aumento da duração de P
+		- Amplitude normal
+		- Tendência de desvio de eixo á Esquerda
+		- Origem --> [[Insuficiência Mitral]], possivelmente [[Estenose Aórtica]]
+	- Bi-atrial
+		- "Soma"
+### Intervalo PR
+- Inclui onda P, acaba no início da onda Q
+- Valor de Referência
+	- 120-200 ms
+- Avaliado em DII
+#### Síndromes de Pré-Excitação
+- PR Curto
+	- Feixe Anômalo que não passa pelo nó AV
+	- Sintomatologia: [[Taquicardia]] / [[Palpitações]]
+- [[Síndrome de Wolf-Parkinson White]]
+	- PR curto, P sucedido por onda Delta
+#### [[Bloqueio Atrioventricular (BAV)]]
+- PR Longo / Alargado
+- 1º 
+	- Aumento do PR, sem sintomatologia
+	- Todo P é sucedido por QRS
+- 2º
+	- Mobitz I
+		- Fenômeno de Wenckebach
+			- Aumento progressivo do PR, até que não há condução
+	- Mobitz II
+		- Ao menos 1 onda P aleatoriamente não conduzida
+	- Mobitz II para I
+		- Fixo: 2 Ps para cada QRS
+	- Avançado
+		- 3 ou mais Ps para cada QRS
+- 3º / BAVT
+	- Dissociação completa P-QRS
+		- Contração ventricular assumida por nó AV ou alguma região do feixe de Hiss-Purkinje
+			- Quão mais distante do nó AV, maior a duração do QRS e menor a fC
+### Sobrecarga Ventricular
+- [[Sobrecarga Ventricular Esquerda (SVE)]]
+	- "Reforço" do normal
+		- R progressivamente maior de V1 a V6
+		- S progressivamente menor de V1 a V6
+	- Tendência de desvio do eixo à E
+	- Avaliação do S em V2 e R em V5/V6 (o maior) --> Soma da amplitude --> [[Índice de Sokolov-Lyon]] --> VR < 35 mV
+	- Possivelmente com onda T negativa em V5-V6 --> Alteração da repolarização
+- [[Sobrecarga Ventricular Direita (SVD)]]
+	- Inversão do Padrão
+		- V1-V2 --> Aumento da amplitude de R, redução de S
+		- V5-V6 --> Redução da amplitude de R, aumento de S
+	- Tendência de desvio de eixo à Direita
+### Bloqueios de Ramo
+#### Puros
+- Sempre alargam QRS
+	- Atenção para Onda Delta ([[Síndrome de Wolf-Parkinson White|WPW]])
+- [[Bloqueio de Ramo Direito (BRD)]]
+	- Avaliação em V1 e aVR
+	- Despolarização por via muscular para VD --> Estímulo Retardado
+		- Surgimento de R' (especialmente em V1)
+	- OBS
+		- Atraso Pela Condução pelo RD (Antigo Bloqueio Incompleto de RD)
+			- QRSR' em V1 sem alargamento de QRS
+- [[Bloqueio de Ramo Esquerdo (BRE)]]
+	- Inversão da ordem da despolarização (D->E)
+	- Maior consequência clínica
+	- Alteração de despolarização e repolarização
+		- ST e T alterados
+	- Todos os QRSs alargados, em todas as derivações
+		- Similar a Supra de ST em Vs
+			- DD com [[Infarto Agudo do Miocárdio (IAM)|IAM]]
+				- IAM não alarga QRS --> Bloqueio agudo de BRE com sintomatologia deve ser abordado com IAM
+#### Divisões de Ramo
+- Não Alargam QRS
+- E
+	- Anterior Superior
+		- Mais Comum
+		- SÂQRS > -30º (Desvio à E)
+			- Sem outras alterações relevantes que justifiquem o desvio
+		- Possivelmente com S profundo em V6
+		- Assintomático / EF normal --> Possível evolução à BRE
+			- Redução observada no tempo de sobrevida
+	- Anterior Médio
+		- Mais raro
+		- RV2 > RV3
+	- Posterior Inferior
+		- RDIII > RDII
+		- SÂQRS com tendência de desvio à direita
+#### Associações de Bloqueios
+- RD + AS/AM/PI
+	- QRS alargado
+	- QRSR' em V1
+	- Alteração correspondente ao bloqueio de divisão de ramo
+		- AS --> Associado à [[Doença de Chagas]]
+			- QRSR' em V1 + SÂQRS > -30º
+		- IP
+			- QRSR' em V1 + RDIII > RDII
+	- Possível associação com sobrecarga de VD
+		- QRSR' em V1
+		- Aumento da amplitude de R em V1-V2
+		- Redução da amplitude de S em V1-V2
+		- Redução da amplitude de R em V5-V6
+		- Aumento da amplitude de S em V5-V6
+- RE + AS/AM/PI
+	- Contestado
+	- Alteração do ST e T + Alargamento do QRS +AS --> Desvio à esquerda
+	- Alteração do ST e T + Alargamento do QRS +PI --> RD3 > RD2
+### Onda T
+- Naturalmente tem aspecto assimétrico
+	- Ascende mais rápido do que descende

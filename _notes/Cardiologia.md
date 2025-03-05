@@ -17,6 +17,7 @@ Tags:
 - [[Taquiarritmias Supraventriculares]]
 - [[Taquiarritmias Ventriculares]]
 - [[Hipertensão Arterial Sistêmica (HAS)]]
+## [[Eletrocardiograma (ECG)]]
 
 ____
 # Referências
