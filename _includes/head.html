@@ -54,13 +54,9 @@
   {% endif %}
 
   <!-- Sets the title of the page -->
-  {% comment %}
-    If the page is the home page, display only the site title
-  {% endcomment %}
   <title>
     {% if page.id == "home" or page.url == "/" %}
       {{ site.title | escape }}
-    <!-- For other pages, display the page title followed by the site title -->
     {% else %}
       {{ page.title | escape }} - {{ site.title | escape}}
     {% endif %}

@@ -7,7 +7,7 @@ permalink: /
 
 # Bem-Vindo!
 
-> Este é o meu repertório de anotações de medicina,organizado segundo o sistema Zettelkasten.
+> Este é o meu repertório de anotações de medicina, organizado segundo o sistema Zettelkasten.
 
 <!-- Search Bar -->
 <div class = "search-container">
@@ -21,12 +21,12 @@ permalink: /
 
 ## MOCs
 <div class="areas-grid">
-  <a href="/mocs/moc-dx-sindromico/" class="area-card">Diagnóstico Sindrômico</a>
-  <a href="/mocs/moc-dx-topografico/" class="area-card">Diagnóstico Topográfico</a>
-  <a href="/mocs/moc-fisiologia/" class="area-card">Fisiologia</a>
-  <a href="/mocs/moc-exames/" class="area-card">Exames Complementares</a>
-  <a href="/mocs/moc-tratamentos/" class="area-card">Tratamentos & Protocolos</a>
-  <a href="/mocs/moc-legislacao/" class="area-card">Legislação</a>
+  <a href="moc-dx-sindromico/" class="area-card">Diagnóstico Sindrômico</a>
+  <a href="moc-dx-topografico/" class="area-card">Diagnóstico Topográfico</a>
+  <a href="moc-fisiologia/" class="area-card">Fisiologia</a>
+  <a href="moc-exames/" class="area-card">Exames Complementares</a>
+  <a href="moc-tratamentos/" class="area-card">Tratamentos & Protocolos</a>
+  <a href="moc-legislacao/" class="area-card">Legislação</a>
 </div>
 
 ## Anotações Recentes
