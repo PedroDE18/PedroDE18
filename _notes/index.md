@@ -5,27 +5,27 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Bem-Vindo!
 
-<p style="padding: 3em 1em; background: #808080; color: white; border-radius: 4px;">
-  Aqui está um conjunto de anotações que tomei durante a faculdade de Medicina, 
-seguirei atualizando este site, para torná-lo cada vez mais completo! 
-</p>
+> Este é o meu repertório de anotações de medicina.
+> Aqui atualizo minhas notas, originalmente organizadas segundo o sistema Zettelkasten.
 
 <!-- Search Bar -->
-<div id="search-bar-container" style="position: relative; margin-bottom: 1em;">
+<div class = "search-container">
   <input
     type="text"
     id="search-bar"
-    placeholder="Search notes..."
+    placeholder="Busque notas..."
     onkeyup="searchNotes()"
     style="width: 100%; padding: 0.5em; font-size: 1em; border-radius: 4px; border: 1px solid #ccc;"
   />
-  <ul id="search-results" style="list-style: none; margin: 0; padding: 0; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #ccc; border-radius: 4px; max-height: 200px; overflow-y: auto; display: none; z-index: 1000;">
+  <ul 
+    id="search-results" 
+    style="list-style: none; margin: 0; padding: 0; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #ccc; border-radius: 4px; max-height: 200px; overflow-y: auto; display: none; z-index: 1000;">
   </ul>
 </div>
 
-# Grandes Áreas
+## Grandes Áreas
 <div class="grid-container">
   <div class="grid-item">[[Atenção Primária em Saúde (APS)]]</div>
   <div class="grid-item">[[Clínica Médica]]</div>
@@ -36,11 +36,8 @@ seguirei atualizando este site, para torná-lo cada vez mais completo!
 </div>
 
 
-
-
-<strong>Anotações Recentemente Atualizadas</strong>
-
-<ul>
+## Anotações Recentes
+<ul class="recent-notes">
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% for note in recent_notes limit: 10 %}
     <li>
