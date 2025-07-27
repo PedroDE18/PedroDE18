@@ -8,7 +8,7 @@ Tags: [[Ginecologia & Obstetrícia]], [[Infectologia]]
 	- Alteração patológica da microbiota vaginal
 		- Menos lactobacilos, variações de pH
 ## [[Vaginose Bacteriana]]
-## [[Candidíase]] Vaginal
+## [[Candidíase#Candidíase Vaginal|Candidíase Vaginal]] 
 ## [[Tricomoníase]]
 ____
 # Referências

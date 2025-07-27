@@ -1,6 +1,6 @@
 2023-05-13 15:39
 Status: #🌱  
-Tags: [[Ginecologia & Obstetrícia]], [[Infectologia]]
+Tags: [[Ginecologia & Obstetrícia]], [[Infectologia]], [[Vulvovaginites]]
 <br/>
 - Agente = _[[Trichomonas vaginalis]]_
 	- Protozoário
