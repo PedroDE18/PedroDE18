@@ -3,10 +3,8 @@ type:
   - Nota
 tags:
   - Vacina
-  - Sistema
-  - Imune
-  - Doença
-  - Infecciosa
+  - SistemaImune
+  - DoençaInfecciosa
   - Protocolo
   - Adolescente
 parent:
@@ -128,6 +126,7 @@ A vacinação do adolescente é fundamental para reforçar imunidades adquiridas
 	- [[Esquema Vacinal por Faixa Etária (MOC)]]
 	- [[Vacinação (MOC)]]
 	- [[Calendário Nacional de Vacinação]]
+	- [[Hebiatria]]
 - O que é similar?
 	- [[Vacinação na Primeira Infância]]
 	- [[Vacinação do Adulto]]

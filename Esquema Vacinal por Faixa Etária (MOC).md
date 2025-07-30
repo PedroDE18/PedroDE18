@@ -1,4 +1,16 @@
-Status: #MOC 
+---
+type:
+  - MOC
+tags:
+  - Vacina
+  - SistemaImune
+  - DoençaInfecciosa
+  - Protocolo
+parent:
+  - "[[Vacinação (MOC)]]"
+children: 
+aliases:
+---
 
 ---
 

@@ -1,5 +1,15 @@
-Status: #MOC 
-
+---
+type:
+  - MOC
+tags:
+  - Vacina
+  - SistemaImune
+  - DoençaInfecciosa
+parent:
+children: 
+aliases:
+- Vacina
+---
 ---
 
 > Mapeamento geral sobre Vacinação
