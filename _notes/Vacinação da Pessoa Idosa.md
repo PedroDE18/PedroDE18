@@ -1,6 +1,6 @@
 2023-10-16 20:43
 Status: #🌱 
-Tags: [[Geriatria]], [[Vacinação]]
+Tags: [[Geriatria]], [[Vacinação (MOC)]]
 <br/>
 - Proteção contra doenças infecciosas graves
 - Redução da susceptibilidade e risco de quadros infecciosos graves por comorbidades

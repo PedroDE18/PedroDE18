@@ -7,7 +7,7 @@ ____
 # Referências
 ---
 # Aulas
-- [[Vacinação na Geriatria]]
+- [[Vacinação da Pessoa Idosa]]
 - [[Parâmetros Clínicos do Envelhecimento]]
 - [[Avaliação Geriátrica Ampla (AGA)]]
 - [[Farmacologia no Idoso e Iatrogenia]]

@@ -14,80 +14,88 @@ Status: #Flor
 
 ----
 # Pergunta
-- Quais os principais pontos acerca do tétano?
-	- Doença do [[Sistema Nervoso]]
-		- [[Espasmos Musculares]] causados pela toxina do _[[Clostridium tetani]]_
-			- Anaeróbio, encontrado no solo
-			- Após inoculação, transformação em forma vegetativa, produtora de [[Tetanospasmina]] --> Metaloprotease
-			- Evolução por transporte axonal retrógrado (motoneurônios)
-				- Destruição dos interneurônios inibitórios medulares
-					- [[Hipertonia Muscular]], [[Espasmos Musculares]] dolorosos
-					- Instabilidade autonômica
-						- Perda do controle sobre liberação adrenal de [[Catecolaminas]]
-							- [[Sudorese]]
-							- [[Taquicardia]]
-							- [[Hipertensão]]
-	- Fatores Predisponentes
-		- C. tetani não cresce em tecidos saudáveis (anaeróbio)
-			- Ausência de anticorpos contra toxóide
-			- Lesão penetrante com inoculação de esporos
-			- Coinfecção com outras bactérias
-			- Tecido desvitalizado
-			- Corpo estranho
-			- Isquemia localizada
-	- Padrões Clínicos
-		- Incubação - 3 a 21 dias - ~8d
-		- Generalizado
-			- [[Hipertonia Muscular]] dolorosa
-				- [[Espasmos Musculares]] dolorosos
-				- [[Trismo]] --> Tetania do masseter + temporal
-				- [[Opistótono]] --> Tetania da coluna vertebral (forma um arco)
-				- [[Riso Sardônico]]
-				- [[Disfagia]], períodos de [[Apneia]]
-				- [[Palpação Superficial do Abdômen|Abdômen Rígido]] --> Em tábua
-			- Superatividade autonômica
-				- [[Sudorese]]
-				- [[Taquicardia]]
-				- [[Hipertensão]] (lábil) ou [[Hipotensão]]
-				- [[Febre]]
-				- [[Taquiarritmias]]
-		- Local
-			- Tetania ou contrações musculares espásticas em uma região corporal ou extremidade
-			- Não necessariamente evolui para tétano generalizado 
-		- Cefálico
-			- Envolvimento exclusivo de [[Pares Cranianos]]
-				- [[Disfagia]]
-				- [[Trismo]]
-				- Neuropatias cranianas focais
-		- Neonatal
-			- Progressão mais rápida --> Tamanho axonal mais curto --> Horas
-			- Dificuldade na amamentação --> Trismo, Riso sardônico
-			- Mãos em flexão, dorsiflexão dos pés
-			- [[Opistótono]]
-	- Tratamento
-		- Objetivos
-			- Interromper produção de toxóide
-				- Manejo da lesão 1a
-					- Desbridamento cirúrgico
-				- Tratamento antimicrobiano
-					- [[Metronidazol]]
-					- [[Penicilina]] G
-					- [[Cefazolina]], [[Cefuroxima]], [[Ceftriaxona]] se houver suspeita de infecção mista
-			- Neutralização do toxóide livre
-				- Antitoxina --> Imunoglobulina Humana do Tétano (HTIG) ou Antitoxina Equina
-				- Imunização Ativa
-					- 3 doses de toxóide imediatamente após diagnóstico, em sítio diferente ao da antitoxina
-			- [[Avaliação e Manejo da Via Aérea]]
-			- Controle dos espasmos musculares
-				- [[BDZ]] --> [[Diazepam]]
-				- [[Propofol]]
-				- [[Bloqueadores Neuromusculares]]
-					- [[Pancurônio]]
-			- Manejo da disautonomia
-				- [[Sulfato de Magnésio]]
-					- Bloqueador neuromuscular pré-sináptico
-					- Bloqueia liberação de catecolaminas de nervos
-					- Menor sensibilidade nervosa à catecolaminas
-				- [[Betabloqueadores]]
-					- [[Labetalol]]
-	
+Quais os principais pontos acerca do tétano?
+- Doença do [[Sistema Nervoso]]
+	- [[Espasmos Musculares]] causados pela toxina do _[[Clostridium tetani]]_
+		- Anaeróbio, encontrado no solo
+		- Após inoculação, transformação em forma vegetativa, produtora de [[Tetanospasmina]] --> Metaloprotease
+		- Evolução por transporte axonal retrógrado (motoneurônios)
+			- Destruição dos interneurônios inibitórios medulares
+				- [[Hipertonia Muscular]], [[Espasmos Musculares]] dolorosos
+				- Instabilidade autonômica
+					- Perda do controle sobre liberação adrenal de [[Catecolaminas]]
+						- [[Sudorese]]
+						- [[Taquicardia]]
+						- [[Hipertensão]]
+- Fatores Predisponentes
+	- C. tetani não cresce em tecidos saudáveis (anaeróbio)
+		- Ausência de anticorpos contra toxóide
+		- Lesão penetrante com inoculação de esporos
+		- Coinfecção com outras bactérias
+		- Tecido desvitalizado
+		- Corpo estranho
+		- Isquemia localizada
+- Padrões Clínicos
+	- Incubação - 3 a 21 dias - ~8d
+	- Generalizado
+		- [[Hipertonia Muscular]] dolorosa
+			- [[Espasmos Musculares]] dolorosos
+			- [[Trismo]] --> Tetania do masseter + temporal
+			- [[Opistótono]] --> Tetania da coluna vertebral (forma um arco)
+			- [[Riso Sardônico]]
+			- [[Disfagia]], períodos de [[Apneia]]
+			- [[Palpação Superficial do Abdômen|Abdômen Rígido]] --> Em tábua
+		- Superatividade autonômica
+			- [[Sudorese]]
+			- [[Taquicardia]]
+			- [[Hipertensão]] (lábil) ou [[Hipotensão]]
+			- [[Febre]]
+			- [[Taquiarritmias]]
+	- Local
+		- Tetania ou contrações musculares espásticas em uma região corporal ou extremidade
+		- Não necessariamente evolui para tétano generalizado 
+	- Cefálico
+		- Envolvimento exclusivo de [[Pares Cranianos]]
+			- [[Disfagia]]
+			- [[Trismo]]
+			- Neuropatias cranianas focais
+	- Neonatal
+		- Progressão mais rápida --> Tamanho axonal mais curto --> Horas
+		- Dificuldade na amamentação --> Trismo, Riso sardônico
+		- Mãos em flexão, dorsiflexão dos pés
+		- [[Opistótono]]
+## Tratamento
+- Objetivos
+	- Interromper produção de toxóide
+		- Manejo da lesão 1a
+			- Desbridamento cirúrgico
+		- Tratamento antimicrobiano
+			- [[Metronidazol]]
+			- [[Penicilina]] G
+			- [[Cefazolina]], [[Cefuroxima]], [[Ceftriaxona]] se houver suspeita de infecção mista
+	- Neutralização do toxóide livre
+		- Antitoxina --> Imunoglobulina Humana do Tétano (HTIG) ou Antitoxina Equina
+		- Imunização Ativa
+		- 3 doses de toxóide imediatamente após diagnóstico, em sítio diferente ao da antitoxina
+	- [[Avaliação e Manejo da Via Aérea]]
+	- Controle dos espasmos musculares
+	- [[BDZ]] --> [[Diazepam]]
+	- [[Propofol]]
+	- [[Bloqueadores Neuromusculares]]
+		- [[Pancurônio]]	
+	- Manejo da disautonomia
+		- [[Sulfato de Magnésio]]
+			- Bloqueador neuromuscular pré-sináptico
+			- Bloqueia liberação de catecolaminas de nervos		
+			- Menor sensibilidade nervosa à catecolaminas
+		- [[Betabloqueadores]]
+			- [[Labetalol]]
+### Profilaxia Mediante Ferimento
+| Status Vacinal     | Ferimento Limpo e/ou Superficial | Outro Ferimento     |
+| ------------------ | -------------------------------- | ------------------- |
+| Incerto ou <3      | Vacina                           | Vacina + Antitoxina |
+| &gt 3 doses        |                                  |                     |
+| Há menos de 5 anos | 0                                | 0                   |
+| Entre 5 a 10 anos  | 0                                | Vacina              |
+| Há mais de 10 anos | Vacina                           | Vacina              |
+ 	

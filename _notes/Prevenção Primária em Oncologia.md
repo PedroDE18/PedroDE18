@@ -5,7 +5,7 @@ Status: #⚛
 # Compass
 - De onde vem?
 	- [[Prevenção do Câncer]]
-	- [[Vacinação]]
+	- [[Vacinação (MOC)]]
 - O que é similar?
 - O que é antagônico?
 - Ao que leva?

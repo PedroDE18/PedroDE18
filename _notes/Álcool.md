@@ -1,7 +1,17 @@
-2023-03-25 16:35
-Status: #🌱   
-Tags: [[Psiquiatria]], [[Transtornos por uso de Substâncias]], [[Etilismo]]
-<br/>
+---
+type:
+  - Nota
+tags:
+  - Psiquiatria
+  - Substância
+parent:
+  - "[[Transtornos por uso de Substâncias]]"
+children:
+  - "[[Síndrome da Abstinência Alcoólica]]"
+  - "[[Síndrome Alcoólica Fetal (SAF)]]"
+aliases:
+  - Etilismo
+---
 - 43% da população mundial bebe
 - 26,5% da população entre 15 a 19 anos bebe
 - No Brasil (10-16)
@@ -18,17 +28,17 @@ Tags: [[Psiquiatria]], [[Transtornos por uso de Substâncias]], [[Etilismo]]
 		- Desinibição
 		- Sensação de bem estar
 		- Relaxamento
-	- '>' 3 doses
+	- &gt 3 doses
 		- Euforia
 		- Menor resposta a estímulos
 		- Comportamento inadequado
-	- '>>'
+	- &gt &gt
 		- Fala Pastosa
 		- Perda de coordenação motora
 		- [[Perda de Consciência]]
 ## Dependência
 - Consumo de Risco
-	- '>' 5 doses para homens e '>' 4 para mulheres em 2h
+	- &gt 5 doses para homens e &gt 4 para mulheres em 2h
 	- BPE
 	- Padrão comum entre jovens
 	- Problemas

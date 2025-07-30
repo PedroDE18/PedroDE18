@@ -13,7 +13,7 @@ Status: #⚛
 	- [[Câncer de Endométrio]]
 - O que é antagônico?
 - Ao que leva?
-	- [[Vacinação]]
+	- [[Vacinação (MOC)]]
 
 ----
 # Pergunta

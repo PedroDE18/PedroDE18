@@ -11,5 +11,5 @@ Tags: [[Ginecologia & Obstetrícia]], [[Infectologia]]
 ## [[Candidíase#Candidíase Vaginal|Candidíase Vaginal]] 
 ## [[Tricomoníase]]
 ____
-# Referências
-
+# Mapa Mental
+- [[Vulvovaginites.excalidraw|Vulvovaginites Mapa Mental]]
