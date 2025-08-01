@@ -2,7 +2,7 @@
 Status: #🌱 
 Tags: [[Nefrologia]]
 <br/>
-# [[Pediatria]]
+# [[Pediatria (MOC)]]
 - Etio
 	- [[Glomerulopatia de Lesões Mínimas]]
 	- [[Glomerulonefrites Primárias]]

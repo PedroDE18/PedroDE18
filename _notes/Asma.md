@@ -1,6 +1,6 @@
 2023-10-29 11:59
 Status: #🌱 
-Tags: [[Pneumologia]], [[Pediatria]], [[Atenção Primária em Saúde (APS)]]
+Tags: [[Pneumologia]], [[Pediatria (MOC)]], [[Atenção Primária em Saúde (APS)]]
 <br/>
 # Geral
 - Definição

@@ -1,6 +1,6 @@
 2023-03-26 19:50
 Status: #🌱   
-Tags: [[Psiquiatria]], [[Pediatria]], [[Hebiatria]], [[Neurodesenvolvimento]]
+Tags: [[Psiquiatria]], [[Pediatria (MOC)]], [[Hebiatria]], [[Neurodesenvolvimento]]
 <br/>
 ## Neurodesenvolvimento
 - Neurogênese nos 1ºs anos

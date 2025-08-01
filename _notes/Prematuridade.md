@@ -1,6 +1,6 @@
 2023-06-11 18:18
 Status: #🌱  
-Tags: [[Obstetrícia]], [[Pediatria]]
+Tags: [[Obstetrícia]], [[Pediatria (MOC)]]
 <br/>
 # Obstetrícia
 - Avaliação da vitalidade fetal em [[Trabalho de Parto Prematuro (TPP)]]

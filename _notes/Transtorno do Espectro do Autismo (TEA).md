@@ -1,6 +1,6 @@
 2023-03-28 11:57
 Status: #🌱   
-Tags: [[Psiquiatria]], [[Psiquiatria Infantil e da Adolescência]], [[Pediatria]]
+Tags: [[Psiquiatria]], [[Psiquiatria Infantil e da Adolescência]], [[Pediatria (MOC)]]
 <br/>
 - 1:44 crianças
 - 4x mais comum em homens

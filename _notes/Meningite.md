@@ -1,6 +1,6 @@
 2023-12-05 12:20
 Status: #🌱 
-Tags: [[Pediatria]], [[Neurologia]], [[Infectologia]]
+Tags: [[Pediatria (MOC)]], [[Neurologia]], [[Infectologia]]
 <br/>
 - Inflamação (de origem predominantemente infecciosa) das [[Leptomeninges]] ([[Aracnóide-máter]] e [[Pia-máter]])
 ## Bacterianas

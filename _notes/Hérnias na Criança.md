@@ -1,6 +1,6 @@
 2023-11-06 12:13
 Status: #🌱 
-Tags: [[Pediatria]], [[Cirurgia]]
+Tags: [[Pediatria (MOC)]], [[Cirurgia]]
 <br/>
 - Hérnia
 	- Passagem anormal (não-habitual) de um órgão ou estrutura por uma via natural ou não

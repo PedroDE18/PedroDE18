@@ -1,6 +1,6 @@
 2023-10-18 21:02
 Status: #🌱 
-Tags: [[Pneumologia]], [[Pediatria]]
+Tags: [[Pneumologia]], [[Pediatria (MOC)]]
 <br/>
 # Pneumonia Adquirida na Comunidade
 - Gg --> Início como [[Infecções das Vias Aéreas Superiores (IVAS)|IVAS]], aumento da [[Febre]], aumento da frequência respiratória, [[Prostração]]

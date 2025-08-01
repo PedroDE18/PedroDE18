@@ -1,6 +1,6 @@
 2023-09-06 12:42
 Status: #🌱 
-Tags: [[Otorrinolaringologia (ORL)]], [[Pediatria]]
+Tags: [[Otorrinolaringologia (ORL)]], [[Pediatria (MOC)]]
 <br/>
 - Funções auditivas
 	- Habilidades diferentes para cada idade

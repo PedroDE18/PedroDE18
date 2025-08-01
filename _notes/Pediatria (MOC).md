@@ -9,23 +9,23 @@ aliases:
 ---
 Essa nota organiza os principais temas de Pediatria, distribuídos por sistemas e áreas de interesse
 
-## 1. Neonatologia
+## 1. [[Neonatologia]]
 - [[Prematuridade]]
 - [[Infecções Congênitas]]
 ## 2. Puericultura
 - [[Vacinação (MOC)]]
-## 3. Hebiatria
+## 3. [[Hebiatria]]
 - [[Vacinação (MOC)]]
 - [[Estadiamento de Tanner]]
 - [[Baixa Estatura]]
 - [[Transtornos de Conduta]]
 - [[Acne]]
-## 4. Sistema Respiratório
+## 4. [[Pneumologia|Sistema Respiratório]]
 - [[Infecções das Vias Aéreas Superiores (IVAS)]]
 - [[Pneumonia]]
 - [[Asma]]
 - [[Rinite]]
-## 5. Gastrointestinal & Nutrição
+## 5. [[Gastroenterologia|Gastrointestinal]] & [[Nutrição]]
 - [[Obesidade Infantil]]
 - [[Doença do Refluxo Gastroesofágico (DRGE)]]
 - [[Diarréias Agudas]]
@@ -33,18 +33,18 @@ Essa nota organiza os principais temas de Pediatria, distribuídos por sistemas 
 - [[Malformações do TGI]]
 - [[Hérnias na Criança]]
 - [[Atresias do Aparelho Digestório]]
-## 6. Dermatologia
+## 6. [[Dermatologia]]
 - [[Doenças Exantemáticas]]
 - [[Acne]]
-## 7. Sistema Nervoso & Desenvolvimento
+## 7. [[Neurologia|Sistema Nervoso & Desenvolvimento]]
 - [[Meningite]]
 - [[Retardo do Desenvolvimento Cognitivo]]
 - [[Desenvolvimento Neuro-Psicomotor (DNPM)]]
-## 8. Ortopedia
+## 8. [[Ortopedia]]
 - [[Afecções Ortopédicas da Infância]]
 - [[Afecções Ortopédicas da Adolescência]]
 - [[Baixa Estatura]]
-## 9. Sistema Renal & Genito-urinário 
+## 9. [[Nefrologia|Sistema Renal]] & [[Ginecologia & Obstetrícia|Genito-urinário]] 
 - [[Infecção do Trato Urinário (ITU)]]
 - [[Síndrome Nefrótica]]
 - [[Síndrome Nefrítica]] 
@@ -56,11 +56,14 @@ Essa nota organiza os principais temas de Pediatria, distribuídos por sistemas 
 - [[Ginecomastia]]
 - [[Amenorreia]]
 - [[Dismenorreia]]
-## 10. Oncopediatria
+## 10. [[Oncologia|Oncopediatria]]
 - [[Oncopediatria]]
-## 11. Psiquiatria
+## 11. [[Psiquiatria]]
 - [[Transtornos de Conduta]]
-## 12. Emergências & Cuidados Críticos
+- [[Disforia de Gênero]]
+- [[Transtornos Alimentares]]
+- [[Suicídio]]
+## 12. [[Emergência|Emergências]] & Cuidados Críticos
 - [[Violência na Infância e Adolescência]]
 - [[Suporte Básico de Vida Pediátrico (PALS)]]
 

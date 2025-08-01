@@ -1,6 +1,6 @@
 2023-12-05 10:34
 Status: #🌱 
-Tags: [[Gastroenterologia]], [[Pediatria]]
+Tags: [[Gastroenterologia]], [[Pediatria (MOC)]]
 <br/>
 # Pediatria
 ## Etiologia

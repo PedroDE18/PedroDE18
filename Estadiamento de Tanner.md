@@ -51,14 +51,19 @@ aliases:
 			- I - Até ~8 anos
 			- II - 8-10 anos
 			- III - 10-12 anos
+				- Estirão do crescimento em M3
 			- IV - 12-14 anos
+				- Geralmente, menarca em M4 (~2 anos após M2/[[Telarca]]) 
 			- V - &gt 14 anos
 		- Meninos
 			- I - Até ~9 anos
 			- II - 9-11 anos
 			- III - 11-13 anos
 			- IV - 13-15 anos
+				- Estirão do crescimento em G4
 			- V - &gt 15 anos
+- Importante avaliação conjunta da velocidade de crescimento
+	- Fases de estabilidade, aceleração e desaceleração correspondem a diferentes marcos
 - Acompanhamento de distúrbios endócrinos
 	- [[Síndrome de Klinefelter]]
 	- [[Síndrome de Turner]]

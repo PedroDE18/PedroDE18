@@ -8,7 +8,7 @@ Tags: [[Urologia]], [[Nefrologia]]
 	- Sintomas principalmente urinários
 - [[Pielonefrite]] Aguda
 	- Infecção febril com envolvimento de parênquima renal
-# [[Pediatria]]
+# [[Pediatria (MOC)]]
 - 8% das mulheres e 2% dos homens tem ao menos um episódio de ITU até os 7 anos
 - Vias de Contaminação
 	- Hematogênica --> Período Neonatal

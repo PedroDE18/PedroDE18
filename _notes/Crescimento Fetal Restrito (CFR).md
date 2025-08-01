@@ -3,7 +3,7 @@ Status: #🌱
 Tags: [[Obstetrícia]]
 <br/>
 - < Percentil 10 (Hadlock)
-	- PIG (para [[Pediatria]])
+	- PIG (para [[Pediatria (MOC)]])
 - Comum: 10-15%
 - Sempre patológico?
 	- PIG Nem sempre é CFR

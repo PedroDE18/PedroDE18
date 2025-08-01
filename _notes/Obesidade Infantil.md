@@ -1,6 +1,6 @@
 2023-11-05 17:33
 Status: #🌱 
-Tags: [[Pediatria]], [[Obesidade]], [[Endocrinologia]]
+Tags: [[Pediatria (MOC)]], [[Obesidade]], [[Endocrinologia]]
 <br/>
 - Conceito
 	- 95% - 1ª

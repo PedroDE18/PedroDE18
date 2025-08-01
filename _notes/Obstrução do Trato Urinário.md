@@ -2,7 +2,7 @@
 Status: #🌱 
 Tags: [[Urologia]], [[Nefrologia]]
 <br/>
-# [[Pediatria]]
+# [[Pediatria (MOC)]]
 ## [[Hidronefrose]]
 - Repercussão anatomopatológica no parênquima renal frente à um aumento da pressão hidrostática dentro da pelve e cálices renais, provocada por algum tipo de obstrução
 - Graus 0 a 4, dependendo da variação do complexo renal - ureteral e espessura do parênquima renal

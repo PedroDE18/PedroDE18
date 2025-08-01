@@ -1,6 +1,6 @@
 2023-10-18 20:50
 Status: #🌱 
-Tags: [[Pneumologia]], [[Pediatria]]
+Tags: [[Pneumologia]], [[Pediatria (MOC)]]
 <br/>
 # Bronquiolite Viral Aguda
 - Infecção do trato respiratório inferior

@@ -1,6 +1,6 @@
 2023-12-05 10:53
 Status: #🌱 
-Tags: [[Pediatria]], [[Gastroenterologia]]
+Tags: [[Pediatria (MOC)]], [[Gastroenterologia]]
 <br/>
 - Fatores de Risco
 	- Microbiota intestinal específica

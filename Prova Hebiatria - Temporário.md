@@ -1,32 +1,12 @@
 
 
-• **Desenvolvimento Psicossocial e Emocional na Adolescência**:
-
-    ◦ **Vivência Temporal Singular**: Caracteriza a forma como o adolescente percebe e lida com o tempo, muitas vezes priorizando o presente e eventos futuros distantes, como exemplificado pela adolescente que passou a madrugada na fila para um show meses à frente, negligenciando estudos imediatos1....
-
-    ◦ **Transtorno de Conduta**: Descreve padrões persistentes de comportamento antissocial e agressivo, com violação de regras e direitos de outros, incluindo agressão a pessoas e animais, destruição de propriedade e engano. O diagnóstico é clínico, e o tratamento envolve reeducação familiar, terapias psicossociais (preferencialmente cognitivo-comportamentais) e, se necessário, medicamentos para impulsividade, agressividade e comorbidades5....
-
-    ◦ **Disforia de Gênero**: Apresenta casos de adolescentes que não se identificam com o sexo atribuído ao nascimento. A conduta correta pode envolver a indicação de bloqueio puberal, especialmente se houver disforia significativa relacionada ao aparecimento dos caracteres sexuais secundários. A abordagem deve ser cautelosa, e não se deve atribuir a confusão de gênero à orientação parental12....
-
-    ◦ **Transtornos Alimentares (Bulimia Nervosa)**: Os critérios diagnósticos, conforme o DSM-5, incluem episódios recorrentes de compulsão alimentar14....
-
-    ◦ **Autolesão e Risco de Suicídio**: Aborda a crescente preocupação com o suicídio na adolescência, a necessidade de manejo adequado e a importância de abordar o tema de forma direta na consulta pediátrica, pois a autolesão é um sinal de alerta que necessita de atenção profissional19....
-
-• **Puberdade e Crescimento**9...:
-
-    ◦ **Estadiamento Puberal (Tanner)**: Relaciona o desenvolvimento dos caracteres sexuais secundários (mamas, pelos pubianos, genitais) com as fases de aceleração ou estabilidade do crescimento. O estirão de crescimento em meninas ocorre no estágio M3, e em meninos no G4. A menarca (primeira menstruação) geralmente ocorre em M4, 2 a 2,5 anos após a telarca (M2)9....
+• **Puberdade e Crescimento**
 
     ◦ **Atraso Puberal e Baixa Estatura**: Pode ser uma variação da normalidade, como o atraso constitucional do crescimento e puberdade, caracterizado por idade óssea atrasada, velocidade de crescimento normal e história familiar semelhante25.... Em meninas, o atraso puberal sempre deve ser avaliado devido à sua incomum ocorrência26.
 
     ◦ **Ginecomastia Puberal**: Aumento mamário transitório em meninos durante a puberdade. É um evento fisiológico que geralmente regride espontaneamente em 6 a 24 meses. O diagnóstico é clínico, e o tratamento inicial é esclarecimento e suporte emocional, com encaminhamento cirúrgico apenas em casos de aumento intenso ou persistência por mais de 2 anos17....
 
     ◦ **Amenorreia Primária**: Ausência de menarca. Pode ser causada por anomalias müllerianas (com FSH, TSH, prolactina e testosterona normais e caracteres sexuais secundários presentes) ou disgenesia gonadal (com FSH/LH elevados)15....
-
-• **Aspectos Éticos e Legais na Prática Médica**19...:
-
-    ◦ **Quebra de Sigilo Profissional**: O médico pode quebrar o sigilo em situações que representam risco iminente de dano ao adolescente ou a terceiros, como violência (incluindo abuso sexual), uso de drogas/álcool, risco de suicídio, gravidez/aborto, sorologia HIV positiva, diagnóstico de doença grave (câncer) e não adesão a tratamento. Não é justificada por experimentação de maconha, solicitação de contraceptivo sem conhecimento dos pais, ou diagnóstico de ISTs sem risco iminente a terceiros21....
-
-    ◦ **Abordagem a Vítimas de Violência Sexual**: Requer acolhimento, orientação sobre direitos (BO, corpo de delito, abortamento legal em caso de gravidez), notificação compulsória, realização de exames (beta HCG, sorologias), tratamento e profilaxia de ISTs (sífilis, gonococo, clamídia, tricomoníase), profilaxia para hepatite B e HIV (PEP), profilaxia de tétano e HPV, e encaminhamento para acompanhamento multiprofissional19.... A anticoncepção de emergência deve ser oferecida em até 5 dias (idealmente <72h)30....
 
 • **Imunizações e Doenças Infecciosas**28...:
 
@@ -40,7 +20,6 @@
 
         ▪ **Vaginose Bacteriana**: Corrimento vaginal branco-acinzentado, fino, homogêneo, de odor fétido que piora após relação sexual e menstruação. pH acima de 4,5, proliferação bacteriana, presença de _clue cells_ e teste de Whiff positivo. Droga de escolha: Metronidazol2869.
 
-        ▪ **Sífilis**: Diagnóstico com testes imunológicos treponêmicos e não treponêmicos. Testes treponêmicos (rápidos) são os primeiros a reagir e permanecem reagentes por toda a vida (não servem para monitorar tratamento). Testes não treponêmicos tornam-se reagentes 1-3 semanas após o cancro duro, com títulos baixos em fases tardias; títulos baixos sem tratamento conhecido indicam sífilis latente tardia44....
 
 • **Ortopedia**21...:
 
@@ -53,84 +32,6 @@
 • **Dermatologia**18...:
 
     ◦ **Acne**: Lesões como comedões, pápulas eritematosas e pústulas. O tratamento, além de cuidados gerais com a pele, pode incluir adapaleno gel, peróxido de benzoíla, e em casos mais severos, associação com antibiótico tópico (clindamicina) e/ou oral (minociclina)18....
-
-• **Cardiovascular e Nutrição**12...:
-
-    ◦ **Hipertensão Arterial**: Diagnóstico com aferições de PA em múltiplas ocasiões. A condição clínica pode ser "pressão arterial elevada" ou "hipertensão estágio 1 ou 2" dependendo dos valores. O plano terapêutico inicial geralmente envolve reeducação alimentar e mudança do estilo de vida12....
-
-    ◦ **Avaliação Nutricional**: Utiliza escore Z de IMC para classificar como eutrofia, magreza, sobrepeso ou obesidade77....
-
-• **Hematologia**:
-
-    ◦ **Anemia**: Interpretação de hemograma (hemoglobina, hematócrito, VCM, CHCM, RDW). Pode sugerir deficiência de ferro, necessitando de correção dietética e administração de sulfato ferroso37....
-
-Guia de Estudo:
-
-Para um estudo eficaz com base nas provas, foque nos seguintes pontos para cada tema:
-
-• **Desenvolvimento Psicossocial e Emocional:**
-
-    ◦ **Conceitos**: Entender a "vivência temporal singular" e suas implicações.
-
-    ◦ **Transtorno de Conduta**: Saber os critérios de diagnóstico (clínicos) e as linhas gerais de tratamento (terapias, suporte familiar, quando medicar).
-
-    ◦ **Disforia de Gênero**: Compreender a indicação e o momento do bloqueio puberal, e a importância de uma abordagem ética e acolhedora.
-
-    ◦ **Bulimia Nervosa**: Memorizar os critérios diagnósticos chave (episódios de compulsão alimentar).
-
-    ◦ **Saúde Mental**: Reconhecer os sinais de autolesão e risco de suicídio e a conduta apropriada para abordagem e encaminhamento.
-
-• **Puberdade e Crescimento:**
-
-    ◦ **Estadiamento Tanner**: Correlacionar cada estágio (M, G, P) com as características físicas e o pico de crescimento/menarca.
-
-    ◦ **Puberdade Atrasada/Precoce**: Saber diferenciar e identificar as principais causas e condutas para cada uma.
-
-    ◦ **Ginecomastia Puberal**: Distinguir de outras causas e entender a conduta expectante, com indicação de cirurgia em casos específicos.
-
-    ◦ **Amenorreia Primária**: Conhecer as etiologias mais prováveis e a investigação diagnóstica inicial.
-
-    ◦ **Baixa Estatura**: Identificar o atraso constitucional do crescimento (achados clínicos e laboratoriais).
-
-• **Aspectos Éticos e Legais:**
-
-    ◦ **Sigilo Médico**: Saber _quando_ e _quando não_ a quebra do sigilo é autorizada, com foco nas situações de risco ao adolescente ou a terceiros.
-
-    ◦ **Vítimas de Violência Sexual**: Conhecer o protocolo completo de atendimento: acolhimento, direitos, notificação, profilaxias (ISTs, HIV, Hepatite B, tétano, HPV) e anticoncepção de emergência.
-
-• **Imunizações e Doenças Infecciosas:**
-
-    ◦ **Calendário Vacinal**: Revisar as vacinas indicadas para adolescentes (dT, SCR, Hepatite B, FA, HPV, Meningo ACWY) e seus esquemas de doses/intervalos no PNI.
-
-    ◦ **Tétano**: Saber a indicação de reforço e/ou imunoglobulina pós-exposição.
-
-    ◦ **ISTs**:
-
-        ▪ **Tricomoníase e Vaginose Bacteriana**: Conhecer as características clínicas do corrimento, os achados esperados em exames complementares (pH, teste de Whiff, microscopia) e a droga de escolha para tratamento (Metronidazol).
-
-        ▪ **Sífilis**: Entender a função dos testes treponêmicos e não treponêmicos no diagnóstico e monitoramento.
-
-• **Ortopedia:**
-
-    ◦ **Escoliose**: Associar o ângulo de Cobb com a conduta (órtese/fisioterapia vs. cirurgia).
-
-    ◦ **Epifisiólise**: Reconhecer a apresentação clínica e a urgência do tratamento cirúrgico.
-
-    ◦ **Osgood-Schlatter**: Saber a apresentação típica.
-
-• **Dermatologia:**
-
-    ◦ **Acne**: Conhecer as opções de tratamento tópico (adapaleno, peróxido de benzoíla) e as indicações para antibióticos tópicos e orais.
-
-• **Cardiovascular e Nutrição:**
-
-    ◦ **Hipertensão**: Entender os critérios diagnósticos e as medidas terapêuticas iniciais (mudança de estilo de vida).
-
-    ◦ **Avaliação Nutricional**: Interpretar escores Z de IMC.
-
-• **Hematologia**:
-
-    ◦ **Anemia**: Interpretar resultados de hemograma para suspeita de anemia ferropriva e conduta inicial.
 
 ---
 

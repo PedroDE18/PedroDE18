@@ -1,6 +1,6 @@
 2023-12-05 14:38
 Status: #🌱 
-Tags: [[Pediatria]], [[Obstetrícia]], [[Infectologia]]
+Tags: [[Pediatria (MOC)]], [[Obstetrícia]], [[Infectologia]]
 <br/>
 ## [[Sífilis]] Congênita
 - Doença crônica infectocontagiosa bacteriana

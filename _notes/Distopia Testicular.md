@@ -1,6 +1,6 @@
 2023-11-06 12:27
 Status: #🌱 
-Tags: [[Pediatria]], [[Urologia]], [[Cirurgia]]
+Tags: [[Pediatria (MOC)]], [[Urologia]], [[Cirurgia]]
 <br/>
 - Não apresentação de ao menos um testículo na bolsa escrotal
 	- Pode se resolver espontaneamente em até um 1a pós-parto (pp. se prematuro)

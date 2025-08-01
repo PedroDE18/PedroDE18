@@ -1,6 +1,6 @@
 2023-10-05 09:30
 Status: #🌱 
-Tags: [[Anestesiologia]], [[Pediatria]]
+Tags: [[Anestesiologia]], [[Pediatria (MOC)]]
 <br/>
 - Reservas funcionais menores
 - Desenvolvimento

@@ -1,6 +1,6 @@
 2024-06-10 14:52
 Status: #🌱 
-Tags: [[Reumatologia]], [[Pediatria]]
+Tags: [[Reumatologia]], [[Pediatria (MOC)]]
 <br/>
 - Artrite em crianças
 	- Se aguda, jamais

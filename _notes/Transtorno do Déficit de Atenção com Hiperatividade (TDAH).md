@@ -1,6 +1,6 @@
 2023-03-28 12:02
 Status: #🌱   
-Tags: [[Psiquiatria]], [[Psiquiatria Infantil e da Adolescência]], [[Pediatria]], [[Hebiatria]]
+Tags: [[Psiquiatria]], [[Psiquiatria Infantil e da Adolescência]], [[Pediatria (MOC)]], [[Hebiatria]]
 <br/>
 - T. mais frequente da infância
 	- 5 a 7% das crianças

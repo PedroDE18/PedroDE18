@@ -1,7 +1,18 @@
-2023-03-19 18:37
-Status: #🌱   
-Tags: [[Psiquiatria]], [[Emergências Psiquiátricas]]
-<br/>
+---
+type:
+  - Nota
+tags:
+  - Psiquiatria
+  - Emergência
+  - Hebiatria
+parent:
+  - "[[Psiquiatria]]"
+children:
+- "[[]]"
+aliases:
+- Tentativa de Suicídio
+- Ideação Suicida
+---
 ## Epidemiologia
 - 11 mil no Brasil/Ano
 - 4ª Maior causa de morte entre 15 e 29 anos
@@ -21,15 +32,19 @@ Tags: [[Psiquiatria]], [[Emergências Psiquiátricas]]
 - Ambivalência afetiva
 - Estreitamento de opções percebidas
 - Grande desafio na avaliação
-- Quebra de sigilo se há risco de vida
-- Ideação
-	- Morte como saída mas não planeja
-- Desejo
-	- Vontade de morrer tirando a própria vida
-- Planejamento
-	- Ideação e pensa em meios
+- Quebra de [[Sigilo Médico|sigilo]] se há risco de vida
+
+>[!info] Ideação
+> Morte como saída mas não planeja
+
+>[!info]  Desejo
+> Vontade de morrer tirando a própria vida
+
+>[!info] Planejamento
+> Ideação e pensa em meios
+
 ### Agravantes
-- Adolescência e Velhice
+- [[Hebiatria|Adolescência]] e [[Geriatria|Velhice]] 
 - Agitação
 - Alucinações
 - Comportamento criminoso
@@ -40,11 +55,10 @@ Tags: [[Psiquiatria]], [[Emergências Psiquiátricas]]
 - Epidemias de suicídio
 ## Comorbidades Clínicas e Psiquiátricas
 - Tratamento de doenças crônicas incapacitantes
-- Câncer
-	- [[Oncologia]]
+- [[Oncologia|Câncer]]
 - [[Epilepsia]], [[Esclerose Múltipla (EM)]], [[Demência]]
 - [[HIV-AIDS]]
-- Hemodiálise
+- [[Hemodiálise]]
 - [[Transtornos por uso de Substâncias]]
 - [[Transtornos do Humor]]
 	- [[Transtorno Depressivo Maior (TDM)]]
@@ -59,7 +73,10 @@ Tags: [[Psiquiatria]], [[Emergências Psiquiátricas]]
 	- Comportamento para-suicida
 		- Se fere mas sem desejo de morte
 
-
 ____
-# Referências
-
+# Compass
+- De onde vem?
+	- [[Psiquiatria]]
+- O que é similar?
+- O que é antagônico?
+- Ao que leva?

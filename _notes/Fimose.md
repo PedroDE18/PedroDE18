@@ -1,6 +1,6 @@
 2023-11-06 12:36
 Status: #🌱 
-Tags: [[Pediatria]], [[Urologia]], [[Cirurgia]]
+Tags: [[Pediatria (MOC)]], [[Urologia]], [[Cirurgia]]
 <br/>
 - Constrição do orifício da pele do prepúcio distal
 	- Enrijecimento

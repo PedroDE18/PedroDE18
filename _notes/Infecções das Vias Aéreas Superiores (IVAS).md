@@ -1,6 +1,6 @@
 2023-10-17 21:13
 Status: #🌱 
-Tags: [[Otorrinolaringologia (ORL)]], [[Atenção Primária em Saúde (APS)]], [[Pneumologia]], [[Pediatria]]
+Tags: [[Otorrinolaringologia (ORL)]], [[Atenção Primária em Saúde (APS)]], [[Pneumologia]], [[Pediatria (MOC)]]
 <br/>
 - Processos infecciosos das VAS virais ou bacterianos
 # Pediatria

@@ -1,6 +1,6 @@
 2024-06-08 18:13
 Status: #🌱 
-Tags: [[Reumatologia]], [[Pediatria]], [[Cardiologia]]
+Tags: [[Reumatologia]], [[Pediatria (MOC)]], [[Cardiologia]]
 <br/>
 - Complicação tardia (>10 dias) de uma [[Infecções das Vias Aéreas Superiores (IVAS)]] por [[Estreptococos]] β-Hemolíticos do Grupo A de Lancefield
 - Doença sistêmica de alta morbimortalidade

@@ -1,6 +1,6 @@
 2023-10-29 12:42
 Status: #🌱 
-Tags: [[Pediatria]], [[Emergência]]
+Tags: [[Pediatria (MOC)]], [[Emergência]]
 <br/>
 ## Avaliação Inicial
 - Sem tocar no paciente

@@ -1,6 +1,6 @@
 2023-11-30 21:18
 Status: #🌱 
-Tags: [[Oftalmologia]], [[Pediatria]]
+Tags: [[Oftalmologia]], [[Pediatria (MOC)]]
 <br/>
 ## [[Erros Refrativos]]
 - Epidemiologia --> Principal causa de cegueira e deficiência visual reversível

@@ -1,6 +1,6 @@
 2023-10-29 12:29
 Status: #🌱 
-Tags: [[Pediatria]], [[Atenção Primária em Saúde (APS)]], [[Medicina Legal]]
+Tags: [[Pediatria (MOC)]], [[Atenção Primária em Saúde (APS)]], [[Medicina Legal]]
 <br/>
 - "Violência" presume intencionalidade
 - Disque 100 --> Denúncia

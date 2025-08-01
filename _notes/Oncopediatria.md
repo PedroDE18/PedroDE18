@@ -1,6 +1,6 @@
 2023-12-05 12:03
 Status: #🌱 
-Tags:  [[Pediatria]], [[Oncologia]]
+Tags:  [[Pediatria (MOC)]], [[Oncologia]]
 <br/>
 - 3% dos casos de ca. são na faixa infantil
 	- ~35 crianças/dia

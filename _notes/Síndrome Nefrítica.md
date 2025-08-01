@@ -2,7 +2,7 @@
 Status: #🌱 
 Tags: [[Nefrologia]]
 <br/>
-# [[Pediatria]]
+# [[Pediatria (MOC)]]
 - Ligada a processo inflamatório
 	- Origem imune
 		- Logo, afeta ambos os rins
