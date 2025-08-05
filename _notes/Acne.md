@@ -1,7 +1,18 @@
-2023-03-25 20:15
-Status: #🌱   
-Tags: [[Dermatologia]], [[Estética]]
-<br/>
+---
+type:
+  - Note
+tags:
+  - Dermatologia
+  - Hebiatria
+  - Estética
+parent: 
+children:
+aliases:
+- Acne Vulgar
+- Acne Medicamentosa
+- Acne na Mulher Adulta
+- Espinhas
+---
 ## Acne Vulgar
 - Glândulas sebáceas
 	- Funções
