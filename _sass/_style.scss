@@ -87,6 +87,7 @@ a {
   padding: 0 0.1em;
   text-decoration: none;
   border-bottom: 1px solid $color-border;
+  background: $color-border;
   color: $color-accent;
   &:hover {
     color: white;
@@ -180,7 +181,7 @@ code {
   margin-bottom: 2rem;
  }
  #search-bar {
-  width: 100%;
+  width: auto;
   padding: 0.6rem 1rem;
   font-size: 1rem;
   border: 1px solid $color-border;
