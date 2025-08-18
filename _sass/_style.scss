@@ -103,8 +103,8 @@ a {
 }
 
 *:focus {
-  background: #ffe8bc !important;
-  color: black !important;
+  color: #ffe8bc !important;
+  background: black !important;
 }
 
 nav {
@@ -138,14 +138,15 @@ code {
 }
 
 .invalid-link {
-  color: #444444;
+  color: white;
   cursor: help;
-  background: #fafafa;
+  background: black;
   padding: 0 0.1em;
 }
 
 .invalid-link-brackets {
   color: #ccc;
+  background: black;
   cursor: help;
 }
 

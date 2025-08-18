@@ -7,7 +7,7 @@ permalink: /
 
 # Bem-Vindo!
 
-> Este é o meu repertório de anotações de medicina, organizado segundo o sistema Zettelkasten.
+> Este é o meu repertório de anotações, organizado segundo o sistema Zettelkasten.
 
 <!-- Search Bar -->
 <div class = "search-container">
