@@ -8,19 +8,19 @@ kanban-plugin: board
 
 - [ ] Associação de Variáveis contínuas / AUC com expressão
 - [ ] Usar AUC para variáveis contínuas
-- [ ] Tradução
 - [ ] Arrumar pós-teste
-- [ ] Eleger Revista
 - [ ] Adequar formatação
 
 
 ## Em Progresso
 
 - [ ] Clustering
+- [ ] Eleger Revista
 
 
 ## Concluídos
 
+- [ ] Tradução
 
 
 
