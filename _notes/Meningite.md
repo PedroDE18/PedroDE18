@@ -1,7 +1,18 @@
-2023-12-05 12:20
-Status: #🌱 
-Tags: [[Pediatria (MOC)]], [[Neurologia]], [[Infectologia]]
-<br/>
+---
+type:
+  - Nota
+tags:
+  - Neurologia
+  - Infectologia
+parent:
+  - "[[Neurologia]]"
+  - "[[Infectologia]]"
+children:
+- "[[Meningococcemia]]"
+aliases:
+- 
+---
+____
 - Inflamação (de origem predominantemente infecciosa) das [[Leptomeninges]] ([[Aracnóide-máter]] e [[Pia-máter]])
 ## Bacterianas
 - Se bacteriana --> Reação purulenta no [[Sistema Nervoso Central (SNC)]]
@@ -237,7 +248,13 @@ Tags: [[Pediatria (MOC)]], [[Neurologia]], [[Infectologia]]
 	- H. Influenza
 		- [[Rifampicina]] 20 mg/Kg 1x dia por 4 dias
 ____
-# Referências
----
-# Perguntas
+# Compass
+- De onde vem?
+	- [[Neurologia]]
+	- [[Infectologia]]
+- O que é similar?
+	- [[Leptomeninges]]
+- O que é antagônico?
+- Ao que leva?
+	- [[Meningococcemia]]
 

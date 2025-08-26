@@ -9,7 +9,7 @@ aliases:
 ---
 Essa nota organiza os principais temas de Pediatria, distribuídos por sistemas e áreas de interesse
 
-## 1. [[Neonatologia]]
+## 1. [[Neonatologia (MOC)]]
 - [[Prematuridade]]
 - [[Infecções Congênitas]]
 ## 2. Puericultura

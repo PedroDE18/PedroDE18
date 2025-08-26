@@ -1,7 +1,19 @@
-2023-12-05 14:38
-Status: #🌱 
-Tags: [[Pediatria (MOC)]], [[Obstetrícia]], [[Infectologia]]
-<br/>
+---
+type:
+  - Nota
+tags:
+  - Pediatria
+  - Neonatologia
+  - Infectologia
+  - TORCHS
+  - Obstetrícia
+parent:
+  - "[[Neonatologia (MOC)]]"
+children:
+- "[[]]"
+aliases:
+- TORCHS
+---
 ## [[Sífilis]] Congênita
 - Doença crônica infectocontagiosa bacteriana
 	- [[Treponema pallidum]]
@@ -265,7 +277,11 @@ Tags: [[Pediatria (MOC)]], [[Obstetrícia]], [[Infectologia]]
 	- Feito apenas na gestante e no RN com lesão nervosa
 	- Possível uso de [[Corticosteróides]] em caso de [[Hiperproteinorraquia]] e [[Coriorretinite]]
 ____
-# Referências
----
-# Perguntas
+# Compass
+- De onde vem?
+- O que é similar?
+- O que é antagônico?
+- Ao que leva?
+
+
 

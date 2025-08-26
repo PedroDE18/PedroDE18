@@ -2,24 +2,15 @@
 type:
   - Nota
 tags:
-  - 
+  - Metabolismo
+  - Neonatologia
 parent:
-  - "[[]]"
+  - "[[Neonatologia (MOC)]]"
 children:
-- "[[]]"
+  - "[[]]"
 aliases:
-- 
+  - 
 ---
-
-____
-# Compass
-- De onde vem?
-	- [[Neonatologia]]
-	- [[Endocrinologia]]
-- O que é similar?
-- O que é antagônico?
-- Ao que leva?
-
 ---
 #  [[Hipoglicemia]]
 - Incidência estimada entre 5-15% dos RNs
@@ -156,3 +147,14 @@ ____
 	- Exsanguíneotransfusão
 	- Diálise peritoneal
 - Sempre com monitorização cardíaca
+
+____
+# Compass
+- De onde vem?
+	- [[Neonatologia (MOC)]]
+	- [[Endocrinologia]]
+- O que é similar?
+	- [[Estado Hiperglicêmico Hiperosmolar (EEH)]]
+	- [[Cetoacidose Diabética (CAD)]]
+- O que é antagônico?
+- Ao que leva?
