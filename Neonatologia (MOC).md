@@ -21,3 +21,5 @@ ____
 - [[Asfixia Perinatal]]
 - [[Hemorragia Peri-Intraventricular]]
 - [[Reanimação Neonatal]]
+- [[Síndrome do Desconforto Respiratório (SDR)]]
+- [[Cardiopatias Congênitas]]
