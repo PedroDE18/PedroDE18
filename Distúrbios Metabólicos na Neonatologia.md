@@ -67,6 +67,7 @@ aliases:
 		- Push + Infusão
 			- 200 mg/kg push
 			- 5-8 mg/kg/minuto (80-100 mg/kg/dia)
+	- Gel de dextrose oral
 - Assintomático
 	- <4 HV
 		- <25 mg/dL
@@ -85,7 +86,6 @@ aliases:
 		- Ocreotide
 - Corticóides?
 	- Sem evidências de benefício de uso a menos que [[Insuficiência Adrenal]] Primária ou Secundária
-
 # Distúrbios do Cálcio
 - Transferência materno fetal de Ca2+ no 3o trimestre
 	- 150 mg/kg de cálcio elementar por dia

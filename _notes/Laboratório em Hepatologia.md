@@ -124,7 +124,7 @@ Tags: [[Gastroenterologia]], [[Hepatologia]]
 	- [[Síndrome de Crigler-Najjar]]
 	- Medicações
 	- Doença Hepatocelular
-	- [[Icterícia Fisiológica do Recém Nascido]]
+	- [[Icterícia no Recém Nascido#Icterícia Fisiológica|Icterícia Fisiológica do Recém Nascido]]
 ### BD
 - Aumento da Excreção Urinária
 	- [[Síndrome de Dubin-Johnson]]

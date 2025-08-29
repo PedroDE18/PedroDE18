@@ -15,7 +15,7 @@ aliases:
 ____
 - [[Prematuridade]]
 - [[Infecções Congênitas]]
-- [[Icterícia Fisiológica do Recém Nascido]]
+- [[Icterícia no Recém Nascido]]
 - [[Sepse Neonatal]]
 - [[Método Canguru]]
 - [[Asfixia Perinatal]]

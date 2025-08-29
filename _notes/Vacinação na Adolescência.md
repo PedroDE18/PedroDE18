@@ -25,7 +25,7 @@ A vacinação do adolescente é fundamental para reforçar imunidades adquiridas
 	- Foco na vacinação infantil --> Má receptividade na adolescência
 - Desconhecimento de status vacinal prévio
 	- Digitalização insipiente
-> [!attention] 
+> [!attention] Atenção
 > Não há necessidade de se realizar testagem pré-vacinação 
 
 ## Esquema vacinal recomendado
